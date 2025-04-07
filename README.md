@@ -37,8 +37,8 @@
 | Version | Fecha      | Autor                           | Descripción de Modificación                                                    |
 |---------|------------|---------------------------------|--------------------------------------------------------------------------------|
 | 0.0.1   | 04/04/2025 |  | Desarrollo Capítulo (1) APARTADO 1.1 - 1.2 - 1.3                               |
-| 0.0.2   | 04/04/2025 |        | Desarrollo Capítulo (2) APARTADO2.1 - 2.2 - 2.3                                |
-| 0.0.3   | 24/09/2024 |     | Desarrollo Capítulo (3) APARTADO 3.1 - 3.2 - 3.3 - 3.4                         |
+| 0.0.2   | 04/04/2025 |        | Desarrollo Capítulo (2) APARTADO 2.1 - 2.2 - 2.3 - 2.4                            |
+| 0.0.3   | 04/04/2025 |     | Desarrollo Capítulo (3) APARTADO 3.1 - 3.2 - 3.3 - 3.4                         |
 
 </center>
 
@@ -141,4 +141,80 @@ Monetización: KeepItFresh funciona mediante un modelo de suscripción mensual o
 ### 1.2.1. Antecedentes y problemática
 **Antecedentes:**
 
+
+Estudios recientes han analizado los factores que impulsan el desperdicio de alimentos en restaurantes informales de gama media, diferenciado entre el desperdicio generado por el cliente y el generado en la cocina. Una investigación en destinos turísticos de Lituania (Morkunas et al, 2025), empleo entrevistas con gerentes y un Proceso Analítico Jerárquico (AHP) difuso para priorizar las causas, revelando hallazgos clave:
+
+* Cliente: Destacaron el sentimiento de vergüenza, barrera lingüística, presentación inadecuada de platos tradicionales, tanto en destinos locales e internacionales.
+
+* Cocina: Asociado a fallas en la planificación de demanda, ineficiencias operativas y limitaciones en infraestructura de almacenamiento.
+
+Dicho estudio, propone soluciones adaptadas a cada factor identificado, ofreciendo un marco relevante para abordar problemáticas similares en contextos gastronómicos. 
+
 **Problematicas:**
+
+La gestión del inventario de un restaurante suele llegar a consumir muchos recursos y tiempo. Además también es muy complicado estar al tanto de la fecha de vencimiento por producto, al igual que la temperatura idónea de los mismos. También cuando un restaurante tiene una gran cantidad de clientela se le suele dificultar a los mozos darse cuenta cuando un cliente requiere de atención.
+
+
+**What**
+* El problema es la mala gestión del inventario en los restaurantes, lo que genera desperdicio de alimentos y un alto consumo de recursos debido al vencimiento de productos y a la falta de control eficiente.Además, el personal de atención enfrenta dificultades para identificar cuándo un cliente requiere asistencia, lo que puede afectar la calidad del servicio y la experiencia del cliente.
+
+**Why: ¿Por qué es importante que se gestione el inventario en los restaurantes?**
+
+**Who: ¿Quienes se ven afectados?**
+* Los dueños o gerentes y trabajadores de un restaurante.
+
+**When: ¿Cuándo sucede la problemática?**
+* La problemática sucede en cualquier momento del día, ya que los restaurantes operan constantemente y deben gestionar su inventario y atención al cliente en todo momento.
+
+**Where: ¿Dondé implementaríamos nuestra solución?**
+* En restaurantes nacionales e internacionales.
+
+**How: ¿Cómo ayudará nuestra solución?**
+
+**How much: ¿Cúanto costará?**
+
+### 1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+
+#### 1.2.2.2. Lean UX Assumptions
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+#### 1.2.2.4. Lean UX Canvas.
+
+## 1.3. Segmentos Objetivos
+
+# Capitulo II: Requeriments Elicitation & Analysis
+
+## 2.1. Competidores 
+
+### 2.1.1. Análisis competitivo
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+### 2.2.2. Registro de entrevistas
+### 2.2.3. Análisis de entrevistas
+
+## 2.3. Needfinding 
+
+### 2.3.1. User Personas
+### 2.3.2. User Task Matrix 
+### 2.3.3. User Journey Mapping
+### 2.3.4. Empathy Mapping
+### 2.3.5. As-Is Scenario Mapping
+
+## 2.4. Ubiquitous Language
+
+# Capitulo III: Requeriments Specification
+
+## 3.1. To-Be Scenario Mapping 
+## 3.2. User Stories
+
+### 3.2.1. Epics
+### 3.2.2. User Stories
+
+## 3.3. Impact Mapping
+## 3.4. Product Backlog
