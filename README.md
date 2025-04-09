@@ -138,26 +138,19 @@ Landing Page:
 [5.1. Software Configuration Management.](#51-software-configuration-management)  
 [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)  
 [5.1.2. Source Code Management.](#512-source-code-management)  
-[5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide-conventions)  
+[5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide--conventions)
 [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)  
 
-[5.2. Landing Page, Services & Applications Implementation.](#52-landing-page-services-applications-implementation)  
-[5.2.X. Sprint n.](#52x-sprint-n)  
-[5.2.X.1. Sprint Planning n.](#52x1-sprint-planning-n)  
-[5.2.X.2. Aspect Leaders and Collaborators.](#52x2-aspect-leaders-and-collaborators)  
-[5.2.X.3. Sprint Backlog n.](#52x3-sprint-backlog-n)  
-[5.2.X.4. Development Evidence for Sprint Review.](#52x4-development-evidence-for-sprint-review)  
-[5.2.X.5. Execution Evidence for Sprint Review.](#52x5-execution-evidence-for-sprint-review)  
-[5.2.X.6. Services Documentation Evidence for Sprint Review.](#52x6-services-documentation-evidence-for-sprint-review)  
-[5.2.X.7. Software Deployment Evidence for Sprint Review.](#52x7-software-deployment-evidence-for-sprint-review)  
-[5.2.X.8. Team Collaboration Insights during Sprint.](#52x8-team-collaboration-insights-during-sprint)  
-
-[5.3. Validation Interviews.](#53-validation-interviews)  
-[5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)  
-[5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)  
-[5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-segun-heuristicas)  
-
-[5.4. Video About-the-Product.](#54-video-about-the-product)  
+[5.2. Landing Page, Services & Applications Implementation.](#52-landing-page-services--applications-implementation)
+[5.2.1. Sprint n.](#521-sprint-n)  
+[5.2.1.1. Sprint Planning n.](#5211-sprint-planning-n)  
+[5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)  
+[5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)  
+[5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)  
+[5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)  
+[5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)  
+[5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)  
+[5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)  
 
 [Conclusiones](#conclusiones)  
 [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)  
@@ -288,67 +281,67 @@ La gestión del inventario de un restaurante suele llegar a consumir muchos recu
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
-### Capítulo IV: Product Design
+# Capítulo IV: Product Design
 
-#### 4.1. Style Guidelines
-##### 4.1.1. General Style Guidelines
-##### 4.1.2. Web Style Guidelines
+## 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines
+### 4.1.2. Web Style Guidelines
 
-#### 4.2. Information Architecture
-##### 4.2.1. Organization Systems
-##### 4.2.2. Labeling Systems
-##### 4.2.3. SEO Tags and Meta Tags
-##### 4.2.4. Searching Systems
-##### 4.2.5. Navigation Systems
+## 4.2. Information Architecture
+### 4.2.1. Organization Systems
+### 4.2.2. Labeling Systems
+### 4.2.3. SEO Tags and Meta Tags
+### 4.2.4. Searching Systems
+### 4.2.5. Navigation Systems
 
-#### 4.3. Landing Page UI Design
-##### 4.3.1. Landing Page Wireframe
-##### 4.3.2. Landing Page Mock-up
+## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe
+### 4.3.2. Landing Page Mock-up
 
-#### 4.4. Web Applications UX/UI Design
-##### 4.4.1. Web Applications Wireframes
-##### 4.4.2. Web Applications Wireflow Diagrams
-##### 4.4.3. Web Applications Mock-ups
-##### 4.4.4. Web Applications User Flow Diagrams
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
+### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.3. Web Applications Mock-ups
+### 4.4.4. Web Applications User Flow Diagrams
 
-#### 4.5. Web Applications Prototyping
+## 4.5. Web Applications Prototyping
 
-#### 4.6. Domain-Driven Software Architecture
-##### 4.6.1. Software Architecture Context Diagram
-##### 4.6.2. Software Architecture Container Diagrams
-##### 4.6.3. Software Architecture Components Diagrams
+## 4.6. Domain-Driven Software Architecture
+### 4.6.1. Software Architecture Context Diagram
+### 4.6.2. Software Architecture Container Diagrams
+### 4.6.3. Software Architecture Components Diagrams
 
-#### 4.7. Software Object-Oriented Design
-##### 4.7.1. Class Diagrams
-##### 4.7.2. Class Dictionary
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+### 4.7.2. Class Dictionary
 
-#### 4.8. Database Design
-##### 4.8.1. Database Diagram
+## 4.8. Database Design
+### 4.8.1. Database Diagram
 
-### Capítulo V: Product Implementation, Validation & Deployment
+# Capítulo V: Product Implementation, Validation & Deployment
 
-#### 5.1. Software Configuration Management
-##### 5.1.1. Software Development Environment Configuration
-##### 5.1.2. Source Code Management
-##### 5.1.3. Source Code Style Guide & Conventions
-##### 5.1.4. Software Deployment Configuration
+## 5.1. Software Configuration Management
+### 5.1.1. Software Development Environment Configuration
+### 5.1.2. Source Code Management
+### 5.1.3. Source Code Style Guide & Conventions
+### 5.1.4. Software Deployment Configuration
 
-#### 5.2. Landing Page, Services & Applications Implementation
-##### 5.2.1. Sprint n
-###### 5.2.1.1. Sprint Planning n
-###### 5.2.1.2. Aspect Leaders and Collaborators
-###### 5.2.1.3. Sprint Backlog n
-###### 5.2.1.4. Development Evidence for Sprint Review
-###### 5.2.1.5. Execution Evidence for Sprint Review
-###### 5.2.1.6. Services Documentation Evidence for Sprint Review
-###### 5.2.1.7. Software Deployment Evidence for Sprint Review
-###### 5.2.1.8. Team Collaboration Insights during Sprint
+## 5.2. Landing Page, Services & Applications Implementation
+### 5.2.1. Sprint n
+#### 5.2.1.1. Sprint Planning n
+#### 5.2.1.2. Aspect Leaders and Collaborators
+#### 5.2.1.3. Sprint Backlog n
+#### 5.2.1.4. Development Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 
-### Conclusiones
-#### Conclusiones y recomendaciones
+# Conclusiones
+## Conclusiones y recomendaciones
 
-### Video About-the-Team
+## Video About-the-Team
 
-### Bibliografía
+## Bibliografía
 
-### Anexos
+## Anexos
