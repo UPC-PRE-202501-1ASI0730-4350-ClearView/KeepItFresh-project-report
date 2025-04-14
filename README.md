@@ -312,7 +312,7 @@ KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 #### 1.2.2.4. Lean UX Canvas.
-
+![LeanUxCanvas](https://github.com/user-attachments/assets/f59e1c8c-d542-4dbd-9412-272a3ee30764)
 ## 1.3. Segmentos Objetivos
 
 # Capitulo II: Requeriments Elicitation & Analysis
