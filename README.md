@@ -368,6 +368,37 @@ Por otro lado, dado que hemos reconocido a nuestros posibles competidores, estos
 
 ### 2.2.1. Diseño de entrevistas
 
+A continuación, se presentan las preguntas para las entrevistas para ambos segmentos objetivo.
+
+Preguntas para los dueños de restaurantes:
+
+- Podría contarme un poco cómo funciona el restaurante día a día?
+- ¿Cuántas personas trabajan en cocina y cuántas en el salón?
+- ¿Tienen alguna herramienta para llevar el control del inventario? ¿Cómo lo hacen?
+- ¿Qué tan seguido revisan el stock (cantidad de productos en almacén)? 
+- ¿Cómo hacen para saber si un producto está por vencer o si necesita cierta temperatura? 
+- ¿Alguna vez han tenido problemas por productos vencidos o mal conservados? ¿Qué consecuencias tuvo? 
+- ¿Tiene alguna forma de prever esas situaciones? 
+- ¿Qué pasa cuando el restaurante está lleno? 
+- ¿Cómo manejan la atención al cliente en esos momentos? 
+- ¿Cómo se organiza el equipo para responder rápido ante emergencias? 
+- ¿Usan alguna tecnología para mejorar estos procesos? (Apps, sensores, tablets...)
+- Si existiera una herramienta que te ayude a automatizar el control de stock y también mejore la experiencia del cliente, ¿cómo la imaginas? 
+- ¿Qué características te parecerían más útiles o importantes? 
+- ¿Estarías dispuesto a probar algo así en tu restaurante?
+
+Preguntas para el segmento "Trabajadores de restaurantes"
+
+- ¿Qué tareas haces normalmente durante tu turno?
+- ¿Tenés que ver con el inventario o con revisar productos? ¿Cómo lo hacés?
+- ¿Con qué frecuencia revisas los productos en stock?
+- ¿Cómo se enteran si un producto está por vencerse?
+- ¿Alguna vez tuvieron que tirar algo porque se pasó la fecha o estaba mal conservado?
+- Cuando el restaurante está lleno, ¿cómo te das cuenta si un cliente necesita algo si no te llama directamente?
+- ¿Te pasó alguna vez que un cliente se molestó por no recibir atención a tiempo?
+- ¿Qué es lo más difícil de esos momentos de mucho trabajo?
+- ¿Cómo te imaginas que una app o sistema podría ayudarte a hacer tu trabajo más fácil?
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
