@@ -401,6 +401,90 @@ Preguntas para el segmento "Trabajadores de restaurantes"
 
 ### 2.2.2. Registro de entrevistas
 
+En esta sección se aborda la información recolectada de cada entrevista incluyendo un resumen de las respuestas de los entrevistados.
+
+Entrevistas del segmento de dueño de restaurante:
+
+- Entrevista 1
+
+| Nombre               | Luis       |
+|----------------------|------------|
+| Apellido             |   Agurto   |
+| Edad                 |  |
+| Distrito             |  |
+| Evidencia            |  |
+| Url                  |  |
+| Inicio de entrevista |  |    
+| Fin de entrevista    |  |
+
+Resumen de entrevista: Luis Agurto, fundador y gerente general de la cevichería "El Molinero", señaló durante la entrevista que le resultaría altamente beneficioso contar con una aplicación que facilite la gestión de inventario. Aunque actualmente utiliza un método propio para organizar sus productos y alimentos, considera que una solución tecnológica que automatice el control de stock, sugiera ubicaciones óptimas de almacenamiento, genere estadísticas predictivas como alertas sobre posibles faltantes y optimice el trabajo del personal de atención, sería ideal para mejorar la eficiencia operativa del restaurante. Luis nos comenta que le gustaría utilizar la aplicación porque sería algo distinto, innovador y podría facilitar todos los procesos.
+
+- Entrevista 2
+
+| Nombre               |  |
+|----------------------|------------|
+| Apellido             |  |
+| Edad                 |  |
+| Distrito             |  |
+| Evidencia            |  |
+| Url                  |  |
+| Inicio de entrevista |  |
+| Fin de entrevista    |  | 
+
+Resumen de entrevista: 
+
+- Entrevista 3
+
+| Nombre               |  |
+|----------------------|------------|
+| Apellido             |  |
+| Edad                 |  |
+| Distrito             |  |
+| Evidencia            |  |
+| Url                  |  |
+| Inicio de entrevista |  |
+| Fin de entrevista    |  | 
+
+Resumen de entrevista: 
+
+Entrevista del segmento trabajadores del restaurante
+
+| Nombre               |  |
+|----------------------|------------|
+| Apellido             |  |
+| Edad                 |  |
+| Distrito             |  |
+| Evidencia            |  |
+| Url                  |  |
+| Inicio de entrevista |  |
+| Fin de entrevista    |  | 
+
+Resumen de entrevista: 
+
+| Nombre               |  |
+|----------------------|------------|
+| Apellido             |  |
+| Edad                 |  |
+| Distrito             |  |
+| Evidencia            |  |
+| Url                  |  |
+| Inicio de entrevista |  |
+| Fin de entrevista    |  | 
+
+Resumen de entrevista: 
+
+| Nombre               |  |
+|----------------------|------------|
+| Apellido             |  |
+| Edad                 |  |
+| Distrito             |  |
+| Evidencia            |  |
+| Url                  |  |
+| Inicio de entrevista |  |
+| Fin de entrevista    |  | 
+
+Resumen de entrevista: 
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding 
