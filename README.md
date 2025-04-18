@@ -254,12 +254,110 @@ La gestión del inventario de un restaurante suele llegar a consumir muchos recu
 
 ### 2.1.1. Análisis competitivo
 
+<table>
+  <tr>
+    <th colspan="22">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="1">¿Por qué llevar a cabo el análisis?</td>
+    <td colspan="17">El objetivo de este análisis es conocer las diferencias entre los competidores que hay en el mercado actual.</td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td><img src="" alt="KeepItFresh"><br></td>
+    <td><img src="" alt="Restroworks"><br></td>
+    <td><img src="" alt="Odoo"/><br></td>
+    <td><img src="" alt="SolverMedia"/><br></td>
+</tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+  <tr>
+  <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td>KeepItFresh ofrece un software inteligente para gestionar el inventario de tu negocio. Brinda un control completo del estado de los productos almacenados, recomienda las mejores condiciones de conservación para los alimentos y, además, incluye un botón para llamar a los mozos de forma rápida y eficiente.</td>
+    <td>Restroworks ofrece un software con información de inventario en tiempo real para tomar decisiones más inteligentes </td>
+    <td>Oddo ofrece un software para comercio e inventario personalizado a pedido de sus clientes</td>
+    <td>SolverMedia ofrece un software para control de stacks, puede generar horarios y también realizar pedidos al proveedor</td>
+    </tr>
+<tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Enfocado en restaurantes criollos, cevicherías y pollerías.</td>
+    <td>Enfocado en negocios del sector gastronómico, especialmente cadenas de comida rápida y restaurantes.</td>
+    <td>Enfocado a negocios que buscan un software personalizado para sus restaurantes.</td>
+    <td>Enfocado en restaurantes, cafeterias y terminal punto de ventas en hotelería.</td>
+  </tr>
+  <tr>
+  <td>Estrategias de Marketing</td>
+    <td>Publicidad, posicionamiento de Landing page, redes sociales y entrevistas.</td>
+    <td>Posicionamiento de su Landing Page y colaboración con grandes empresas</td>
+    <td>Publicidad, posicionamiento de su Landing Page y entrevistas</td>
+    <td>Publicidad y posicionamiento de su Landing Page</td>
+    </tr>
+<tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos y Servicios</td>
+    <td>Software de manejo de inventario para restaurantes y análisis de datos de los productos alojados.</td>
+    <td>Ofrece una Plataforma de gestión de inventario y monitoreo en tiempo real.</td>
+    <td>Proporciona un software personalizado para el usuario.</td>
+    <td>Ofrece un software de control de stack, genera horarios para el equipo del restaurante y realiza pedidos al proveedor.</td>
+  </tr>
+  <tr>
+  <td>Precios y Costos</td>
+    <td>Suscripción de cada IOT para los restaurantes</td>
+    <td>El precio depende de la complejidad del software y hardware</td>
+    <td>El precio depende de la cotización del software</td>
+    <td>Suscripciones a partir de 5$ que ofrece una experiencia más extendida</td>
+    </tr>
+<td>Canales de distribución (Web y/o Móvil)</td>
+    <td>Web y móvil</td>
+    <td>Web y móvil</td>
+    <td>Web y móvil</td>
+    <td>Web</td>
+<tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Ofrecer tecnología IOT de sensores y una interfaz intuitiva para todo público.</td>
+    <td>Reconocimiento por empresas grandes y ofrece varias opciones personalizables.</td>
+    <td>Ser personalizable para el negocio que solicita su servicio.</td>
+    <td>Barato comparado a su competencia.</td>
+  </tr>
+  <tr>
+  <td>Debilidades</td>
+    <td>Poca experiencia en el mercado.</td>
+    <td>Mala administración de redes sociales (no promociona su marca).</td>
+    <td>Cubrir muchos sectores sin especializarse en uno.</td>
+    <td>La interfaz del software es muy complicada de entender.</td>
+    </tr>
+  <tr>
+<td>Oportunidades</td>
+    <td>El cliente puede ajustar la cantidad de dispositivos IOT que desee alquilar de acuerdo a su presupuesto</td>
+    <td>Colaboraciones estratégicas con cadenas reconocidas pueden aumentar presencia y consolidar su reputación internacional.</td>
+    <td>El sector gastronómico es diverso y extenso, ideal para escalar y captar múltiples tipos de clientes.</td>
+    <td>Ofrecer planes accesibles permitiendo llegar a pequeños negocios que no pueden costear soluciones costosas.</td>
+</tr>
+  <tr>
+<td>Amenazas</td>
+    <td>Competencia de empresas con mayor manejo y tiempo en el mercado</td>
+    <td>Problemas con plataformas externas pueden afectar la experiencia del cliente y generar desconfianza en usuarios.</td>
+    <td>Cambios en la demanda del mercado.</td>
+    <td>Competidores con alta experiencia en el mercado.</td>
+</tr>
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+
 ### 2.2.2. Registro de entrevistas
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding 
