@@ -498,6 +498,21 @@ Resumen de entrevista:
 <img src="assets/userpersona2.png">
 
 ### 2.3.2. User Task Matrix 
+
+| **Tareas**                                                           | **Daniel**<br>Frecuencia | **Daniel**<br>Importancia | **Javier**<br>Frecuencia | **Javier**<br>Importancia |
+|----------------------------------------------------------------------|---------------------------|----------------------------|--------------------------|----------------------------|
+| Atender y servir a los comensales                                    | Alta                      | Alta                       | Media                    | Alta                       |
+| Verificar disponibilidad de productos en el almacén                  | Media                     | Media                      | Alta                     | Alta                       |
+| Reportar falta de productos o incidentes con insumos                 | Alta                      | Alta                       | Alta                     | Alta                       |
+| Resolver quejas o problemas en sala                                  | Alta                      | Alta                       | Baja                     | Media                      |
+| Coordinar con cocina y almacén para sincronizar pedidos              | Alta                      | Alta                       | Media                    | Alta                       |
+| Administrar y supervisar inventario                                  | Baja                      | Media                      | Alta                     | Alta                       |
+| Registrar productos próximos a vencer o vencidos                     | Baja                      | Media                      | Alta                     | Alta                       |
+| Capacitar a personal en el uso del sistema de gestión                | Baja                      | Media                      | Media                    | Alta                       |
+| Revisar métricas sobre el consumo y stock de productos               | Baja                      | Media                      | Alta                     | Alta                       |
+| Sugerir productos del menú según disponibilidad                      | Alta                      | Alta                       | Media                    | Media                      |
+| Asegurar temperatura adecuada para insumos sensibles                 | Baja                      | Baja                       | Alta                     | Alta                       |
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 
