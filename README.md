@@ -69,7 +69,7 @@ Landing Page:
 
 [1.3. Segmentos objetivo.](#13-segmentos-objetivo)  
 
-[Capítulo II: Requirements Elicitation & Analysi](#capítulo-ii-requirements-elicitation--analysis)  
+[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)  
 
 [2.1. Competidores](#21-competidores)  
 [2.1.1. Análisis competitivo](#211-análisis-competitivo)  
@@ -89,7 +89,7 @@ Landing Page:
 
 [2.4. Ubiquitous Language](#24-ubiquitous-language)  
 
-[Capítulo III: Requirements Specificatio](#capítulo-iii-requirements-specification)  
+[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)  
 
 [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)    
 [3.2. User Stories](#32-user-stories)  
