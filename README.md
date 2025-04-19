@@ -265,9 +265,9 @@ La gestión del inventario de un restaurante suele llegar a consumir muchos recu
   <tr>
     <td colspan="2"></td>
     <td><img src="" alt="KeepItFresh"><br></td>
-    <td><img src="" alt="Restroworks"><br></td>
-    <td><img src="" alt="Odoo"/><br></td>
-    <td><img src="" alt="SolverMedia"/><br></td>
+    <td><img src="assets/restroworks.png" alt="Restroworks"><br></td>
+    <td><img src="assets/odoo.png" alt="Odoo"/><br></td>
+    <td><img src="assets/solvermedia.jpg" alt="SolverMedia"/><br></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -490,12 +490,54 @@ Resumen de entrevista:
 ## 2.3. Needfinding 
 
 ### 2.3.1. User Personas
+
+#### Segmento 1: Dueños de restaurantes.
+<img src="assets/userpersona1.png">
+
+#### Segmento 2: Empleados de restaurantes.
+<img src="assets/userpersona2.png">
+
 ### 2.3.2. User Task Matrix 
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
+
+#### Segmento 1: Dueños de restaurantes.
+
+<img src="assets/empathymap1.png">
+
+### Segmento 2: Empleados de restaurantes.
+
+<img src="assets/empathymap2.png">
+
 ### 2.3.5. As-Is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
+
+```
+RestaurantOwner (DueñoDelRestaurante): Persona encargada de la administración general del restaurante. Supervisa el inventario, el personal, la calidad del servicio y toma decisiones operativas clave.
+
+RestaurantStaff (PersonalDelRestaurante): Conjunto de trabajadores que incluyen mozos, cocineros, encargados de almacén, entre otros. Reciben tareas y ejecutan las operaciones diarias del restaurante.
+
+Product (Producto): Insumo alimenticio o material consumible utilizado en el restaurante, como carnes, verduras, condimentos, bebidas o productos de cocina. Cada producto puede tener una fecha de caducidad y condiciones de almacenamiento específicas.
+
+Inventory (Inventario): Conjunto de productos registrados y almacenados en el restaurante. Su correcta gestión evita pérdidas, desperdicio y garantiza disponibilidad.
+
+StorageUnit (UnidadDeAlmacenamiento): Espacio físico donde se conservan los productos. Puede ser una nevera, congelador, despensa o zona de temperatura controlada.
+
+ExpirationDate (FechaDeCaducidad): Fecha límite en la que un producto debe ser utilizado o descartado. Su control es clave para evitar pérdidas y riesgos sanitarios.
+
+ExpirationAlert (AlertaDeCaducidad): Notificación que indica que un producto está por vencer o ya ha vencido, para tomar acción inmediata.
+
+TemperatureMonitoring (MonitoreoDeTemperatura): Proceso que permite verificar que los productos almacenados están a la temperatura adecuada para preservar su calidad.
+
+RealTimeTracking (SeguimientoEnTiempoReal): Visualización instantánea del estado de los productos, inventario, alertas y condiciones de almacenamiento en todo momento.
+
+CustomerAttentionAlert (AlertaDeAtenciónAlCliente): Señal visual o notificación que permite al personal saber cuándo un cliente necesita atención.
+
+WaiterInterface (InterfazDelMozo): Herramienta que utilizan los mozos para recibir alertas, visualizar solicitudes de los clientes y gestionar su atención de forma organizada.
+
+```
+---
 
 # Capitulo III: Requeriments Specification
 
