@@ -36,9 +36,10 @@
 
 | Version | Fecha      | Autor                           | Descripción de Modificación                                                    |
 |---------|------------|---------------------------------|--------------------------------------------------------------------------------|
-| 0.0.1   | 04/04/2025 | Pedro Guia, Werner Lang, Ernesto Rodas | Desarrollo Capítulo (1) APARTADO 1.1 - 1.2 - 1.3                               |
-| 0.0.2   | 04/04/2025 | Ayrton Briceño | Desarrollo Capítulo (2) APARTADO 2.1 - 2.2 - 2.3 - 2.4                            |
-| 0.0.3   | 04/04/2025 |     | Desarrollo Capítulo (3) APARTADO 3.1 - 3.2 - 3.3 - 3.4                         |
+| 1.0   | 04/04/2025 | Pedro Guia, Werner Lang, Ernesto Rodas | Desarrollo Capítulo (1) APARTADO 1.1 - 1.2 - 1.3                               |
+| 1.1   | 10/04/2025 | Ayrton Briceño, Pedro Guia, Ernesto Rodas | Desarrollo Capítulo (2) APARTADO 2.1 - 2.2 - 2.3 - 2.4                            |
+| 1.2   | 16/04/2025 | Ayrton Briceño, Werner Lang | Desarrollo Capítulo (3) APARTADO 3.1 - 3.2 - 3.3 - 3.4                         |
+| 1.3   | 19/04/2025 | Ayrton Briceño, Werner Lang, Pedro Guia, Marco Nakasone, Ernesto Rodas | Desarrollo Capítulo (4) APARTADO 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8                         |
 
 </center>
 
