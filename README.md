@@ -514,6 +514,15 @@ Resumen de entrevista:
 | Asegurar temperatura adecuada para insumos sensibles                 | Baja                      | Baja                       | Alta                     | Alta                       |
 
 ### 2.3.3. User Journey Mapping
+
+#### Segmento 1: Dueños de restaurantes.
+
+<img src="assets/journey-map-dueños.png">
+
+### Segmento 2: Empleados de restaurantes.
+
+<img src="assets/journey-map-trabajadores.png">
+
 ### 2.3.4. Empathy Mapping
 
 #### Segmento 1: Dueños de restaurantes.
