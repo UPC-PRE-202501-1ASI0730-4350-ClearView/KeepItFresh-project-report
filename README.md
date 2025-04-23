@@ -413,7 +413,6 @@ Entrevistas del segmento de dueño de restaurante:
 | Edad                 |  |
 | Distrito             |  |
 | Evidencia            |  |
-| Url                  |  |
 | Inicio de entrevista |  |    
 | Fin de entrevista    |  |
 
@@ -427,7 +426,6 @@ Resumen de entrevista: Luis Agurto, fundador y gerente general de la cevichería
 | Edad                 |  |
 | Distrito             |  |
 | Evidencia            |  |
-| Url                  |  |
 | Inicio de entrevista |  |
 | Fin de entrevista    |  | 
 
@@ -449,29 +447,35 @@ Resumen de entrevista:
 
 Entrevista del segmento trabajadores del restaurante
 
+- Entrevista 4
+
+| Nombre               | Kaleb |
+|----------------------|------------|
+| Apellido             | Frias |
+| Edad                 | 21 |
+| Distrito             | San Miguel |
+| Evidencia            | <img src="assets/evidencia.png"> |
+| Inicio de entrevista |  |
+| Fin de entrevista    |  | 
+
+Resumen de entrevista: 
+
+Kaleb Frias trabaja en un restaurante atendiendo clientes, tomando pedidos y organizando el salón también apoya en la revisión de inventario especialmente bebidas e insumos controlando fechas de vencimiento una vez por semana y a diario para productos de alta rotación ha tenido que desechar productos vencidos en ocasiones durante alta demanda se guía por el lenguaje corporal del cliente para atenderlos y sugiere una app que avise cuando el cliente necesite algo y ayude con el control de stock en tiempo real.
+
+- Entrevista 5
+
 | Nombre               |  |
 |----------------------|------------|
 | Apellido             |  |
 | Edad                 |  |
 | Distrito             |  |
 | Evidencia            |  |
-| Url                  |  |
 | Inicio de entrevista |  |
 | Fin de entrevista    |  | 
 
 Resumen de entrevista: 
 
-| Nombre               |  |
-|----------------------|------------|
-| Apellido             |  |
-| Edad                 |  |
-| Distrito             |  |
-| Evidencia            |  |
-| Url                  |  |
-| Inicio de entrevista |  |
-| Fin de entrevista    |  | 
-
-Resumen de entrevista: 
+- Entrevista 6
 
 | Nombre               |  |
 |----------------------|------------|
