@@ -433,17 +433,19 @@ Resumen de entrevista:
 
 - Entrevista 3
 
-| Nombre               |  |
-|----------------------|------------|
-| Apellido             |  |
-| Edad                 |  |
-| Distrito             |  |
-| Evidencia            |  |
-| Url                  |  |
-| Inicio de entrevista |  |
-| Fin de entrevista    |  | 
+| Nombre               | Daniel   |
+|----------------------|----|
+| Apellido             | Céspedes   |
+| Edad                 | 54 años  |
+| Distrito             | Miami   |
+| Evidencia            |    |
+| Inicio de entrevista |    |    
+| Fin de entrevista    |    |
 
-Resumen de entrevista: 
+
+Resumen de entrevista:
+
+Daniel Céspedes, cofundador del restaurante de comida criolla en Miami "El pollo Inka", demostró un alto interés en los beneficios que este contaría con una aplicación o sistema que le ayude a gestionar su inventario. Este comenta que, a pesar de que ellos ya constan con un método para organizar varios de sus productos, esto suele consumir bastante tiempo por parte del personal, por lo cual una aplicación como esta le ayudaría bastante en distribuir mejor las horas para sus trabajadores. Asimismo, el entrevistado deja a remarcar lo importante que es la incorporación de estas tecnologías en cualquier tipo de negocio, y cómo estás ayudan a optimizar el gasto de recursos y tiempo.
 
 Entrevista del segmento trabajadores del restaurante
 
