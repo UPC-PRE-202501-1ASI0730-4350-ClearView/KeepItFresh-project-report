@@ -510,7 +510,44 @@ Características subjetivas:
 
 **Segmento 2:**
 **Meseros y/o cocineros de restaurantes**
-**Entrevistados**: Diego Ahane, 
+**Entrevistados**: Diego Ahane, Matthew Yonamine, Kaleb Frias. Cantidad 3/5 (60%) </br>
+Caracteristicas Objetivas
+
+- Participación en gestión de inventario: 3/3 (100%)
+
+- Frecuencia de revisión del inventario durante el día: 2/3 (66%)
+
+- Interacción directa con cocina y atención al cliente: 3/3 (100%)
+
+**Características subjetivas:**
+
+- Deseo de automatización para facilitar el trabajo: 3/3 (100%)
+
+- Necesidad de mejorar la coordinación entre cocina y servicio: 3/3 (100%)
+
+- Percepción de carga de trabajo o estrés por falta de tecnología: 3/3 (100%)
+
+**Conclusiones para construcción de arquetipos**
+
+**Arquetipo 1: El Administrador Estratégico.**
+
+**Perfil:** Propietario o gerente de restaurante.
+
+**Dolor principal:** Gestión manual del inventario, falta de análisis detallado de ventas.
+
+**Necesidades:** Plataforma que brinde control de inventario, estadísticas de productos más vendidos y sugerencias para optimizar el menú.
+
+**Motivación:** Optimización de recursos y mejora en la toma de decisiones.
+
+**Arquetipo 2:** El Operador Multifuncional.
+
+**Perfil:** Personal operativo (meseros o encargados de inventario).
+
+**Dolor principal:** Carga de trabajo alta, poca visibilidad del estado de pedidos, coordinación deficiente con cocina.
+
+**Necesidades:** Aplicación que automatice el control de stock, indique vigencia de productos, organice pedidos y comunique alertas de cocina.
+
+**Motivación:** Agilizar tareas diarias, reducir errores y evitar desplazamientos innecesarios.
 
 ## 2.3. Needfinding 
 
