@@ -407,11 +407,11 @@ Entrevistas del segmento de dueño de restaurante:
 
 - Entrevista 1
 
-| Nombre               | Luis       |
+| Nombre               |    Luis    |
 |----------------------|------------|
 | Apellido             |   Agurto   |
-| Edad                 |  |
-| Distrito             |  |
+| Edad                 |   34 años  |
+| Distrito             |  San Borja |
 | Evidencia            |  |
 | Inicio de entrevista |  |    
 | Fin de entrevista    |  |
