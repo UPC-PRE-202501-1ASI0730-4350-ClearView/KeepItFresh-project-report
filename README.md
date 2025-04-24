@@ -358,18 +358,247 @@ KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una 
 
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+**Typography**
+La tipografía es la forma en que se ven y se leen los textos, nos ayuda mejorando la legibilidad y la experiencia de usuario. Se eligieron estas tipografías por esa razón.
+
+**Head**
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/heding%20size.png?raw=true" width="50%"/>
+
+**Body**
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/body%20size.png?raw=true" width="50%"/>
+
+**Colors**
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/colors.png?raw=true" width="50%"/>
+
+**Spacing**
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/spacing.png?raw=true" width="50%"/>
+
+**Color Primario:** Decidimos que los tonos azules serían nuestro color primario ya que estos representan confianza, seguridad, orden y profesionalismo, características que debemos de mostrar por lo que nuestro proyecto se basa en la gestión y ordenamiento de inventarios.
+
+**Color Secundario:** El color turquesa y gris que pertenecen a nuestros tonos secundarios nos brindan un contraste entre los azules, haciendo que se resalten las ayudas visuales que tenemos en nuestra aplicación. 
+
+**Brand Overview**
+
+KeepItFresh es una plataforma de gestión de inventario que ayuda a controlar productos perecibles, reducir pérdidas y tomar decisiones rápidas con herramientas automatizadas y alertas inteligentes.
+
+**Brand Name**
+
+"KeepItFresh" mantener el inventario fresco, ordenado y bajo control. El término “fresh” no solo significa productos en buen estado, sino que también una buena gestión moderna, ágil y renovada.
+
+A continuación, se mostrará el logo de nuestra aplicación.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/logo.jpg?raw=true" width="50%"/>
+
 ### 4.1.2. Web Style Guidelines
+Desarrollaremos una plataforma digital que pueda usarse en cualquier dispositivo tecnológico, manteniendo el mismo diseño y estructura, para eso debemos tener en cuenta las cualidades de cada dispositivo para poder mantener un buen orden y diseño para todos los dispositivos. 
+
 
 ## 4.2. Information Architecture
+En este apartado nos vamos a centrar en el contenido visual y estilos que se usarán durante el desarrollo de nuestra aplicación web y landing page. 
+
 ### 4.2.1. Organization Systems
+
+**Menú:**
+- **Home:** En este apartado se muestra un mensaje que da a conocer la intenciones del producto.
+- **Team:** Apartado en donde se presenta a cada uno de los miembros de ClearView, con su descripción y rol en el equipo.
+- **About:** Apartado en donde se puede visualizar información sobre nuestro producto, nuestra esencia, y nuestra misión, visión, valores de nuestro equipo de trabajo. 
+- **Features:** En este apartado se podrán ver las características de nuestro proyecto, funcionalidades que va a tener nuestra aplicación web.
+- **Contact:** En este apartado los usuarios podrán contactárnos por si tienen algun tipo de duda o necesitan soporte.
+
+**Página Home:**
+- Se de a conocer las intenciones que tiene el producto, mediante una descripción corta.
+- Botón de acción: "Registrate ahora"
+
+**Página Team:**
+- Presentación del equipo completo a cargo del desarrollo del producto, que incluye una breve descripción, rol en el equipo, nombres, y fotos.
+
+**Página About:**
+- Se da a conocer nuestra esencia, nuestros valores, misión y visión de la organización.
+
+**Página Features:**
+- Se dan a conocer la principales funcionalidades del producto:
+  - Seguimiento en tiempo real
+  - Manejo de temperatura
+  - Alertas y notificaciones
+  - Gestión de inventario
+  - Llamado al mozo
+
+ **Página Contact:**
+ - Se visualizan los métodos de contacto:
+   - Nombre completo
+   - Correo electrónico
+   - Detalles
+
 ### 4.2.2. Labeling Systems
+Los sistemas de etiquetado sirven para **identificar**, **organizar**, y **rastrear** productos o elementos dentro de un inventario. En el contexto de una app de gestión de inventario como Keep It Fresh, su función principal incluye:
+- Asignar etiquetas únicas
+- Facilitar en el escaneo y registro rápido
+- Reducir errores
+- Mejorar la trazabilidad
+- Organizar físicamente el inventario
+
+**Emjemplos**
+- **Menú:** "Equipo", "Acerca", "Características", "Contacto".
+- **Secciones:**
+  - **Team:** Nombres y descripciones de los miembros del equipo: "Marco Nakasone", "Pedro Guia", "Werner Lang", "Ayrton Briceño", "Ernesto Rodas".
+  - **About:** "Nestra esencia", "misión", "visión", "valores".
+  - **Features:** "Seguimiento en tiempo real", "Manejo de temperatura", "Alertas y notificaciones", "Gestión de inventario", "Llamado al mozo".
+  - **Contact:**"Nombre completo", "Correo electrónico", "Detalles", "Enviar".
+ 
+  
 ### 4.2.3. SEO Tags and Meta Tags
+Aquí mostraremos los Meta Tagas y los SEO tags que hemos usado para poder desarrollar el landing page con el objetivo de que sea agradable para los usuarios.
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title data-i18n="meta.title">KeepItFresh | Optimiza tu restaurante con inteligencia</title>
+
+    <meta
+        name="description"
+        content="KeepItFresh es una solución inteligente para restaurantes que optimiza la gestión de inventario, temperatura y atención al cliente."
+        data-i18n="meta.description"
+    />
+
+    <meta
+        name="keywords"
+        content="KeepItFresh, gestión de restaurantes, inventario, temperatura, atención al cliente, tecnología para restaurantes"
+        data-i18n="meta.keywords"
+    />
+
+    <meta name="author" content="Equipo KeepItFresh" data-i18n="meta.author" />
+
+    <meta name="robots" content="index, follow" />
+
+    <meta
+        property="og:title"
+        content="KeepItFresh | Optimiza tu restaurante con inteligencia"
+        data-i18n="meta.og_title"
+    />
+    <meta
+        property="og:description"
+        content="Solución inteligente para gestión de inventario, temperatura y atención al cliente en restaurantes."
+        data-i18n="meta.og_description"
+    />
+    <meta property="og:image" content="https://tusitio.com/img/logo.png" />
+    <meta property="og:url" content="https://tusitio.com/" />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+        name="twitter:title"
+        content="KeepItFresh | Optimiza tu restaurante con inteligencia"
+        data-i18n="meta.twitter_title"
+    />
+    <meta
+        name="twitter:description"
+        content="Solución inteligente para restaurantes. Gestión de inventario, temperatura y más."
+        data-i18n="meta.twitter_description"
+    />
+    <meta name="twitter:image" content="https://tusitio.com/img/logo.png" />
+
+    <link rel="icon" href="img/logo.png" type="image/x-icon" />
+
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link
+        href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+        rel="stylesheet"
+    />
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+
+</head>
+```
+
 ### 4.2.4. Searching Systems
+Los Sistemas de Búsqueda permiten a los usuarios encontrar rápidamente productos específicos dentro del inventario usando filtros, palabras clave, categorías o códigos.
+
+Esto es útil para:
+
+- Ahorrar tiempo al localizar productos.
+- Encontrar ítems por nombre, tipo, fecha de ingreso, etc.
+- Apoyar decisiones rápidas sobre stock o caducidad.
+
+
 ### 4.2.5. Navigation Systems
+Los Sistemas de Navegación ayudan al usuario a moverse fácilmente por la interfaz de la aplicación.
+
+Incluyen menús, barras laterales, breadcrumbs, y enlaces que permiten:
+
+- Acceder intuitivamente a secciones como productos, reportes, o alertas.
+- Mejorar la experiencia de uso y reducir la curva de aprendizaje.
+- Guiar al usuario en flujos como registrar productos o revisar inventario.
+
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+**Landing Page para Desktop Web Browser**
+
+Esta es la vista en un navegador de escritorio de nuestra pagina, en donde podemos ver secciones como el menú, la pagina principal, el apartado de los miembros, la sección que contendrá la información general del equipo, la características que tendrá nuestra aplicación y por ultimo un formulario para que nos contacten los usuarios.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-1.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-2.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-3.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-4.png?raw=true" width="50%"/>
+
+**Landing Page para Mobile Web Browser**
+
+Esta es la vista en un navegador móvil de nuestra página, que tiene el mismo contenido solo que esta adaptado a las características que tiene un movil, es decir, la pantalla más pequeña.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-1.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-2.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-3.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-4.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-5.png?raw=true" width="50%"/>
+
 ### 4.3.2. Landing Page Mock-up
+
+**Landing Page para Desktop Web Browser**
+
+Gracias a los wireframes de la versión desktop pudimos ver cómo organizar de la mejor manera nuestra landing page, en base a eso se creó la versión mock-up de la landing page, en el que se aplican la paleta de colores y la tipografia que ya se mencionaron antes. 
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-1.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-2.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-3.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-4.png?raw=true" width="50%"/>
+
+**Landing Page para Mobile Web Browser**
+
+Igualmente gracias a los wireframes pudimos ver como quedaría en un mobile web browser, aquí se mantiene la estructura del diseño, la paleta de colores y la tipografia. Se adapta a la pantalla de los dispositivos móviles.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-1.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-2.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-3.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-4.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-5.png?raw=true" width="50%"/>
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
