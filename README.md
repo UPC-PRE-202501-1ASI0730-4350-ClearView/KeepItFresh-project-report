@@ -466,7 +466,8 @@ Kaleb Frias trabaja en un restaurante atendiendo clientes, tomando pedidos y org
 | Inicio de entrevista |  3:30 pm |
 | Fin de entrevista    |  3:40 pm | 
 
-Resumen de entrevista: 
+Resumen de entrevista:
+
 Matthew nos dió a conocer un poco sobre como es el hambiente laboral dentro de un resaturante, lo dificil es que a veces satisfacer a todos los clientes en horas donde el restaurante esta en "rush", tambien nos da su opinión positiva sobre nuestro producto. El como mozo si quisiera aumentar su eficiencia mediante la tecnología, con la ayuda de los botones que le comentamos en la entrevista, a la vez nos dió ideas sobre como se podrías mejorar tambien la atención al cliente, siempre desde su experiencia laboral. 
 
 - Entrevista 5
