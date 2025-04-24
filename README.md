@@ -663,38 +663,411 @@ WaiterInterface (InterfazDelMozo): Herramienta que utilizan los mozos para recib
 
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+**Typography**
+La tipografía es la forma en que se ven y se leen los textos, nos ayuda mejorando la legibilidad y la experiencia de usuario. Se eligieron estas tipografías por esa razón.
+
+**Head**
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/heding%20size.png?raw=true" width="50%"/>
+
+**Body**
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/body%20size.png?raw=true" width="50%"/>
+
+**Colors**
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/colors.png?raw=true" width="50%"/>
+
+**Spacing**
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/spacing.png?raw=true" width="50%"/>
+
+**Color Primario:** Decidimos que los tonos azules serían nuestro color primario ya que estos representan confianza, seguridad, orden y profesionalismo, características que debemos de mostrar por lo que nuestro proyecto se basa en la gestión y ordenamiento de inventarios.
+
+**Color Secundario:** El color turquesa y gris que pertenecen a nuestros tonos secundarios nos brindan un contraste entre los azules, haciendo que se resalten las ayudas visuales que tenemos en nuestra aplicación. 
+
+**Brand Overview**
+
+KeepItFresh es una plataforma de gestión de inventario que ayuda a controlar productos perecibles, reducir pérdidas y tomar decisiones rápidas con herramientas automatizadas y alertas inteligentes.
+
+**Brand Name**
+
+"KeepItFresh" mantener el inventario fresco, ordenado y bajo control. El término “fresh” no solo significa productos en buen estado, sino que también una buena gestión moderna, ágil y renovada.
+
+A continuación, se mostrará el logo de nuestra aplicación.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/logo.jpg?raw=true" width="50%"/>
+
 ### 4.1.2. Web Style Guidelines
+Desarrollaremos una plataforma digital que pueda usarse en cualquier dispositivo tecnológico, manteniendo el mismo diseño y estructura, para eso debemos tener en cuenta las cualidades de cada dispositivo para poder mantener un buen orden y diseño para todos los dispositivos. 
+
 
 ## 4.2. Information Architecture
+En este apartado nos vamos a centrar en el contenido visual y estilos que se usarán durante el desarrollo de nuestra aplicación web y landing page. 
+
 ### 4.2.1. Organization Systems
+
+**Menú:**
+- **Home:** En este apartado se muestra un mensaje que da a conocer la intenciones del producto.
+- **Team:** Apartado en donde se presenta a cada uno de los miembros de ClearView, con su descripción y rol en el equipo.
+- **About:** Apartado en donde se puede visualizar información sobre nuestro producto, nuestra esencia, y nuestra misión, visión, valores de nuestro equipo de trabajo. 
+- **Features:** En este apartado se podrán ver las características de nuestro proyecto, funcionalidades que va a tener nuestra aplicación web.
+- **Contact:** En este apartado los usuarios podrán contactárnos por si tienen algun tipo de duda o necesitan soporte.
+
+**Página Home:**
+- Se de a conocer las intenciones que tiene el producto, mediante una descripción corta.
+- Botón de acción: "Registrate ahora"
+
+**Página Team:**
+- Presentación del equipo completo a cargo del desarrollo del producto, que incluye una breve descripción, rol en el equipo, nombres, y fotos.
+
+**Página About:**
+- Se da a conocer nuestra esencia, nuestros valores, misión y visión de la organización.
+
+**Página Features:**
+- Se dan a conocer la principales funcionalidades del producto:
+  - Seguimiento en tiempo real
+  - Manejo de temperatura
+  - Alertas y notificaciones
+  - Gestión de inventario
+  - Llamado al mozo
+
+ **Página Contact:**
+ - Se visualizan los métodos de contacto:
+   - Nombre completo
+   - Correo electrónico
+   - Detalles
+
 ### 4.2.2. Labeling Systems
+Los sistemas de etiquetado sirven para **identificar**, **organizar**, y **rastrear** productos o elementos dentro de un inventario. En el contexto de una app de gestión de inventario como Keep It Fresh, su función principal incluye:
+- Asignar etiquetas únicas
+- Facilitar en el escaneo y registro rápido
+- Reducir errores
+- Mejorar la trazabilidad
+- Organizar físicamente el inventario
+
+**Emjemplos**
+- **Menú:** "Equipo", "Acerca", "Características", "Contacto".
+- **Secciones:**
+  - **Team:** Nombres y descripciones de los miembros del equipo: "Marco Nakasone", "Pedro Guia", "Werner Lang", "Ayrton Briceño", "Ernesto Rodas".
+  - **About:** "Nestra esencia", "misión", "visión", "valores".
+  - **Features:** "Seguimiento en tiempo real", "Manejo de temperatura", "Alertas y notificaciones", "Gestión de inventario", "Llamado al mozo".
+  - **Contact:**"Nombre completo", "Correo electrónico", "Detalles", "Enviar".
+ 
+  
 ### 4.2.3. SEO Tags and Meta Tags
+Aquí mostraremos los Meta Tagas y los SEO tags que hemos usado para poder desarrollar el landing page con el objetivo de que sea agradable para los usuarios.
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title data-i18n="meta.title">KeepItFresh | Optimiza tu restaurante con inteligencia</title>
+
+    <meta
+        name="description"
+        content="KeepItFresh es una solución inteligente para restaurantes que optimiza la gestión de inventario, temperatura y atención al cliente."
+        data-i18n="meta.description"
+    />
+
+    <meta
+        name="keywords"
+        content="KeepItFresh, gestión de restaurantes, inventario, temperatura, atención al cliente, tecnología para restaurantes"
+        data-i18n="meta.keywords"
+    />
+
+    <meta name="author" content="Equipo KeepItFresh" data-i18n="meta.author" />
+
+    <meta name="robots" content="index, follow" />
+
+    <meta
+        property="og:title"
+        content="KeepItFresh | Optimiza tu restaurante con inteligencia"
+        data-i18n="meta.og_title"
+    />
+    <meta
+        property="og:description"
+        content="Solución inteligente para gestión de inventario, temperatura y atención al cliente en restaurantes."
+        data-i18n="meta.og_description"
+    />
+    <meta property="og:image" content="https://tusitio.com/img/logo.png" />
+    <meta property="og:url" content="https://tusitio.com/" />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+        name="twitter:title"
+        content="KeepItFresh | Optimiza tu restaurante con inteligencia"
+        data-i18n="meta.twitter_title"
+    />
+    <meta
+        name="twitter:description"
+        content="Solución inteligente para restaurantes. Gestión de inventario, temperatura y más."
+        data-i18n="meta.twitter_description"
+    />
+    <meta name="twitter:image" content="https://tusitio.com/img/logo.png" />
+
+    <link rel="icon" href="img/logo.png" type="image/x-icon" />
+
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link
+        href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+        rel="stylesheet"
+    />
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+
+</head>
+```
+
 ### 4.2.4. Searching Systems
+Los Sistemas de Búsqueda permiten a los usuarios encontrar rápidamente productos específicos dentro del inventario usando filtros, palabras clave, categorías o códigos.
+
+Esto es útil para:
+
+- Ahorrar tiempo al localizar productos.
+- Encontrar ítems por nombre, tipo, fecha de ingreso, etc.
+- Apoyar decisiones rápidas sobre stock o caducidad.
+
+
 ### 4.2.5. Navigation Systems
+Los Sistemas de Navegación ayudan al usuario a moverse fácilmente por la interfaz de la aplicación.
+
+Incluyen menús, barras laterales, breadcrumbs, y enlaces que permiten:
+
+- Acceder intuitivamente a secciones como productos, reportes, o alertas.
+- Mejorar la experiencia de uso y reducir la curva de aprendizaje.
+- Guiar al usuario en flujos como registrar productos o revisar inventario.
+
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+**Landing Page para Desktop Web Browser**
+
+Esta es la vista en un navegador de escritorio de nuestra pagina, en donde podemos ver secciones como el menú, la pagina principal, el apartado de los miembros, la sección que contendrá la información general del equipo, la características que tendrá nuestra aplicación y por ultimo un formulario para que nos contacten los usuarios.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-1.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-2.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-3.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-4.png?raw=true" width="50%"/>
+
+**Landing Page para Mobile Web Browser**
+
+Esta es la vista en un navegador móvil de nuestra página, que tiene el mismo contenido solo que esta adaptado a las características que tiene un movil, es decir, la pantalla más pequeña.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-1.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-2.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-3.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-4.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-5.png?raw=true" width="50%"/>
+
 ### 4.3.2. Landing Page Mock-up
+
+**Landing Page para Desktop Web Browser**
+
+Gracias a los wireframes de la versión desktop pudimos ver cómo organizar de la mejor manera nuestra landing page, en base a eso se creó la versión mock-up de la landing page, en el que se aplican la paleta de colores y la tipografia que ya se mencionaron antes. 
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-1.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-2.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-3.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-4.png?raw=true" width="50%"/>
+
+**Landing Page para Mobile Web Browser**
+
+Igualmente gracias a los wireframes pudimos ver como quedaría en un mobile web browser, aquí se mantiene la estructura del diseño, la paleta de colores y la tipografia. Se adapta a la pantalla de los dispositivos móviles.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-1.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-2.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-3.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-4.png?raw=true" width="50%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-5.png?raw=true" width="50%"/>
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+Los wireframes de la plataforma web KeepItFresh muestran la estructura funcional pensada para ayudar a propietarios y gestores a mantener un control eficiente sobre su inventario con sensores inteligentes. Incluyen:
+
+- **Pantallas de Autenticación:** flujo de inicio de sesión, registro de usuarios y recuperación de contraseñas.
+
+- **Dashboard Principal:** vista central con el estado en tiempo real de sensores, resumen del inventario, alertas y reportes.
+
+- **Apartado Estadístico:** muestra datos sobre temperatura y niveles de gas de forma gráfica y comprensible.
+
+- **Gestión de Reportes:** sección dedicada a visualizar y exportar reportes, con una confirmación previa antes de descargar.
+
+- **Alertas de Productos:** notificaciones sobre el estado de los productos almacenados.
+
+- **Sistema de Suscripción:** validación de métodos de pago, confirmación de transacciones y formulario para registrar datos de tarjeta.
+
+Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la prevención de pérdidas y la toma de decisiones basada en datos.
+
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/pwf-1.png?raw=true" width="100%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/pwf-2.png?raw=true" width="100%"/>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+**User Goal:** Registrarme o iniciar sesión en KeepItFresh
+
+**Descripción:**
+
+Como dueño de restaurante, deseo crear una cuenta o iniciar sesión con mis credenciales, para acceder a las funcionalidades de la plataforma según mi rol.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/login.png?raw=true" width="100%"/>
+
+**User Goal:** Visualizar el estado de los sensores en tiempo real
+
+**Descripción:**
+
+Como dueño de restaurante, quiero ver los datos actualizados de temperatura y gas desde los sensores IoT, para monitorear las condiciones de mi inventario y asegurar su conservación.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/iot.png?raw=true" width="100%"/>
+
+**User Goal:** Registrar y consultar mi inventario
+
+**Descripción:**
+
+Como dueño de restaurante, deseo ingresar productos con su fecha de vencimiento y condiciones de almacenamiento, y consultar el inventario actualizado, para tomar mejores decisiones de compra y uso.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/gestion.png?raw=true" width="100%"/>
+
+**User Goal:** Ser notificado ante productos por vencer, bajo stock o condiciones no tan buenas
+
+**Descripción:**
+
+Como dueño de restaurante, deseo recibir alertas cuando un producto esté por vencer, el stock esté bajo, o condiciones no tan buneas para evitar pérdidas económicas y reponer a tiempo con la distribuidora.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/alerta.png?raw=true" width="100%"/>
+
+**User Goal:** Generar y exportar reportes
+
+**Descripción:**
+
+Como dueño de restaurante, deseo generar reportes de ventas y exportarlos en formatos PDF o Excel, para tener acceso a estos datos en mi formato preferido y compartirlos fácilmente.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/exportar.png?raw=true" width="100%"/>
+
 ### 4.4.3. Web Applications Mock-ups
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/pmu-1.png?raw=true" width="100%"/>
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/pmu-2.png?raw=true" width="100%"/>
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
+**Segmento Objetivo: Trabajadores**
+
+User Goal: Como trabajador, deseo iniciar sesión en KeepItFresh para acceder a las funciones disponibles.
+
+Descripción: El trabajador ingresa sus credenciales (correo y contraseña). Si los datos son correctos, podrá acceder al sistema y realizar sus tareas diarias, como gestionar inventarios y revisar alertas.
+
+User Goal: Como trabajador, deseo registrar los productos que han llegado al almacén.
+
+Descripción: El trabajador escanea los productos recibidos, ingresa los detalles del producto en el sistema y actualiza el inventario. Si el producto ya está en el sistema, se actualiza la cantidad disponible.
+
+User Goal: Como trabajador, deseo actualizar el estado de los productos en el inventario.
+
+Descripción: El trabajador puede acceder al inventario, buscar productos y editar la información relevante (por ejemplo, cantidad, fecha de vencimiento o ubicación en el almacén).
+
+User Goal: Como trabajador, deseo revisar las alertas de productos en el inventario.
+
+Descripción: El trabajador accede a la sección de alertas, donde puede ver productos con fechas de vencimiento próximas, temperaturas fuera de rango o productos que requieren atención especial.
+
+User Goal: Como trabajador, deseo realizar inventarios periódicos.
+
+Descripción: El trabajador realiza un conteo físico de los productos en el almacén y actualiza el sistema con los resultados del inventario para asegurar que los registros sean precisos.
+
+**Segmento Objetivo: Propietarios**
+
+User Goal: Como propietario, deseo iniciar sesión en KeepItFresh para gestionar el negocio.
+
+Descripción: El propietario ingresa sus credenciales para acceder a las herramientas administrativas, donde puede controlar la plataforma, ver estadísticas y gestionar usuarios y productos.
+
+User Goal: Como propietario, deseo ver estadísticas de ventas e inventario.
+
+Descripción: El propietario puede acceder a un panel de control con estadísticas sobre las ventas, productos más vendidos y la cantidad de productos disponibles en el inventario, ayudando en la toma de decisiones.
+
+User Goal: Como propietario, deseo agregar o eliminar productos en el catálogo.
+
+Descripción: Desde el panel de administración, el propietario puede agregar nuevos productos o eliminar los que ya no se venden. Esto permite mantener el catálogo actualizado y optimizar las ventas.
+
+User Goal: Como propietario, deseo revisar el desempeño de los empleados.
+
+Descripción: El propietario puede ver informes de las actividades realizadas por los empleados, como la gestión de inventarios, el manejo de alertas y las tareas completadas, para evaluar el rendimiento y la eficiencia.
+
+User Goal: Como propietario, deseo configurar alertas para el inventario.
+
+Descripción: El propietario puede configurar alertas automáticas sobre productos que necesiten reposición, productos con fechas de vencimiento cercanas o problemas en la cadena de suministro, para tomar acciones preventivas.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/flow.png?raw=true" width="100%"/>
+
 ## 4.5. Web Applications Prototyping
+Hemos hecho un bosquejo de nuestro prototipo de web en figma
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/Prototype.png?raw=true" width="100%"/>
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepItFresh.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4context.png?raw=true" width="100%"/>
+
 ### 4.6.2. Software Architecture Container Diagrams
+
+A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4container.png?raw=true" width="100%"/>
+
 ### 4.6.3. Software Architecture Components Diagrams
 
+A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica.
+
 ## 4.7. Software Object-Oriented Design
+Diagrama de componente de Customer Feedback
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsCustomer.png?raw=true" width="100%"/>
+
+Diagrama de componente de Inventory Monitoring
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsInventory.png?raw=true" width="100%"/>
+
+Diagrama de componente de Location and Environment
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsLocation.png?raw=true" width="100%"/>
+
+Diagrama de componente de Restaurant Operations
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsRestaurant.png?raw=true" width="100%"/>
+
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+<img src="assets/database.png" width="100%"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -705,15 +1078,268 @@ WaiterInterface (InterfazDelMozo): Herramienta que utilizan los mozos para recib
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint n
-#### 5.2.1.1. Sprint Planning n
+### 5.2.1. Sprint 1
+
+En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como el entorno de desarrollo.
+
+Repositorio GitHub: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-landing-page
+
+#### 5.2.1.1. Sprint Planning 1
+
+Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint  Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2025/04/07</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>5:40 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Ayrton Omar Briceño Llanos</td>
+        </tr>
+        <tr>
+            <td>Atendees (to  meeting)</td>
+            <td>
+                <li>Pedro Andre Guia Carrasco/li>
+                <li>Werner Khalil Lang Nassi</li>
+                <li>Marco Antonio Nakasone Gomes</li>
+                <li>Ernesto Rodas Sotomayor</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>
+                Este es el primer sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>
+                Acuerdo de la implementación de una primera versión del Landing Page  
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td style="text-align: justify">
+                <p>
+                Nuestro objetivo en este sprint es desarrollar la primera versión de la Landing Page de KeepItFresh, enfocándonos en una estructura que sea visualmente atractiva y fácil de navegar. Utilizando HTML, CSS y JavaScript, crearemos una interfaz responsive que se adapte de manera óptima a dispositivos móviles y de escritorio.
+                </p>
+                <p>
+                Creemos que esta Landing Page ofrecerá una introducción profesional y accesible a KeepItFreet, mejorando la experiencia de usuario y estableciendo una base sólida para la intecon el sistema. El éxito de este sprint se confirmará cuando los usuarios puedan explorar la Landing Page de manera fluida en distintos dispositivos, logrando una primera impresión positiva y una navegación sencilla que los motive a explorar más sobre el sistema.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>
+                8
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                8
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
-#### 5.2.1.3. Sprint Backlog n
+
+| Team Member (Last Name, First Name)       | GitHub Username | Aspect Name 1 (L/C) | Aspect Name 2 (L/C) |
+|-------------------------------------------|------------------|----------------------|----------------------|
+| Briceño Llanos, Ayrton Omar             | AyrtonBriceno    | L                    | C                    |
+| Guia Carrasco, Pedro Andre              | Pedrivizz           | L                    | C                    |
+| Lang Nassi, Werner Khalil             | 00WernerLang           | L                    | C                    |
+| Nakasone Gomes, Marco Antonio              | marquinho04           | L                    | C                    |
+| Rodas Sotomayor, Ernesto             | ernesto0710          | L                    | C                    |
+
+
+
+#### 5.2.1.3. Sprint Backlog 1
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US11 Alertas visuales en dashboard</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> Notificacion de la alerta.</td>
+    <td align="center">Cuando una alerta ocurra el usuario debe recibir una notificación. </td>
+    <td align="center"> 2</td>
+    <td align="center"> Marco Antonio Nakasone Gomes</td>
+    <td align="center">Todo</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Pop up de alerta</td>
+    <td align="center"> Debe aparecer un pop up en la pagina cuando una alerta ocurra.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Marco Antonio Nakasone Gomes</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Historial</td>
+    <td align="center"> El historia de alertas debe ser visible.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Marco Antonio Nakasone Gomes</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Resumen</td>
+    <td align="center"> Las alertas deben de contar con un resumen de los sucedido.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Marco Antonio Nakasone Gomes</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US01 Registro de usuario</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Registro</td>
+    <td align="center"> El usuario debe poder registrarse de forma correcta.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Marco Antonio Nakasone Gomes</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Security </td>
+    <td align="center"> En caso un usuario ya este registrado anteriormente, no se puede crear otra cuenta con sus credenciales. </td>
+    <td align="center"> 2</td>
+    <td align="center"> Marco Antonio Nakasone Gomes</td>
+    <td align="center"> Doing</td>
+  </tr>
+
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-landing-page </td>
+    <td align="center"> main</td>
+    <td align="center"> 0833c84</td>
+    <td align="center"> Primer avance del landing page</td>
+    <td align="center"> ---</td>
+    <td align="center"> 04/04/2025</td>
+  </tr>
+</table>
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+*Seccion de navegacion* : Nos ayudara a redirigirnos a secciones especificas de la lading page.
+![navBar](./assets/landing_page1.png)
+
+*Perfiles de integrantes* : Conoce los participantes de este proyecto.
+![profile](./assets/landing_page2.png)
+
+*Esencia* : Descubre nuestra esencia que satisfacera la solucion del problema.
+![solution](./assets/landing_page3.png)
+
+*Hazañas* : Conce la mision, vison y valores de esta empresa.
+![hazañas](./assets/landing_page4.png)
+
+*Caracteristicas* : Descubre las interesantes caracterisitcas de esta empresa.
+![feature](./assets/landing_page5.png)
+
+*Consulta* : Si necesitas ayuda, no dudes en dejar un mensaje.
+![message](./assets/landing_page6.png)
+
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "KeepItFresh"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/</td>
+    <td> Desplegar Landing Page de KeepItFresh</td>
+  </tr>
+</table>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde divimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra web. 
+
+**Link de la landing page desplegada:** https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/
+
+![GitHub-Pages](./assets/github_pages.png)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo ClearView.
+
+![Commits-landing](./assets/github_1.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
+
+![Contribuitors-landing](./assets/github_2.png)
+En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en la Landing Page.
+
+![Network-landing](./assets/github_3.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
 
 # Conclusiones
 ## Conclusiones y recomendaciones
