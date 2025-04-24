@@ -413,6 +413,7 @@ Entrevistas del segmento de dueño de restaurante:
 | Edad                 |   34 años  |
 | Distrito             |  San Borja |
 | Evidencia            |  |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista |  |    
 | Fin de entrevista    |  |
 
@@ -420,27 +421,15 @@ Resumen de entrevista: Luis Agurto, fundador y gerente general de la cevichería
 
 - Entrevista 2
 
-| Nombre               |  |
-|----------------------|------------|
-| Apellido             |  |
-| Edad                 |  |
-| Distrito             |  |
-| Evidencia            |  |
-| Inicio de entrevista |  |
-| Fin de entrevista    |  | 
-
-Resumen de entrevista: 
-
-- Entrevista 3
-
 | Nombre               | Daniel   |
-|----------------------|----|
-| Apellido             | Céspedes   |
+|----------------------|----------|
+| Apellido             | Céspedes |
 | Edad                 | 54 años  |
-| Distrito             | Miami   |
-| Evidencia            |    |
-| Inicio de entrevista |    |    
-| Fin de entrevista    |    |
+| Distrito             | Miami    |
+| Evidencia            |          |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL         |
+| Inicio de entrevista |          |    
+| Fin de entrevista    |          |
 
 
 Resumen de entrevista:
@@ -449,51 +438,77 @@ Daniel Céspedes, cofundador del restaurante de comida criolla en Miami "El poll
 
 Entrevista del segmento trabajadores del restaurante
 
-- Entrevista 4
+- Entrevista 3
 
-| Nombre               | Kaleb |
-|----------------------|------------|
-| Apellido             | Frias |
-| Edad                 | 21 |
-| Distrito             | San Miguel |
+| Nombre               | Kaleb                            |
+|----------------------|----------------------------------|
+| Apellido             | Frias                            |
+| Edad                 | 21                               |
+| Distrito             | San Miguel                       |
 | Evidencia            | <img src="assets/evidencia.png"> |
-| Inicio de entrevista |  |
-| Fin de entrevista    |  | 
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL                                 |
+| Inicio de entrevista |                                  |
+| Fin de entrevista    |                                  | 
 
 Resumen de entrevista: 
 
 Kaleb Frias trabaja en un restaurante atendiendo clientes, tomando pedidos y organizando el salón también apoya en la revisión de inventario especialmente bebidas e insumos controlando fechas de vencimiento una vez por semana y a diario para productos de alta rotación ha tenido que desechar productos vencidos en ocasiones durante alta demanda se guía por el lenguaje corporal del cliente para atenderlos y sugiere una app que avise cuando el cliente necesite algo y ayude con el control de stock en tiempo real.
 
-- Entrevista 5
+- Entrevista 4
 
-| Nombre               |  |
-|----------------------|------------|
-| Apellido             |  |
-| Edad                 |  |
-| Distrito             |  |
-| Evidencia            |  |
-| Inicio de entrevista |  |
-| Fin de entrevista    |  | 
+| Nombre               |   |
+|----------------------|---|
+| Apellido             |   |
+| Edad                 |   |
+| Distrito             |   |
+| Evidencia            |   |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL  |
+| Inicio de entrevista |   |
+| Fin de entrevista    |   | 
 
 Resumen de entrevista: 
 
-- Entrevista 6
+- Entrevista 5
 
-| Nombre               | Diego |
-|----------------------|------------|
-| Apellido             | Ahane |
-| Edad                 | 19 |
-| Distrito             | San Miguel |
+| Nombre               | Diego                                        |
+|----------------------|----------------------------------------------|
+| Apellido             | Ahane                                        |
+| Edad                 | 19                                           |
+| Distrito             | San Miguel                                   |
 | Evidencia            | <img src="assets/envidencia-entrevista6.png"> |
-| Url                  |  |
-| Inicio de entrevista |  |
-| Fin de entrevista    |  | 
+| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL                                            |
+| Inicio de entrevista |                                              |
+| Fin de entrevista    |                                              | 
 
 Resumen de entrevista: 
 
 Durante la entrevista, Diego, trabajador de un restaurante, explicó que una de sus principales tareas es verificar que los productos estén en buen estado y disponibles antes del inicio del servicio, priorizando aquellos de mayor rotación. Señaló que en horas de alta demanda, como el almuerzo o la cena, se generan situaciones de presión que afectan la eficiencia y la atención al cliente. Además, mencionó la dificultad de identificar productos próximos a vencer, lo que puede generar pérdidas. Destacó que una herramienta tecnológica que alerte automáticamente sobre fechas de caducidad y facilite la organización del trabajo sería de gran utilidad para optimizar tiempos, reducir desperdicios y mejorar la experiencia del cliente.
 
 ### 2.2.3. Análisis de entrevistas
+
+**Segmento 1:**
+**Propietarios y/o fundadores de restaurantes**
+**Entrevistados**: Luis Agurto, Daniel Céspedes Cantidad: 2/5 (33%)
+
+**Características objetivas:**
+
+- Experiencia en gestión de restaurantes: 2/2 (100%)
+
+- Uso de métodos manuales (papel/lápiz o propios): 2/2 (100%)
+
+- Deseo de automatizar la gestión de inventario: 2/2 (100%)
+
+Características subjetivas:
+
+- Valoración de la eficiencia operativa: 2/2 (100%)
+
+- Interés por análisis de datos y ventas: 2/2 (100%)
+
+- Actitud abierta a la innovación tecnológica: 2/2 (100%)
+
+**Segmento 2:**
+**Meseros y/o cocineros de restaurantes**
+**Entrevistados**: Diego Ahane, 
 
 ## 2.3. Needfinding 
 
