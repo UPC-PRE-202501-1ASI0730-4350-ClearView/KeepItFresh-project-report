@@ -424,6 +424,27 @@ KeepItFresh es una plataforma enfocada en los dos segmentos clave dentro de un r
 
 # Conclusiones
 ## Conclusiones y recomendaciones
+## Conclusiones
+
+El desarrollo del proyecto Keep It Fresh nos ha permitido validar gran parte de los supuestos planteados inicialmente respecto al comportamiento de nuestros segmentos objetivo: dueños de restaurantes y trabajadores operativos del rubro gastronómico. A partir de las entrevistas realizadas y el análisis de campo, confirmamos que existe una necesidad latente de optimizar el control de productos perecibles y los tiempos de preparación durante los picos de alta demanda. Este hallazgo respalda directamente los Problem Statements formulados sobre la pérdida de insumos por falta de monitoreo, y los retrasos operativos por ausencia de información anticipada.
+
+Los Assumptions relacionados con la disposición del personal a utilizar soluciones digitales de fácil acceso fueron en su mayoría validados, especialmente por parte del personal operativo, quienes demostraron apertura hacia herramientas que no interrumpan su flujo de trabajo. En cuanto a los Hypotheses Statements, se comprobó que una plataforma complementada con sensores IoT puede generar alertas eficientes que optimicen decisiones diarias, tanto en cocina como en gestión administrativa. Asimismo, se identificó que la visualización anticipada de vencimientos y horarios de mayor afluencia influye positivamente en la reducción del desperdicio y en la mejora del servicio al cliente.
+
+En relación a los criterios de éxito, se logró validar el valor percibido por los usuarios potenciales, la relevancia de las funcionalidades propuestas y la viabilidad técnica inicial del producto.
+
+## Recomendaciones
+
+Iteración de funcionalidades clave:
+Priorizar la validación de componentes como el dashboard de alertas, el calendario de vencimientos y los reportes automáticos para toma de decisiones rápidas, aplicando ciclos cortos de testeo con usuarios reales.
+
+Alianzas estratégicas para pruebas piloto:
+Establecer acuerdos con restaurantes independientes o pequeñas cadenas gastronómicas dispuestas a participar en pilotos controlados, lo que permitirá obtener retroalimentación directa en contextos reales de uso.
+
+Ampliación del roadmap:
+Incorporar progresivamente otras funcionalidades en el producto digital, como la predicción de demanda basada en históricos y la gestión inteligente de inventario, para evolucionar hacia un modelo más robusto e integral.
+
+Enfoque en escalabilidad y UX:
+A medida que se avance en la implementación técnica, mantener como prioridad el diseño centrado en el usuario, garantizando que la solución sea accesible, intuitiva y adaptable a distintos tamaños de operación.
 
 ## Video About-the-Team
 
