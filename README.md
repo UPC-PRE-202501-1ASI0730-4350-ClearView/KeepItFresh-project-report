@@ -431,4 +431,6 @@ KeepItFresh es una plataforma enfocada en los dos segmentos clave dentro de un r
 
 ## Bibliografía
 
+Bedoya-Perales, N. S., & Magro, G. P. D. (2021). Quantification of Food Losses and Waste in Peru: A Mass Flow Analysis along the Food Supply Chain. Sustainability, 13(5), 2807. https://doi.org/10.3390/su13052807
+
 ## Anexos
