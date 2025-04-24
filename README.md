@@ -309,9 +309,11 @@ La tipografía es la forma en que se ven y se leen los textos, nos ayuda mejoran
 **Color Secundario:** El color turquesa y gris que pertenecen a nuestros tonos secundarios nos brindan un contraste entre los azules, haciendo que se resalten las ayudas visuales que tenemos en nuestra aplicación. 
 
 **Brand Overview**
+
 KeepItFresh es una plataforma de gestión de inventario que ayuda a controlar productos perecibles, reducir pérdidas y tomar decisiones rápidas con herramientas automatizadas y alertas inteligentes.
 
 **Brand Name**
+
 "KeepItFresh" mantener el inventario fresco, ordenado y bajo control. El término “fresh” no solo significa productos en buen estado, sino que también una buena gestión moderna, ágil y renovada.
 
 A continuación, se mostrará el logo de nuestra aplicación.
@@ -323,11 +325,151 @@ Desarrollaremos una plataforma digital que pueda usarse en cualquier dispositivo
 
 
 ## 4.2. Information Architecture
+En este apartado nos vamos a centrar en el contenido visual y estilos que se usarán durante el desarrollo de nuestra aplicación web y landing page. 
+
 ### 4.2.1. Organization Systems
+
+**Menú:**
+- **Home:** En este apartado se muestra un mensaje que da a conocer la intenciones del producto.
+- **Team:** Apartado en donde se presenta a cada uno de los miembros de ClearView, con su descripción y rol en el equipo.
+- **About:** Apartado en donde se puede visualizar información sobre nuestro producto, nuestra esencia, y nuestra misión, visión, valores de nuestro equipo de trabajo. 
+- **Features:** En este apartado se podrán ver las características de nuestro proyecto, funcionalidades que va a tener nuestra aplicación web.
+- **Contact:** En este apartado los usuarios podrán contactárnos por si tienen algun tipo de duda o necesitan soporte.
+
+**Página Home:**
+- Se de a conocer las intenciones que tiene el producto, mediante una descripción corta.
+- Botón de acción: "Registrate ahora"
+
+**Página Team:**
+- Presentación del equipo completo a cargo del desarrollo del producto, que incluye una breve descripción, rol en el equipo, nombres, y fotos.
+
+**Página About:**
+- Se da a conocer nuestra esencia, nuestros valores, misión y visión de la organización.
+
+**Página Features:**
+- Se dan a conocer la principales funcionalidades del producto:
+  - Seguimiento en tiempo real
+  - Manejo de temperatura
+  - Alertas y notificaciones
+  - Gestión de inventario
+  - Llamado al mozo
+
+ **Página Contact:**
+ - Se visualizan los métodos de contacto:
+   - Nombre completo
+   - Correo electrónico
+   - Detalles
+
 ### 4.2.2. Labeling Systems
+Los sistemas de etiquetado sirven para **identificar**, **organizar**, y **rastrear** productos o elementos dentro de un inventario. En el contexto de una app de gestión de inventario como Keep It Fresh, su función principal incluye:
+- Asignar etiquetas únicas
+- Facilitar en el escaneo y registro rápido
+- Reducir errores
+- Mejorar la trazabilidad
+- Organizar físicamente el inventario
+
+**Emjemplos**
+- **Menú:** "Equipo", "Acerca", "Características", "Contacto".
+- **Secciones:**
+  - **Team:** Nombres y descripciones de los miembros del equipo: "Marco Nakasone", "Pedro Guia", "Werner Lang", "Ayrton Briceño", "Ernesto Rodas".
+  - **About:** "Nestra esencia", "misión", "visión", "valores".
+  - **Features:** "Seguimiento en tiempo real", "Manejo de temperatura", "Alertas y notificaciones", "Gestión de inventario", "Llamado al mozo".
+  - **Contact:**"Nombre completo", "Correo electrónico", "Detalles", "Enviar".
+ 
+  
 ### 4.2.3. SEO Tags and Meta Tags
+Aquí mostraremos los Meta Tagas y los SEO tags que hemos usado para poder desarrollar el landing page con el objetivo de que sea agradable para los usuarios.
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title data-i18n="meta.title">KeepItFresh | Optimiza tu restaurante con inteligencia</title>
+
+    <meta
+        name="description"
+        content="KeepItFresh es una solución inteligente para restaurantes que optimiza la gestión de inventario, temperatura y atención al cliente."
+        data-i18n="meta.description"
+    />
+
+    <meta
+        name="keywords"
+        content="KeepItFresh, gestión de restaurantes, inventario, temperatura, atención al cliente, tecnología para restaurantes"
+        data-i18n="meta.keywords"
+    />
+
+    <meta name="author" content="Equipo KeepItFresh" data-i18n="meta.author" />
+
+    <meta name="robots" content="index, follow" />
+
+    <meta
+        property="og:title"
+        content="KeepItFresh | Optimiza tu restaurante con inteligencia"
+        data-i18n="meta.og_title"
+    />
+    <meta
+        property="og:description"
+        content="Solución inteligente para gestión de inventario, temperatura y atención al cliente en restaurantes."
+        data-i18n="meta.og_description"
+    />
+    <meta property="og:image" content="https://tusitio.com/img/logo.png" />
+    <meta property="og:url" content="https://tusitio.com/" />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+        name="twitter:title"
+        content="KeepItFresh | Optimiza tu restaurante con inteligencia"
+        data-i18n="meta.twitter_title"
+    />
+    <meta
+        name="twitter:description"
+        content="Solución inteligente para restaurantes. Gestión de inventario, temperatura y más."
+        data-i18n="meta.twitter_description"
+    />
+    <meta name="twitter:image" content="https://tusitio.com/img/logo.png" />
+
+    <link rel="icon" href="img/logo.png" type="image/x-icon" />
+
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link
+        href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+        rel="stylesheet"
+    />
+    <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+
+</head>
+```
+
 ### 4.2.4. Searching Systems
+Los Sistemas de Búsqueda permiten a los usuarios encontrar rápidamente productos específicos dentro del inventario usando filtros, palabras clave, categorías o códigos.
+
+Esto es útil para:
+
+- Ahorrar tiempo al localizar productos.
+- Encontrar ítems por nombre, tipo, fecha de ingreso, etc.
+- Apoyar decisiones rápidas sobre stock o caducidad.
+
+
 ### 4.2.5. Navigation Systems
+Los Sistemas de Navegación ayudan al usuario a moverse fácilmente por la interfaz de la aplicación.
+
+Incluyen menús, barras laterales, breadcrumbs, y enlaces que permiten:
+
+- Acceder intuitivamente a secciones como productos, reportes, o alertas.
+- Mejorar la experiencia de uso y reducir la curva de aprendizaje.
+- Guiar al usuario en flujos como registrar productos o revisar inventario.
+
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
