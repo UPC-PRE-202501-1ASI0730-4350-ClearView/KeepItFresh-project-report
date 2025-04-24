@@ -600,7 +600,56 @@ Como dueño de restaurante, deseo generar reportes de ventas y exportarlos en fo
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+**Segmento Objetivo: Trabajadores**
+
+User Goal: Como trabajador, deseo iniciar sesión en KeepItFresh para acceder a las funciones disponibles.
+
+Descripción: El trabajador ingresa sus credenciales (correo y contraseña). Si los datos son correctos, podrá acceder al sistema y realizar sus tareas diarias, como gestionar inventarios y revisar alertas.
+
+User Goal: Como trabajador, deseo registrar los productos que han llegado al almacén.
+
+Descripción: El trabajador escanea los productos recibidos, ingresa los detalles del producto en el sistema y actualiza el inventario. Si el producto ya está en el sistema, se actualiza la cantidad disponible.
+
+User Goal: Como trabajador, deseo actualizar el estado de los productos en el inventario.
+
+Descripción: El trabajador puede acceder al inventario, buscar productos y editar la información relevante (por ejemplo, cantidad, fecha de vencimiento o ubicación en el almacén).
+
+User Goal: Como trabajador, deseo revisar las alertas de productos en el inventario.
+
+Descripción: El trabajador accede a la sección de alertas, donde puede ver productos con fechas de vencimiento próximas, temperaturas fuera de rango o productos que requieren atención especial.
+
+User Goal: Como trabajador, deseo realizar inventarios periódicos.
+
+Descripción: El trabajador realiza un conteo físico de los productos en el almacén y actualiza el sistema con los resultados del inventario para asegurar que los registros sean precisos.
+
+**Segmento Objetivo: Propietarios**
+
+User Goal: Como propietario, deseo iniciar sesión en KeepItFresh para gestionar el negocio.
+
+Descripción: El propietario ingresa sus credenciales para acceder a las herramientas administrativas, donde puede controlar la plataforma, ver estadísticas y gestionar usuarios y productos.
+
+User Goal: Como propietario, deseo ver estadísticas de ventas e inventario.
+
+Descripción: El propietario puede acceder a un panel de control con estadísticas sobre las ventas, productos más vendidos y la cantidad de productos disponibles en el inventario, ayudando en la toma de decisiones.
+
+User Goal: Como propietario, deseo agregar o eliminar productos en el catálogo.
+
+Descripción: Desde el panel de administración, el propietario puede agregar nuevos productos o eliminar los que ya no se venden. Esto permite mantener el catálogo actualizado y optimizar las ventas.
+
+User Goal: Como propietario, deseo revisar el desempeño de los empleados.
+
+Descripción: El propietario puede ver informes de las actividades realizadas por los empleados, como la gestión de inventarios, el manejo de alertas y las tareas completadas, para evaluar el rendimiento y la eficiencia.
+
+User Goal: Como propietario, deseo configurar alertas para el inventario.
+
+Descripción: El propietario puede configurar alertas automáticas sobre productos que necesiten reposición, productos con fechas de vencimiento cercanas o problemas en la cadena de suministro, para tomar acciones preventivas.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/flow.png?raw=true" width="100%"/>
+
 ## 4.5. Web Applications Prototyping
+Hemos hecho un bosquejo de nuestro prototipo de web en figma
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/Prototype.png?raw=true" width="100%"/>
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
