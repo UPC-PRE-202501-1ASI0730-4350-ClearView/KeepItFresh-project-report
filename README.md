@@ -224,6 +224,8 @@ La gestión del inventario de un restaurante suele llegar a consumir muchos recu
 * El problema es la mala gestión del inventario en los restaurantes, lo que genera desperdicio de alimentos y un alto consumo de recursos debido al vencimiento de productos y a la falta de control eficiente.Además, el personal de atención enfrenta dificultades para identificar cuándo un cliente requiere asistencia, lo que puede afectar la calidad del servicio y la experiencia del cliente.
 
 **Why: ¿Por qué es importante que se gestione el inventario en los restaurantes?**
+* La mala o dificultosa gestión de inventario en restaurantes se debe a la falta de herramientas adecuadas para monitorear y gestionar eficientemente el
+inventario, así como a la falta de visibilidad y datos concretos sobre el estado de los productos.
 
 **Who: ¿Quienes se ven afectados?**
 * Los dueños o gerentes y trabajadores de un restaurante.
@@ -236,7 +238,11 @@ La gestión del inventario de un restaurante suele llegar a consumir muchos recu
 
 **How: ¿Cómo ayudará nuestra solución?**
 
+* KeepItFresh facilitará el proceso de gestión de inventario mediante el monitoreo de los mismos gracias a sus modernos sensores conectados a la app.
+
 **How much: ¿Cúanto costará?**
+
+* KeepItFresh tendrá el alcance de resolver esta problemática a todo aquel restaurante que compre sus servicios.
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
