@@ -801,6 +801,84 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 #### 5.2.1.3. Sprint Backlog 1
 
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US11 Alertas visuales en dashboard</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> Notificacion de la alerta.</td>
+    <td align="center">Cuando una alerta ocurra el usuario debe recibir una notificación. </td>
+    <td align="center"> 2</td>
+    <td align="center"> Marco Antonio Nakasone Gomes</td>
+    <td align="center">Todo</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Pop up de alerta</td>
+    <td align="center"> Debe aparecer un pop up en la pagina cuando una alerta ocurra.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Marco Antonio Nakasone Gomes</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Historial</td>
+    <td align="center"> El historia de alertas debe ser visible.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Marco Antonio Nakasone Gomes</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Resumen</td>
+    <td align="center"> Las alertas deben de contar con un resumen de los sucedido.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Marco Antonio Nakasone Gomes</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US01 Registro de usuario</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Registro</td>
+    <td align="center"> El usuario debe poder registrarse de forma correcta.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Marco Antonio Nakasone Gomes</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Security </td>
+    <td align="center"> En caso un usuario ya este registrado anteriormente, no se puede crear otra cuenta con sus credenciales. </td>
+    <td align="center"> 2</td>
+    <td align="center"> Marco Antonio Nakasone Gomes</td>
+    <td align="center"> Doing</td>
+  </tr>
+
 
 
 #### 5.2.1.4. Development Evidence for Sprint Review
