@@ -573,6 +573,7 @@ Diagrama de componente de Restaurant Operations
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+<img src="assets/database.png" width="100%"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
