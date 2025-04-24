@@ -407,29 +407,29 @@ Entrevistas del segmento de dueño de restaurante:
 
 - Entrevista 1
 
-| Nombre               |    Luis    |
-|----------------------|------------|
-| Apellido             |   Agurto   |
-| Edad                 |   34 años  |
-| Distrito             |  San Borja |
-| Evidencia            |  |
+| Nombre               | Luis                                                                                                                                                                                                                                                                                                                        |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Agurto                                                                                                                                                                                                                                                                                                                      |
+| Edad                 | 34 años                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | San Borja                                                                                                                                                                                                                                                                                                                   |
+| Evidencia            | ![EntrevistaLuis.jpg](assets/EntrevistaLuis.jpg)                                                                                                                                                                                                                                                                            |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
-| Inicio de entrevista |  |    
-| Fin de entrevista    |  |
+| Inicio de entrevista | 00:00                                                                                                                                                                                                                                                                                                                       |    
+| Fin de entrevista    | 06:30                                                                                                                                                                                                                                                                                                                       |
 
 Resumen de entrevista: Luis Agurto, fundador y gerente general de la cevichería "El Molinero", señaló durante la entrevista que le resultaría altamente beneficioso contar con una aplicación que facilite la gestión de inventario. Aunque actualmente utiliza un método propio para organizar sus productos y alimentos, considera que una solución tecnológica que automatice el control de stock, sugiera ubicaciones óptimas de almacenamiento, genere estadísticas predictivas como alertas sobre posibles faltantes y optimice el trabajo del personal de atención, sería ideal para mejorar la eficiencia operativa del restaurante. Luis nos comenta que le gustaría utilizar la aplicación porque sería algo distinto, innovador y podría facilitar todos los procesos.
 
 - Entrevista 2
 
-| Nombre               | Daniel   |
-|----------------------|----------|
-| Apellido             | Céspedes |
-| Edad                 | 54 años  |
-| Distrito             | Miami    |
-| Evidencia            |          |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL         |
-| Inicio de entrevista |          |    
-| Fin de entrevista    |          |
+| Nombre               | Daniel                                                                                                                                                                                                                                                                                                                      |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Céspedes                                                                                                                                                                                                                                                                                                                    |
+| Edad                 | 54 años                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | Miami                                                                                                                                                                                                                                                                                                                       |
+| Evidencia            |                                                                                                                                                                                                                                                                                                                             |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
+| Inicio de entrevista | 14:43                                                                                                                                                                                                                                                                                                                       |    
+| Fin de entrevista    | 29:10                                                                                                                                                                                                                                                                                                                       |
 
 
 Resumen de entrevista:
@@ -440,15 +440,15 @@ Entrevista del segmento trabajadores del restaurante
 
 - Entrevista 3
 
-| Nombre               | Kaleb                            |
-|----------------------|----------------------------------|
-| Apellido             | Frias                            |
-| Edad                 | 21                               |
-| Distrito             | San Miguel                       |
-| Evidencia            | <img src="assets/evidencia.png"> |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL                                 |
-| Inicio de entrevista |                                  |
-| Fin de entrevista    |                                  | 
+| Nombre               | Kaleb                                                                                                                                                                                                                                                                                                                       |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Frias                                                                                                                                                                                                                                                                                                                       |
+| Edad                 | 21                                                                                                                                                                                                                                                                                                                          |
+| Distrito             | San Miguel                                                                                                                                                                                                                                                                                                                  |
+| Evidencia            | <img src="assets/evidencia.png">                                                                                                                                                                                                                                                                                            |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
+| Inicio de entrevista | 09:41                                                                                                                                                                                                                                                                                                                       |
+| Fin de entrevista    | 14:42                                                                                                                                                                                                                                                                                                                       | 
 
 Resumen de entrevista: 
 
@@ -456,15 +456,15 @@ Kaleb Frias trabaja en un restaurante atendiendo clientes, tomando pedidos y org
 
 - Entrevista 4
 
-| Nombre               | Matthew  |
-|----------------------|----------|
-| Apellido             | Yonamine |
-| Edad                 | 20 |
-| Distrito             |  Pueblo Libre |
-| Evidencia            |  <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/competitor-analysis/assets/entrevista-4.png?raw=true" width="50%">  |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL  |
-| Inicio de entrevista |  3:30 pm |
-| Fin de entrevista    |  3:40 pm | 
+| Nombre               | Matthew                                                                                                                                                                                                                                                                                                                |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Yonamine                                                                                                                                                                                                                                                                                                               |
+| Edad                 | 20                                                                                                                                                                                                                                                                                                                     |
+| Distrito             | Pueblo Libre                                                                                                                                                                                                                                                                                                           |
+| Evidencia            | <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/competitor-analysis/assets/entrevista-4.png?raw=true" width="50%">                                                                                                                                         |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
+| Inicio de entrevista | 29:11                                                                                                                                                                                                                                                                                                                  |
+| Fin de entrevista    | 39:10                                                                                                                                                                                                                                                                                                                  | 
 
 Resumen de entrevista:
 
@@ -472,15 +472,15 @@ Matthew nos dió a conocer un poco sobre como es el hambiente laboral dentro de 
 
 - Entrevista 5
 
-| Nombre               | Diego                                        |
-|----------------------|----------------------------------------------|
-| Apellido             | Ahane                                        |
-| Edad                 | 19                                           |
-| Distrito             | San Miguel                                   |
-| Evidencia            | <img src="assets/envidencia-entrevista6.png"> |
-| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL                                            |
-| Inicio de entrevista |                                              |
-| Fin de entrevista    |                                              | 
+| Nombre               | Diego                                                                                                                                                                                                                                                                                                                       |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Ahane                                                                                                                                                                                                                                                                                                                       |
+| Edad                 | 19                                                                                                                                                                                                                                                                                                                          |
+| Distrito             | San Miguel                                                                                                                                                                                                                                                                                                                  |
+| Evidencia            | <img src="assets/envidencia-entrevista6.png">                                                                                                                                                                                                                                                                               |
+| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
+| Inicio de entrevista | 06:30                                                                                                                                                                                                                                                                                                                       |
+| Fin de entrevista    | 09:40                                                                                                                                                                                                                                                                                                                       | 
 
 Resumen de entrevista: 
 
