@@ -1306,6 +1306,8 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 # Conclusiones
 ## Conclusiones y recomendaciones
 
+- El trabajo en equipo ha sido fundamental para avanzar en este proyecto. A lo largo de la primera entrega, hemos logrado establecer un entorno de colaboración inclusivo, donde todos los miembros pudieron aportar sus ideas y enfoques. La planificación de tareas y la asignación de responsabilidades han permitido un avance organizado, manteniendo el enfoque en los objetivos comunes. A través de la comunicación constante y la resolución conjunta de problemas, hemos alcanzado importantes avances que nos permiten estar alineados hacia el cumplimiento de nuestras metas. Este enfoque colaborativo ha sido clave para el desarrollo del proyecto y continuará siendo esencial en las próximas etapas.
+
 ## Video About-the-Team
 
 ## Bibliografía
