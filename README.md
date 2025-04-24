@@ -794,6 +794,77 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 
 
 #### 5.2.1.3. Sprint Backlog 1
+<table>
+   <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US18 Navegación por la Landing Page</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> menu con hipervinculos responsive</td>
+    <td align="center">Cada Hipervinculo debe de rediriguirte a una seccion especifica de la landing page </td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> menu de navegacion mobile</td>
+    <td align="center"> Se debe desarrollar el menu mobile, haciendo uso de un icono que despliegue los hipervinculos</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Hero</td>
+    <td align="center"> Se debe desarrollar un banner con una frase y un botón call to action que permita dirigirnos a la aplicación web.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Mateo del Castillo Bueno</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Hero responsive</td>
+    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Daniel Mateo del Castillo Bueno</td>
+    <td align="center">Done</td>
+  </tr>
+  <!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US22 Consulta de reseñas de clientes</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Reseñas</td>
+    <td align="center"> Se desarrolla secion donde se muestra comentarios de las experiencias de los usuarios de la plataforma web</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena </td>
+    <td align="center"> Done</td>
+  </tr>
+  
+</table>
+
 #### 5.2.1.4. Development Evidence for Sprint Review
 
 <table>
