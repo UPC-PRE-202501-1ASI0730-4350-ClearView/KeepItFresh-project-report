@@ -70,7 +70,7 @@ Landing Page:
 
 [1.3. Segmentos objetivo.](#13-segmentos-objetivo)  
 
-[Capítulo II: Requirements Elicitation & Analysi](#capítulo-ii-requirements-elicitation--analysis)  
+[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)  
 
 [2.1. Competidores](#21-competidores)  
 [2.1.1. Análisis competitivo](#211-análisis-competitivo)  
@@ -90,7 +90,7 @@ Landing Page:
 
 [2.4. Ubiquitous Language](#24-ubiquitous-language)  
 
-[Capítulo III: Requirements Specificatio](#capítulo-iii-requirements-specification)  
+[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)  
 
 [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)    
 [3.2. User Stories](#32-user-stories)  
@@ -333,23 +333,362 @@ KeepItFresh es una plataforma enfocada en los dos segmentos clave dentro de un r
 
 ### 2.1.1. Análisis competitivo
 
+<table>
+  <tr>
+    <th colspan="22">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="1">¿Por qué llevar a cabo el análisis?</td>
+    <td colspan="17">El objetivo de este análisis es conocer las diferencias entre los competidores que hay en el mercado actual.</td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td><img src="" alt="KeepItFresh"><br></td>
+    <td><img src="assets/restroworks.png" alt="Restroworks"><br></td>
+    <td><img src="assets/odoo.png" alt="Odoo"/><br></td>
+    <td><img src="assets/solvermedia.jpg" alt="SolverMedia"/><br></td>
+</tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+  <tr>
+  <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td>KeepItFresh ofrece un software inteligente para gestionar el inventario de tu negocio. Brinda un control completo del estado de los productos almacenados, recomienda las mejores condiciones de conservación para los alimentos y, además, incluye un botón para llamar a los mozos de forma rápida y eficiente.</td>
+    <td>Restroworks ofrece un software con información de inventario en tiempo real para tomar decisiones más inteligentes </td>
+    <td>Oddo ofrece un software para comercio e inventario personalizado a pedido de sus clientes</td>
+    <td>SolverMedia ofrece un software para control de stacks, puede generar horarios y también realizar pedidos al proveedor</td>
+    </tr>
+<tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Enfocado en restaurantes criollos, cevicherías y pollerías.</td>
+    <td>Enfocado en negocios del sector gastronómico, especialmente cadenas de comida rápida y restaurantes.</td>
+    <td>Enfocado a negocios que buscan un software personalizado para sus restaurantes.</td>
+    <td>Enfocado en restaurantes, cafeterias y terminal punto de ventas en hotelería.</td>
+  </tr>
+  <tr>
+  <td>Estrategias de Marketing</td>
+    <td>Publicidad, posicionamiento de Landing page, redes sociales y entrevistas.</td>
+    <td>Posicionamiento de su Landing Page y colaboración con grandes empresas</td>
+    <td>Publicidad, posicionamiento de su Landing Page y entrevistas</td>
+    <td>Publicidad y posicionamiento de su Landing Page</td>
+    </tr>
+<tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos y Servicios</td>
+    <td>Software de manejo de inventario para restaurantes y análisis de datos de los productos alojados.</td>
+    <td>Ofrece una Plataforma de gestión de inventario y monitoreo en tiempo real.</td>
+    <td>Proporciona un software personalizado para el usuario.</td>
+    <td>Ofrece un software de control de stack, genera horarios para el equipo del restaurante y realiza pedidos al proveedor.</td>
+  </tr>
+  <tr>
+  <td>Precios y Costos</td>
+    <td>Suscripción de cada IOT para los restaurantes</td>
+    <td>El precio depende de la complejidad del software y hardware</td>
+    <td>El precio depende de la cotización del software</td>
+    <td>Suscripciones a partir de 5$ que ofrece una experiencia más extendida</td>
+    </tr>
+<td>Canales de distribución (Web y/o Móvil)</td>
+    <td>Web y móvil</td>
+    <td>Web y móvil</td>
+    <td>Web y móvil</td>
+    <td>Web</td>
+<tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Ofrecer tecnología IOT de sensores y una interfaz intuitiva para todo público.</td>
+    <td>Reconocimiento por empresas grandes y ofrece varias opciones personalizables.</td>
+    <td>Ser personalizable para el negocio que solicita su servicio.</td>
+    <td>Barato comparado a su competencia.</td>
+  </tr>
+  <tr>
+  <td>Debilidades</td>
+    <td>Poca experiencia en el mercado.</td>
+    <td>Mala administración de redes sociales (no promociona su marca).</td>
+    <td>Cubrir muchos sectores sin especializarse en uno.</td>
+    <td>La interfaz del software es muy complicada de entender.</td>
+    </tr>
+  <tr>
+<td>Oportunidades</td>
+    <td>El cliente puede ajustar la cantidad de dispositivos IOT que desee alquilar de acuerdo a su presupuesto</td>
+    <td>Colaboraciones estratégicas con cadenas reconocidas pueden aumentar presencia y consolidar su reputación internacional.</td>
+    <td>El sector gastronómico es diverso y extenso, ideal para escalar y captar múltiples tipos de clientes.</td>
+    <td>Ofrecer planes accesibles permitiendo llegar a pequeños negocios que no pueden costear soluciones costosas.</td>
+</tr>
+  <tr>
+<td>Amenazas</td>
+    <td>Competencia de empresas con mayor manejo y tiempo en el mercado</td>
+    <td>Problemas con plataformas externas pueden afectar la experiencia del cliente y generar desconfianza en usuarios.</td>
+    <td>Cambios en la demanda del mercado.</td>
+    <td>Competidores con alta experiencia en el mercado.</td>
+</tr>
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+Desarrollar estrategias y tácticas efectivas para enfrentar a nuestros competidores requiere de un enfoque cuidadoso y planificado. A continuación, se presentan algunas estrategias y tácticas que podrían ser consideradas para tener una ventaja competitiva frente a otras alternativas:
+
+1.	Implementación de tecnología IOT: Utilizamos sensores IOT para ofrecer un monitore continuo de el estado de los alimentos que hay en el almacenamiento del restaurante y también le damos la oportunidad al cliente de decider cuantos sensores desea de acuerdo a su presupuesto.
+2.	Enfoque en la experiencia para el usuario: Desarrollar una interfaz simple y fácil de entender para que el usuario no tenga dificultades en entenderla y pueda usarla sin problemas.
+3.	Mantenimiento y mejoras en la aplicación: Mantener un ritmo constante en las actualizaciones para mejorar y arreglar la aplicación es esencial para que el usuario tenga la mejor experiencia posible y esto lo haremos recopilando información de errores y quejas de los usuarios.
+
+Por otro lado, dado que hemos reconocido a nuestros posibles competidores, estos son nuestras estrategias específicas para Restroworks, Odoo y SolverMedia.
+
+1.	Frente a Restroworks: A diferencia de Restroworks, KeepItFresh estará diseñado para negocios pequeños y medianos como pollerías, cevicherías, etc. Y ofrecerá planes económicos que sean aptos para todo público, además, con nuestra tecnología IOT podrá monitorear el estado, caducidad y temperatura de los productos y también tendrá un soporte personalizado para el usuario y una interfaz fácil de manejar.
+2.	Frente a Odoo: KeepItFresh planea tener un mercado objetivo más claro que Odoo ya que ellos trabajan en varios campos y esto no les permite brindar un software completo para lo que quieren los usuarios, de esta manera tendremos un mejor manejo en el mercado de los restaurantes a comparación de Odoo ya que KeepItFresh ofrece ayuda para los cocineros, mozos y clientes.
+3. Frente a SolverMedia: Se realizará una landing page y una aplicación con interfaz fácil de entender y manejar además de brindarle un soporte 24/7 al cliente para cualquier duda o error con la aplicación, de estar forma se mantendrá un público satisfecho con la app.
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+
+A continuación, se presentan las preguntas para las entrevistas para ambos segmentos objetivo.
+
+Preguntas para los dueños de restaurantes:
+
+- Podría contarme un poco cómo funciona el restaurante día a día?
+- ¿Cuántas personas trabajan en cocina y cuántas en el salón?
+- ¿Tienen alguna herramienta para llevar el control del inventario? ¿Cómo lo hacen?
+- ¿Qué tan seguido revisan el stock (cantidad de productos en almacén)? 
+- ¿Cómo hacen para saber si un producto está por vencer o si necesita cierta temperatura? 
+- ¿Alguna vez han tenido problemas por productos vencidos o mal conservados? ¿Qué consecuencias tuvo? 
+- ¿Tiene alguna forma de prever esas situaciones? 
+- ¿Qué pasa cuando el restaurante está lleno? 
+- ¿Cómo manejan la atención al cliente en esos momentos? 
+- ¿Cómo se organiza el equipo para responder rápido ante emergencias? 
+- ¿Usan alguna tecnología para mejorar estos procesos? (Apps, sensores, tablets...)
+- Si existiera una herramienta que te ayude a automatizar el control de stock y también mejore la experiencia del cliente, ¿cómo la imaginas? 
+- ¿Qué características te parecerían más útiles o importantes? 
+- ¿Estarías dispuesto a probar algo así en tu restaurante?
+
+Preguntas para el segmento "Trabajadores de restaurantes"
+
+- ¿Qué tareas haces normalmente durante tu turno?
+- ¿Tenés que ver con el inventario o con revisar productos? ¿Cómo lo hacés?
+- ¿Con qué frecuencia revisas los productos en stock?
+- ¿Cómo se enteran si un producto está por vencerse?
+- ¿Alguna vez tuvieron que tirar algo porque se pasó la fecha o estaba mal conservado?
+- Cuando el restaurante está lleno, ¿cómo te das cuenta si un cliente necesita algo si no te llama directamente?
+- ¿Te pasó alguna vez que un cliente se molestó por no recibir atención a tiempo?
+- ¿Qué es lo más difícil de esos momentos de mucho trabajo?
+- ¿Cómo te imaginas que una app o sistema podría ayudarte a hacer tu trabajo más fácil?
+
 ### 2.2.2. Registro de entrevistas
+
+En esta sección se aborda la información recolectada de cada entrevista incluyendo un resumen de las respuestas de los entrevistados.
+
+Entrevistas del segmento de dueño de restaurante:
+
+- Entrevista 1
+
+| Nombre               |    Luis    |
+|----------------------|------------|
+| Apellido             |   Agurto   |
+| Edad                 |   34 años  |
+| Distrito             |  San Borja |
+| Evidencia            |  |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
+| Inicio de entrevista |  |    
+| Fin de entrevista    |  |
+
+Resumen de entrevista: Luis Agurto, fundador y gerente general de la cevichería "El Molinero", señaló durante la entrevista que le resultaría altamente beneficioso contar con una aplicación que facilite la gestión de inventario. Aunque actualmente utiliza un método propio para organizar sus productos y alimentos, considera que una solución tecnológica que automatice el control de stock, sugiera ubicaciones óptimas de almacenamiento, genere estadísticas predictivas como alertas sobre posibles faltantes y optimice el trabajo del personal de atención, sería ideal para mejorar la eficiencia operativa del restaurante. Luis nos comenta que le gustaría utilizar la aplicación porque sería algo distinto, innovador y podría facilitar todos los procesos.
+
+- Entrevista 2
+
+| Nombre               | Daniel   |
+|----------------------|----------|
+| Apellido             | Céspedes |
+| Edad                 | 54 años  |
+| Distrito             | Miami    |
+| Evidencia            |          |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL         |
+| Inicio de entrevista |          |    
+| Fin de entrevista    |          |
+
+
+Resumen de entrevista:
+
+Daniel Céspedes, cofundador del restaurante de comida criolla en Miami "El pollo Inka", demostró un alto interés en los beneficios que este contaría con una aplicación o sistema que le ayude a gestionar su inventario. Este comenta que, a pesar de que ellos ya constan con un método para organizar varios de sus productos, esto suele consumir bastante tiempo por parte del personal, por lo cual una aplicación como esta le ayudaría bastante en distribuir mejor las horas para sus trabajadores. Asimismo, el entrevistado deja a remarcar lo importante que es la incorporación de estas tecnologías en cualquier tipo de negocio, y cómo estás ayudan a optimizar el gasto de recursos y tiempo.
+
+Entrevista del segmento trabajadores del restaurante
+
+- Entrevista 3
+
+| Nombre               | Kaleb                            |
+|----------------------|----------------------------------|
+| Apellido             | Frias                            |
+| Edad                 | 21                               |
+| Distrito             | San Miguel                       |
+| Evidencia            | <img src="assets/evidencia.png"> |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL                                 |
+| Inicio de entrevista |                                  |
+| Fin de entrevista    |                                  | 
+
+Resumen de entrevista: 
+
+Kaleb Frias trabaja en un restaurante atendiendo clientes, tomando pedidos y organizando el salón también apoya en la revisión de inventario especialmente bebidas e insumos controlando fechas de vencimiento una vez por semana y a diario para productos de alta rotación ha tenido que desechar productos vencidos en ocasiones durante alta demanda se guía por el lenguaje corporal del cliente para atenderlos y sugiere una app que avise cuando el cliente necesite algo y ayude con el control de stock en tiempo real.
+
+- Entrevista 4
+
+| Nombre               |   |
+|----------------------|---|
+| Apellido             |   |
+| Edad                 |   |
+| Distrito             |   |
+| Evidencia            |   |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL  |
+| Inicio de entrevista |   |
+| Fin de entrevista    |   | 
+
+Resumen de entrevista: 
+
+- Entrevista 5
+
+| Nombre               | Diego                                        |
+|----------------------|----------------------------------------------|
+| Apellido             | Ahane                                        |
+| Edad                 | 19                                           |
+| Distrito             | San Miguel                                   |
+| Evidencia            | <img src="assets/envidencia-entrevista6.png"> |
+| Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL                                            |
+| Inicio de entrevista |                                              |
+| Fin de entrevista    |                                              | 
+
+Resumen de entrevista: 
+
+Durante la entrevista, Diego, trabajador de un restaurante, explicó que una de sus principales tareas es verificar que los productos estén en buen estado y disponibles antes del inicio del servicio, priorizando aquellos de mayor rotación. Señaló que en horas de alta demanda, como el almuerzo o la cena, se generan situaciones de presión que afectan la eficiencia y la atención al cliente. Además, mencionó la dificultad de identificar productos próximos a vencer, lo que puede generar pérdidas. Destacó que una herramienta tecnológica que alerte automáticamente sobre fechas de caducidad y facilite la organización del trabajo sería de gran utilidad para optimizar tiempos, reducir desperdicios y mejorar la experiencia del cliente.
+
 ### 2.2.3. Análisis de entrevistas
+
+**Segmento 1:**
+**Propietarios y/o fundadores de restaurantes**
+**Entrevistados**: Luis Agurto, Daniel Céspedes Cantidad: 2/5 (33%)
+
+**Características objetivas:**
+
+- Experiencia en gestión de restaurantes: 2/2 (100%)
+
+- Uso de métodos manuales (papel/lápiz o propios): 2/2 (100%)
+
+- Deseo de automatizar la gestión de inventario: 2/2 (100%)
+
+Características subjetivas:
+
+- Valoración de la eficiencia operativa: 2/2 (100%)
+
+- Interés por análisis de datos y ventas: 2/2 (100%)
+
+- Actitud abierta a la innovación tecnológica: 2/2 (100%)
+
+**Segmento 2:**
+**Meseros y/o cocineros de restaurantes**
+**Entrevistados**: Diego Ahane, 
 
 ## 2.3. Needfinding 
 
 ### 2.3.1. User Personas
+
+#### Segmento 1: Dueños de restaurantes.
+<img src="assets/userpersona1.png">
+
+#### Segmento 2: Empleados de restaurantes.
+<img src="assets/userpersona2.png">
+
 ### 2.3.2. User Task Matrix 
+
+| **Tareas**                                                           | **Daniel**<br>Frecuencia | **Daniel**<br>Importancia | **Javier**<br>Frecuencia | **Javier**<br>Importancia |
+|----------------------------------------------------------------------|---------------------------|----------------------------|--------------------------|----------------------------|
+| Atender y servir a los comensales                                    | Alta                      | Alta                       | Media                    | Alta                       |
+| Verificar disponibilidad de productos en el almacén                  | Media                     | Media                      | Alta                     | Alta                       |
+| Reportar falta de productos o incidentes con insumos                 | Alta                      | Alta                       | Alta                     | Alta                       |
+| Resolver quejas o problemas en sala                                  | Alta                      | Alta                       | Baja                     | Media                      |
+| Coordinar con cocina y almacén para sincronizar pedidos              | Alta                      | Alta                       | Media                    | Alta                       |
+| Administrar y supervisar inventario                                  | Baja                      | Media                      | Alta                     | Alta                       |
+| Registrar productos próximos a vencer o vencidos                     | Baja                      | Media                      | Alta                     | Alta                       |
+| Capacitar a personal en el uso del sistema de gestión                | Baja                      | Media                      | Media                    | Alta                       |
+| Revisar métricas sobre el consumo y stock de productos               | Baja                      | Media                      | Alta                     | Alta                       |
+| Sugerir productos del menú según disponibilidad                      | Alta                      | Alta                       | Media                    | Media                      |
+| Asegurar temperatura adecuada para insumos sensibles                 | Baja                      | Baja                       | Alta                     | Alta                       |
+
 ### 2.3.3. User Journey Mapping
+
+#### Segmento 1: Dueños de restaurantes.
+
+<img src="assets/journey-map-dueños.png">
+
+### Segmento 2: Empleados de restaurantes.
+
+<img src="assets/journey-map-trabajadores.png">
+
 ### 2.3.4. Empathy Mapping
+
+#### Segmento 1: Dueños de restaurantes.
+
+<img src="assets/empathymap1.png">
+
+### Segmento 2: Empleados de restaurantes.
+
+<img src="assets/empathymap2.png">
+
 ### 2.3.5. As-Is Scenario Mapping
 
+**Segmento 1**
+
+Escenario: El dueño necesita revisar el estado de las mesas, el inventario de ingredientes y asignar tareas al personal.
+
+As-Is:
+
+| Fases    |                      Verificar disponibilidad de mesas                         |                         Verificacion de inventario                         |                Asignar tareas al personal                  |              Comunicacion con el equipo                                       |
+|----------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|
+| Doing    | Revisa mesas físicamente                               | Cuenta ingredientes manualmente                | Asigna tareas verbalmente                  | Comunica cambios en persona              |
+| Thinking | "No tengo visibilidad en tiempo real" | "Podríamos quedarnos sin ingredientes"  | "El personal parece sobrecargado" | "La comunicación es ineficiente" |
+| Feeling  | Me siento inseguro sobre la disponibilidad de la mesas | Me preocupa que tengamos posibles ingredientes faltantes. | me siento estresado por la carga laboral | Me frusta que existan malentendidos al momento de comunicar |
+
+**Segmento 2**  
+
+Escenario: El empleado completa tareas y necesita comunicar su estado al supervisor.
+
+As-Is:
+
+| Fases    |                         Realizacion de tareas                               |                             Notificacion de tareas                         |                   Verificacion de insumos                       |     Comunicacion con el supervisor                                               |
+|----------|------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
+| Doing    | Limpia o Prepara manualmente                          | Notificando al supervisor cuando terminan las tareas de limpieza      | Verifica fisicamente el stock             | Busca al supervisor para reportes               |
+| Thinking | "Podría ser más eficiente" | "No sé si me escucharon" | "No hay sistema para ver stock" | "Ojalá hubiera mejor comunicación" |
+| Feeling  | Me siento insatisfecho con la manera en que realice mis tareas | Me siento inseguro sobre algunas notificaciones | Me preocupa que hayan faltantes | Me frusta dichos procesos |
+
+
 ## 2.4. Ubiquitous Language
+
+```
+RestaurantOwner (DueñoDelRestaurante): Persona encargada de la administración general del restaurante. Supervisa el inventario, el personal, la calidad del servicio y toma decisiones operativas clave.
+
+RestaurantStaff (PersonalDelRestaurante): Conjunto de trabajadores que incluyen mozos, cocineros, encargados de almacén, entre otros. Reciben tareas y ejecutan las operaciones diarias del restaurante.
+
+Product (Producto): Insumo alimenticio o material consumible utilizado en el restaurante, como carnes, verduras, condimentos, bebidas o productos de cocina. Cada producto puede tener una fecha de caducidad y condiciones de almacenamiento específicas.
+
+Inventory (Inventario): Conjunto de productos registrados y almacenados en el restaurante. Su correcta gestión evita pérdidas, desperdicio y garantiza disponibilidad.
+
+StorageUnit (UnidadDeAlmacenamiento): Espacio físico donde se conservan los productos. Puede ser una nevera, congelador, despensa o zona de temperatura controlada.
+
+ExpirationDate (FechaDeCaducidad): Fecha límite en la que un producto debe ser utilizado o descartado. Su control es clave para evitar pérdidas y riesgos sanitarios.
+
+ExpirationAlert (AlertaDeCaducidad): Notificación que indica que un producto está por vencer o ya ha vencido, para tomar acción inmediata.
+
+TemperatureMonitoring (MonitoreoDeTemperatura): Proceso que permite verificar que los productos almacenados están a la temperatura adecuada para preservar su calidad.
+
+RealTimeTracking (SeguimientoEnTiempoReal): Visualización instantánea del estado de los productos, inventario, alertas y condiciones de almacenamiento en todo momento.
+
+CustomerAttentionAlert (AlertaDeAtenciónAlCliente): Señal visual o notificación que permite al personal saber cuándo un cliente necesita atención.
+
+WaiterInterface (InterfazDelMozo): Herramienta que utilizan los mozos para recibir alertas, visualizar solicitudes de los clientes y gestionar su atención de forma organizada.
+
+```
+---
 
 # Capitulo III: Requeriments Specification
 
