@@ -783,12 +783,98 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 </table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
-#### 5.2.1.3. Sprint Backlog n
+
+| Team Member (Last Name, First Name)       | GitHub Username | Aspect Name 1 (L/C) | Aspect Name 2 (L/C) |
+|-------------------------------------------|------------------|----------------------|----------------------|
+| Briceño Llanos, Ayrton Omar             | AyrtonBriceno    | L                    | C                    |
+| Guia Carrasco, Pedro Andre              | Pedrivizz          | L                    | C                    |
+| Lang Nassi, Werner Khalil              | 00WernerLang           | L                    | C                    |
+| Nakasone Gomes, Marco Antonio              | marquinho04           | C                    | C                    |
+| Rodas Sotomayor, Ernesto              | ernesto0710           | C                    | C                    |
+
+
+#### 5.2.1.3. Sprint Backlog 1
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+<table>
+<tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-landing-page </td>
+    <td align="center"> main</td>
+    <td align="center"> 0833c84</td>
+    <td align="center"> Primer avance del landing paget</td>
+    <td align="center"> ---</td>
+    <td align="center"> 04/04/2025</td>
+  </tr>
+</table>
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+*Seccion de navegacion* : Nos ayudara a redirigirnos a secciones especificas de la lading page.
+
+![navebar](./assets/landing_page1.png)
+
+*Perfiles* : Averigua quienes son los integrantes de este proyecto.
+![profile](./assets/landing_page2.png)
+
+*Esencia* : Descubre la esencia que propone esta empresa para la solucion del problema.
+![esential](./assets/landing_page3.png)
+
+*Hazañas* : Descubre la mision, vision y valores que ofrecemos.
+![hazañas](./assets/landing_page4.png)
+
+*Caracterisitas* : Descubre las caractericias que proponemos para la solucion.
+![caracteristicas](./assets/landing_page5.png)
+
+*Consulta* : Si necesitas ayuda, no dudes en dejarnos un mensaje.
+![consulta](./assets/landing_page6.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "KeepItFresh"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/</td>
+    <td> Desplegar Landing Page de KeepItFresh</td>
+  </tr>
+</table>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde divimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra web. 
+
+**Link de la landing page desplegada:** https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/
+
+![GitHubPages](./assets/github_pages.png)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo KeepItFresh.
+
+![Commits-landing](./assets/github_1.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
+
+![Contribuitors-landing](./assets/github_2.png)
+En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en la Landing Page.
+
+![Network-landing](./assets/github_3.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
 
 # Conclusiones
 ## Conclusiones y recomendaciones
