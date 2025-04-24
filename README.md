@@ -456,17 +456,18 @@ Kaleb Frias trabaja en un restaurante atendiendo clientes, tomando pedidos y org
 
 - Entrevista 4
 
-| Nombre               |   |
-|----------------------|---|
-| Apellido             |   |
-| Edad                 |   |
-| Distrito             |   |
-| Evidencia            |   |
+| Nombre               | Matthew  |
+|----------------------|----------|
+| Apellido             | Yonamine |
+| Edad                 | 20 |
+| Distrito             |  Pueblo Libre |
+| Evidencia            |  <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/competitor-analysis/assets/entrevista-4.png?raw=true" width="50%">  |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL  |
-| Inicio de entrevista |   |
-| Fin de entrevista    |   | 
+| Inicio de entrevista |  3:30 pm |
+| Fin de entrevista    |  3:40 pm | 
 
 Resumen de entrevista: 
+Matthew nos dió a conocer un poco sobre como es el hambiente laboral dentro de un resaturante, lo dificil es que a veces satisfacer a todos los clientes en horas donde el restaurante esta en "rush", tambien nos da su opinión positiva sobre nuestro producto. El como mozo si quisiera aumentar su eficiencia mediante la tecnología, con la ayuda de los botones que le comentamos en la entrevista, a la vez nos dió ideas sobre como se podrías mejorar tambien la atención al cliente, siempre desde su experiencia laboral. 
 
 - Entrevista 5
 
