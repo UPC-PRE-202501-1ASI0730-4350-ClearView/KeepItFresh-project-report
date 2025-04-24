@@ -479,17 +479,19 @@ Resumen de entrevista:
 
 - Entrevista 6
 
-| Nombre               |  |
+| Nombre               | Diego |
 |----------------------|------------|
-| Apellido             |  |
-| Edad                 |  |
-| Distrito             |  |
-| Evidencia            |  |
+| Apellido             | Ahane |
+| Edad                 | 19 |
+| Distrito             | San Miguel |
+| Evidencia            | <img src="assets/envidencia-entrevista6.png"> |
 | Url                  |  |
 | Inicio de entrevista |  |
 | Fin de entrevista    |  | 
 
 Resumen de entrevista: 
+
+Durante la entrevista, Diego, trabajador de un restaurante, explicó que una de sus principales tareas es verificar que los productos estén en buen estado y disponibles antes del inicio del servicio, priorizando aquellos de mayor rotación. Señaló que en horas de alta demanda, como el almuerzo o la cena, se generan situaciones de presión que afectan la eficiencia y la atención al cliente. Además, mencionó la dificultad de identificar productos próximos a vencer, lo que puede generar pérdidas. Destacó que una herramienta tecnológica que alerte automáticamente sobre fechas de caducidad y facilite la organización del trabajo sería de gran utilidad para optimizar tiempos, reducir desperdicios y mejorar la experiencia del cliente.
 
 ### 2.2.3. Análisis de entrevistas
 
