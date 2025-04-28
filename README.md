@@ -1730,54 +1730,6 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
         </tr>
     </tbody>
 
-### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1
-
-<table>
-<tr>
-    <th colspan="5">Sprint 1</th>
-    <th colspan="9">Sprint 1</th>
-  </tr>
-      <tr>
-    <td colspan="13">Sprint Planning Background</td>
-  </tr>
-  <tr>
-    <td colspan="5">Date</td>
-    <td colspan="8">2025-04-16</td>
-</tr>
-  <tr>
-    <td colspan="5">Time</td>
-    <td colspan="8">5:30 PM</td>
-  </tr>
-  <tr>
-    <td colspan="5">Location</td>
-    <td colspan="8">Google meet</td>
-<tr>
-    <td colspan="5">Prepared By</td>
-    <td colspan="8">Ayrton Omar Briceño Llanos</td>
-</tr>
-<tr>
-    <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Ayrton Omar Briceño Llanos, Pedro Andre Guia Carrasco, Lang Nassi Werner Khalil, Ernesto Rodas Sotomayor, Marco Antonio Nakasone Gomes.</td>
-</tr>
-<tr>
-    <td colspan="5">Sprint  1 Review Summary</td>
-    <td colspan="8">En esta primera sección se planteo el desarrollo de la Landing Page para el proyecto de KeeptItFresh.</td>
-</tr>
-<tr>
-    <td colspan="5">Sprint 1 Retrospective Summary</td>
-    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando la Landing Page</td>
-</tr>
-<tr>
-    <td colspan="13">Sprint Goal & User Stories</td>
-</tr>
-<tr>
-    <td colspan="5">Sprint 1 Goal</td>
-    <td colspan="8">
-Desarrollar y desplegar una landing page que presente información a los usuarios a través de imágenes. La página debe ser completamente adaptable a cualquier tipo de dispositivo que utilicen los usuarios, garantizando una experiencia de usuario fluida y responsiva.</td>
-</tr>
-</table>
-
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
 | Team Member (Last Name, First Name)       | GitHub Username | Aspect Name 1 (L/C) | Aspect Name 2 (L/C) |
