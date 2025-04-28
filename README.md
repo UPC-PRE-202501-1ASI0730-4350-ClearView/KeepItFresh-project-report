@@ -770,7 +770,7 @@ Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Webstor
 </tr>
 <tr>
     <td colspan="5">Sprint 1 Retrospective Summary</td>
-    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando la Landing Page</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en partes del código y en otras partes poder mejorar sus habilidades realizando la Landing Page</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
@@ -794,76 +794,6 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 
 
 #### 5.2.1.3. Sprint Backlog 1
-<table>
-   <tr>
-    <td> <strong>Sprint #</strong></td>
-    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
-  </tr>
-
-   <tr>
-    <td align="center" colspan="2"> <strong>User Story</strong></td>
-    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
-  </tr>
-  <tr>
-    <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>Description<strong></td>
-    <td align="center"> <strong>Estimation (Hours)<strong></td>
-    <td align="center"> <strong>Assigned To<strong></td>
-    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
-  </tr>
-  <!---------------------------------------------------------------------- -->
-  <tr>
-    <td rowspan="4" align="center"> ID </td>
-    <td rowspan="4" align="center"> US18 Navegación por la Landing Page</td>
-    <td align="center"> TA01 </td>
-     <td align="center"> menu con hipervinculos responsive</td>
-    <td align="center">Cada Hipervinculo debe de rediriguirte a una seccion especifica de la landing page </td>
-    <td align="center"> 2</td>
-    <td align="center"> Gonzalo Andre Zavala Quedena</td>
-    <td align="center">Done</td>
-  </tr>
-
-  <tr>
-    <td align="center"> TA02 </td>
-    <td align="center"> menu de navegacion mobile</td>
-    <td align="center"> Se debe desarrollar el menu mobile, haciendo uso de un icono que despliegue los hipervinculos</td>
-    <td align="center"> 2</td>
-    <td align="center"> Gonzalo Andre Zavala Quedena</td>
-    <td align="center">Done</td>
-  </tr>
-
-   <tr>
-    <td align="center"> TA03 </td>
-    <td align="center"> Hero</td>
-    <td align="center"> Se debe desarrollar un banner con una frase y un botón call to action que permita dirigirnos a la aplicación web.</td>
-    <td align="center"> 2</td>
-    <td align="center"> Daniel Mateo del Castillo Bueno</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center"> TA04 </td>
-    <td align="center"> Hero responsive</td>
-    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador.</td>
-    <td align="center"> 1</td>
-    <td align="center"> Daniel Mateo del Castillo Bueno</td>
-    <td align="center">Done</td>
-  </tr>
-  <!------------------------------------------------>
-   <tr>
-    <td rowspan="1" align="center"> ID </td>
-    <td rowspan="1" align="center"> US22 Consulta de reseñas de clientes</td>
-    <td align="center"> TA01 </td>
-    <td align="center"> Reseñas</td>
-    <td align="center"> Se desarrolla secion donde se muestra comentarios de las experiencias de los usuarios de la plataforma web</td>
-    <td align="center"> 2</td>
-    <td align="center"> Gonzalo Andre Zavala Quedena </td>
-    <td align="center"> Done</td>
-  </tr>
-  
-</table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -873,7 +803,7 @@ Desarrollar y desplegar una landing page que presente información a los usuario
     <td  align ="center" > <strong>Branch</strong></td>
     <td  align ="center" > <strong>Commit ID</strong></td>
     <td  align ="center" > <strong>Commit message</strong></td>
-    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit Message body</strong></td>
     <td  align ="center" > <strong>Commit on (date)</strong></td>
   </tr>
 
@@ -881,7 +811,7 @@ Desarrollar y desplegar una landing page que presente información a los usuario
     <td rowspan="27" align="center">https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-landing-page </td>
     <td align="center"> main</td>
     <td align="center"> 0833c84</td>
-    <td align="center"> Primer avance del landing paget</td>
+    <td align="center"> Primer avance del landing page</td>
     <td align="center"> ---</td>
     <td align="center"> 04/04/2025</td>
   </tr>
@@ -891,20 +821,20 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 
 Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
 
-*Seccion de navegacion* : Nos ayudara a redirigirnos a secciones especificas de la lading page.
+*Sección de navegación* : Nos ayudará a redirigirnos a secciones especificas de la landing page.
 
 ![navebar](./assets/landing_page1.png)
 
 *Perfiles* : Averigua quienes son los integrantes de este proyecto.
 ![profile](./assets/landing_page2.png)
 
-*Esencia* : Descubre la esencia que propone esta empresa para la solucion del problema.
+*Esencia* : Descubre la esencia que propone esta empresa para la solución del problema.
 ![esential](./assets/landing_page3.png)
 
-*Hazañas* : Descubre la mision, vision y valores que ofrecemos.
+*Hazañas* : Descubre la misión, vision y valores que ofrecemos.
 ![hazañas](./assets/landing_page4.png)
 
-*Caracterisitas* : Descubre las caractericias que proponemos para la solucion.
+*Caracterisitas* : Descubre las características que proponemos para la solución.
 ![caracteristicas](./assets/landing_page5.png)
 
 *Consulta* : Si necesitas ayuda, no dudes en dejarnos un mensaje.
@@ -912,7 +842,7 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "KeepItFresh"
+En el primer sprint, hemos realizado el diseño, la programación y el despliegue de la Landing Page que presentará nuestra aplicación web "KeepItFresh"
 
 <table> 
   <tr>
