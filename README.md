@@ -1675,7 +1675,7 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
         </tr>
         <tr>
             <td>Location</td>
-            <td>Discord</td>
+            <td>Google meet</td>
         </tr>
         <tr>
             <td>Prepared by</td>
@@ -1730,8 +1730,8 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
         </tr>
     </tbody>
 
-### 5.2.1. Sprint n
-#### 5.2.1.1. Sprint Planning n
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1
 
 <table>
 <tr>
@@ -1751,7 +1751,7 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
   </tr>
   <tr>
     <td colspan="5">Location</td>
-    <td colspan="8">Via Discord</td>
+    <td colspan="8">Google meet</td>
 <tr>
     <td colspan="5">Prepared By</td>
     <td colspan="8">Ayrton Omar Briceño Llanos</td>
@@ -1776,7 +1776,6 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
     <td colspan="8">
 Desarrollar y desplegar una landing page que presente información a los usuarios a través de imágenes. La página debe ser completamente adaptable a cualquier tipo de dispositivo que utilicen los usuarios, garantizando una experiencia de usuario fluida y responsiva.</td>
 </tr>
->>>>>>> feature/product-implementation
 </table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
