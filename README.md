@@ -171,14 +171,14 @@ El curso contribuye al cumplimiento del **Student Outcome ABET:ABET – EAC - St
 
 
 
-# Capítulo I: Introduccion
+# Capítulo I: Introducción
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
 
 ClearView es una startup dedicada a soluciones digitales enfocadas en restaurantes. Utilizamos tecnologías IoT para agilizar la gestión de restaurantes. Nuestro enfoque es preventivo, proporcionando sensores y herramientas para evitar problemas tales como la desposesión de alimentos. No ofrecemos servicios de intervención, ni de acción inmediata.
 
-***Mision:***
+***Misión:***
 Facilitar la gestión de los restaurantes a través de tecnologías las cuales permiten el monitoreo continuo del restaurante, al igual que optimizan la atención de los trabajadores, para que estos puedan ofrecer un mejor servicio a sus consumidores.
 
 ***Visión:***
@@ -224,7 +224,7 @@ La gestión del inventario de un restaurante suele llegar a consumir muchos recu
 
 **Why: ¿Por qué es importante que se gestione el inventario en los restaurantes?**
 
-**Who: ¿Quienes se ven afectados?**
+**Who: ¿Quiénes se ven afectados?**
 * Los dueños o gerentes y trabajadores de un restaurante.
 
 **When: ¿Cuándo sucede la problemática?**
@@ -448,7 +448,7 @@ Este es un conjunto de reglas, las cuales deben seguir nuestros commits para cre
 * **scope:** Este es un campo opcional, que nos permite especificar el alcance que tiene el commit.
 * **description:** Este es un campo obligatorio, ya que proporciona información breve y concisa de los cambios que se han realizado. Además debe ser escrito en minúsculas y de modo imperativo
 * **body:** Este es un campo opcional en el cual se detalla más información sobre el commit, como el motivo del cambio. 
-* **footer:** Este es un campo opcion y se utiliza para informar respecto a cambios importantes en el proyecto
+* **footer:** Este es un campo opción y se utiliza para informar respecto a cambios importantes en el proyecto
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -536,7 +536,7 @@ Ejemplo:
 Esta práctica de dejar una línea en blanco mejora la estructura y legibilidad del código HTML.
 
 * **Quote attribute Values**
-Para los valores de los atributos, aunque no sea una caractística obligatoria,es común utilizar comillas dobles alrededor de ellos. Según W3Schools (s.f), esto hace el código más legible y es una práctica común entre los desarrolladores. 
+Para los valores de los atributos, aunque no sea una característica obligatoria, es común utilizar comillas dobles alrededor de ellos. Según W3Schools (s.f), esto hace el código más legible y es una práctica común entre los desarrolladores. 
 Ejemplo:
 
 ``` html
@@ -574,7 +574,7 @@ Conocido así por el acrónimo de su nombre en inglés, Cascading Style Sheets, 
 * **Shorthand Properties**
 Se debe declarar los campos de los elementos en la menor cantidad de líneas posible, según Google (s.f). esto mejora la eficiencia del código y lo hace más legible. Además, se debe evitar agregar unidades después del valor cero.
 
-Ejemplo segpun Google (s.f):
+Ejemplo según Google (s.f):
 
 ``` css
 border-top: 0;
@@ -611,7 +611,7 @@ Este ejemplo demuestra el uso de comillas simples para encerrar el valor del atr
 JavaScript es un lenguaje de programación que permite especificar de manera precisa las acciones que debe realizar el navegador web, incluyendo el orden de ejecución de tareas y la frecuencia con la que se deben llevar a cabo. A continuación, se presentan las pautas para el uso de JavaScript en nuestro proyecto:
 
 * **Spaces around operators**
-Se debe colocar un espacio alrededor de cada operador matemático y tambien dcomas que se usen en el código JavaScript. 
+Se debe colocar un espacio alrededor de cada operador matemático y también comas que se usen en el código JavaScript. 
 Ejemplo estándar de W3Schools (s.f):
 
 ``` javascript
