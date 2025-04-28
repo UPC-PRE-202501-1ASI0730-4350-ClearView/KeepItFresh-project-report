@@ -1643,7 +1643,7 @@ Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Webstor
 ![ClearView-Landing-Clone](assets/cap5.3.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation
-<<<<<<< HEAD
+
 ### 5.2.1. Sprint 1
 
 En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como el entorno de desarrollo.
@@ -1729,7 +1729,7 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
             </td>
         </tr>
     </tbody>
-=======
+
 ### 5.2.1. Sprint n
 #### 5.2.1.1. Sprint Planning n
 
@@ -1784,27 +1784,15 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 | Team Member (Last Name, First Name)       | GitHub Username | Aspect Name 1 (L/C) | Aspect Name 2 (L/C) |
 |-------------------------------------------|------------------|----------------------|----------------------|
 | Briceño Llanos, Ayrton Omar             | AyrtonBriceno    | L                    | C                    |
-<<<<<<< HEAD
 | Guia Carrasco, Pedro Andre              | Pedrivizz           | L                    | C                    |
 | Lang Nassi, Werner Khalil             | 00WernerLang           | L                    | C                    |
 | Nakasone Gomes, Marco Antonio              | marquinho04           | L                    | C                    |
 | Rodas Sotomayor, Ernesto             | ernesto0710          | L                    | C                    |
 
-=======
-| Guia Carrasco, Pedro Andre              | Pedrivizz          | L                    | C                    |
-| Lang Nassi, Werner Khalil              | 00WernerLang           | L                    | C                    |
-| Nakasone Gomes, Marco Antonio              | marquinho04           | C                    | C                    |
-| Rodas Sotomayor, Ernesto              | ernesto0710           | C                    | C                    |
->>>>>>> feature/product-implementation
-
-
 #### 5.2.1.3. Sprint Backlog 1
 <table>
-<<<<<<< HEAD
   <tr>
-=======
    <tr>
->>>>>>> feature/product-implementation
     <td> <strong>Sprint #</strong></td>
     <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
   </tr>
@@ -1826,7 +1814,6 @@ Desarrollar y desplegar una landing page que presente información a los usuario
   <!---------------------------------------------------------------------- -->
   <tr>
     <td rowspan="4" align="center"> ID </td>
-<<<<<<< HEAD
     <td rowspan="4" align="center"> US11 Alertas visuales en dashboard</td>
     <td align="center"> TA01 </td>
      <td align="center"> Notificacion de la alerta.</td>
@@ -1834,7 +1821,6 @@ Desarrollar y desplegar una landing page que presente información a los usuario
     <td align="center"> 2</td>
     <td align="center"> Marco Antonio Nakasone Gomes</td>
     <td align="center">Todo</td>
-=======
     <td rowspan="4" align="center"> US18 Navegación por la Landing Page</td>
     <td align="center"> TA01 </td>
      <td align="center"> menu con hipervinculos responsive</td>
@@ -1842,43 +1828,35 @@ Desarrollar y desplegar una landing page que presente información a los usuario
     <td align="center"> 2</td>
     <td align="center"> Gonzalo Andre Zavala Quedena</td>
     <td align="center">Done</td>
->>>>>>> feature/product-implementation
   </tr>
 
   <tr>
     <td align="center"> TA02 </td>
-<<<<<<< HEAD
     <td align="center"> Pop up de alerta</td>
     <td align="center"> Debe aparecer un pop up en la pagina cuando una alerta ocurra.</td>
     <td align="center"> 2</td>
     <td align="center"> Marco Antonio Nakasone Gomes</td>
-=======
     <td align="center"> menu de navegacion mobile</td>
     <td align="center"> Se debe desarrollar el menu mobile, haciendo uso de un icono que despliegue los hipervinculos</td>
     <td align="center"> 2</td>
     <td align="center"> Gonzalo Andre Zavala Quedena</td>
->>>>>>> feature/product-implementation
     <td align="center">Done</td>
   </tr>
 
    <tr>
     <td align="center"> TA03 </td>
-<<<<<<< HEAD
     <td align="center"> Historial</td>
     <td align="center"> El historia de alertas debe ser visible.</td>
     <td align="center"> 2</td>
     <td align="center"> Marco Antonio Nakasone Gomes</td>
-=======
     <td align="center"> Hero</td>
     <td align="center"> Se debe desarrollar un banner con una frase y un botón call to action que permita dirigirnos a la aplicación web.</td>
     <td align="center"> 2</td>
     <td align="center"> Daniel Mateo del Castillo Bueno</td>
->>>>>>> feature/product-implementation
     <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center"> TA04 </td>
-<<<<<<< HEAD
     <td align="center"> Resumen</td>
     <td align="center"> Las alertas deben de contar con un resumen de los sucedido.</td>
     <td align="center"> 1</td>
@@ -1905,8 +1883,6 @@ Desarrollar y desplegar una landing page que presente información a los usuario
     <td align="center"> Marco Antonio Nakasone Gomes</td>
     <td align="center"> Doing</td>
   </tr>
-
-=======
     <td align="center"> Hero responsive</td>
     <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador.</td>
     <td align="center"> 1</td>
@@ -1926,16 +1902,11 @@ Desarrollar y desplegar una landing page que presente información a los usuario
   </tr>
   
 </table>
->>>>>>> feature/product-implementation
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
 <table>
-<<<<<<< HEAD
-    <tr>
-=======
-<tr>
->>>>>>> feature/product-implementation
+  <tr>
     <td align ="center" > <strong>Repository</strong></td>
     <td  align ="center" > <strong>Branch</strong></td>
     <td  align ="center" > <strong>Commit ID</strong></td>
@@ -1948,11 +1919,8 @@ Desarrollar y desplegar una landing page que presente información a los usuario
     <td rowspan="27" align="center">https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-landing-page </td>
     <td align="center"> main</td>
     <td align="center"> 0833c84</td>
-<<<<<<< HEAD
     <td align="center"> Primer avance del landing page</td>
-=======
     <td align="center"> Primer avance del landing paget</td>
->>>>>>> feature/product-implementation
     <td align="center"> ---</td>
     <td align="center"> 04/04/2025</td>
   </tr>
@@ -1963,7 +1931,7 @@ Desarrollar y desplegar una landing page que presente información a los usuario
 Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
 
 *Seccion de navegacion* : Nos ayudara a redirigirnos a secciones especificas de la lading page.
-<<<<<<< HEAD
+
 ![navBar](./assets/landing_page1.png)
 
 *Perfiles de integrantes* : Conoce los participantes de este proyecto.
@@ -1999,7 +1967,6 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 
 *Consulta* : Si necesitas ayuda, no dudes en dejarnos un mensaje.
 ![consulta](./assets/landing_page6.png)
->>>>>>> feature/product-implementation
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2023,19 +1990,17 @@ Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para ha
 
 **Link de la landing page desplegada:** https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/
 
-<<<<<<< HEAD
 ![GitHub-Pages](./assets/github_pages.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo ClearView.
-=======
+
 ![GitHubPages](./assets/github_pages.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo KeepItFresh.
->>>>>>> feature/product-implementation
 
 ![Commits-landing](./assets/github_1.png)
 La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
@@ -2046,7 +2011,6 @@ En esta imagen se refleja la el nivel de modificaciones realizadas por los commi
 ![Network-landing](./assets/github_3.png)
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
 
-# Conclusiones
 ## Conclusiones y recomendaciones
 ## Conclusiones
 
