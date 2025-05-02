@@ -1,47 +1,56 @@
-# <center>COURSE PROJECT<center>
-
-<p align="center">
+<p align="center" id="caratula">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"><br>
     <strong>Ingeniería de Software</strong><br>
     <strong>Aplicaciones Web - SV51</strong><br>
-    <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
-    <br>INFORME TB1
+    <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br><br>
+    INFORME TB1
 </p>
 
-<center>
+<p align="center">
+    <strong>StartUp: ClearView</strong><br>
+    <strong>Product: KeepItFresh</strong>
+</p>
 
-#### Startup: **ClearView**
-#### Product: **KeepItFresh**
+<h3 align="center">Integrantes:</h3>
 
-</center>
+<table style="margin-left:auto; margin-right:auto;">
+    <tr>
+        <th style="text-align:center;">Integrante</th>
+        <th style="text-align:center;">Código</th>
+    </tr>
+    <tr>
+        <td style="text-align:center;">Briceño Llanos, Ayrton Omar</td>
+        <td style="text-align:center;">U202311077</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">Guia Carrasco, Pedro Andre</td>
+        <td style="text-align:center;">U202212010</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">Lang Nassi, Werner Khalil</td>
+        <td style="text-align:center;">U202212010</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">Nakasone Gomes, Marco Antonio</td>
+        <td style="text-align:center;">U202210790</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;">Rodas Sotomayor, Ernesto</td>
+        <td style="text-align:center;">U202312443</td>
+    </tr>
+</table>
 
-### <center>Team Members</center>
-<center>
-
-| Member                       | Code       |
-|------------------------------|------------|
-| Briceño Llanos, Ayrton Omar          | U202311077 |
-| Guia Carrasco, Pedro Andre | U202212010 |
-| Lang Nassi, Werner Khalil    | U202310003 |
-| Nakasone Gomes, Marco Antonio     | U202210790 |
-| Rodas Sotomayor, Ernesto        | U202312443 |
-
-<br> ABRIL 2025
-</center>
-
-<center>
+<p align="center">
+    <strong>Abril 2025</strong>
+</p>
 
 # Registro de Versiones del Informe
 
-| Version | Fecha      | Autor                           | Descripción de Modificación                                                    |
-|---------|------------|---------------------------------|--------------------------------------------------------------------------------|
-| 1.0   | 04/04/2025 | Pedro Guia, Werner Lang, Ernesto Rodas | Desarrollo Capítulo (1) APARTADO 1.1 - 1.2 - 1.3                               |
-| 1.1   | 10/04/2025 | Ayrton Briceño, Pedro Guia, Ernesto Rodas | Desarrollo Capítulo (2) APARTADO 2.1 - 2.2 - 2.3 - 2.4                            |
-| 1.2   | 16/04/2025 | Ayrton Briceño, Werner Lang | Desarrollo Capítulo (3) APARTADO 3.1 - 3.2 - 3.3 - 3.4                         |
-| 1.3   | 19/04/2025 | Ayrton Briceño, Werner Lang, Pedro Guia, Marco Nakasone, Ernesto Rodas | Desarrollo Capítulo (4) APARTADO 4.1 - 4.2 - 4.3 - 4.4 - 4.5 - 4.6 - 4.7 - 4.8                         |
-
-</center>
+| Version | Fecha      | Autor           | Descripción de Modificación |
+|---------|------------|-----------------|-----------------------------|
+| 1.0   | 04/04/2025 | Grupo ClearView | Desarrollo de TB1           |
+| 2.0   | 28/04/2025 | Grupo ClearView | Corección de TB1            |
 
 # Project Report Collaboration Insights
 Analiza cómo la colaboración y la gestión de tareas influyeron en los resultados del proyecto, destacando fortalezas y áreas de mejora para optimizar futuras estrategias.
@@ -196,13 +205,13 @@ Ser la empresa más importante en Perú, en el ámbito de gestión y optimizaci�
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-|                                                                   | Apellido y Nombre               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                                      | Habilidades                                                                                             |
-|-------------------------------------------------------------------|---------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-|<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/project-report/assets/ayrton.jpg?raw=true" width="100%"/> | Briceño Llanos, Ayrton Omar | Ingeniería de Software | Soy Ayrton Briceño. Me apasiona el desarrollo de Software y la creación de soluciones tecnológicas que impacten positivamente en las personas | JavaScript, CSS, C#, HTML, Java, SQL Server, MongoDB |
-|<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/project-report/assets/pedro.jpg?raw=true" width="100%"/> | Guia Carrasco, Pedro Andre | Ingeniería de Software | Soy Pedro Guia, estudiante de la UPC. Estoy llevando mi cuarto año en la universidad y sigo firme a mis logros a futuro. | Java, Python, HTML, CSS, JavaScript, Angular, MySQL |
-| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/project-report/assets/werner.jpg?raw=true" width="100%"/>| Lang Nassi, Werner Khalil | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC), cursando en 5.º ciclo. Soy un estudiante que le gusta investigar cosas nuevas. | Java, JavaScript, C++, C#, SQL sever, Python, CSS, HTML|
-| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/marco.jpg?raw=true" width="100%"/>| Nakasone Gomes, Marco Antonio | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y tambien soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | Java, Python, HTML, CSS, JS, MySQL |
-| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/project-report/assets/ernesto.jpg?raw=true" width="100%"/>| Rodas Sotomayor, Ernesto | Ingeniería de Software | Mi nombre es Ernesto Rodas, me apasiona la tecnología, el desarrollo de sistemas y la innovación en soluciones digitales. | Java, Python y JavaScript. (MySQL) y NoSQL (MongoDB). |
+|                                | Apellido y Nombre               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                                      | Habilidades                                                                                             |
+|--------------------------------|---------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| <img src="assets/ayrton.jpg">  | Briceño Llanos, Ayrton Omar | Ingeniería de Software | Soy Ayrton Briceño. Me apasiona el desarrollo de Software y la creación de soluciones tecnológicas que impacten positivamente en las personas | JavaScript, CSS, C#, HTML, Java, SQL Server, MongoDB |
+| <img src="assets/pedro.jpg">   | Guia Carrasco, Pedro Andre | Ingeniería de Software | Soy Pedro Guia, estudiante de la UPC. Estoy llevando mi cuarto año en la universidad y sigo firme a mis logros a futuro. | Java, Python, HTML, CSS, JavaScript, Angular, MySQL |
+| <img src="assets/werner.jpg">  | Lang Nassi, Werner Khalil | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC), cursando en 5.º ciclo. Soy un estudiante que le gusta investigar cosas nuevas. | Java, JavaScript, C++, C#, SQL sever, Python, CSS, HTML|
+| <img src="assets/marco.jpg">   | Nakasone Gomes, Marco Antonio | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y tambien soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | Java, Python, HTML, CSS, JS, MySQL |
+| <img src="assets/ernesto.jpg"> | Rodas Sotomayor, Ernesto | Ingeniería de Software | Mi nombre es Ernesto Rodas, me apasiona la tecnología, el desarrollo de sistemas y la innovación en soluciones digitales. | Java, Python y JavaScript. (MySQL) y NoSQL (MongoDB). |
 
 ## 1.2. Solution Profile
 
@@ -258,7 +267,7 @@ inventario, así como a la falta de visibilidad y datos concretos sobre el estad
 
 En el entorno laboral actual, los restaurantes enfrentan dificultades para monitorear y gestionar su inventario de manera efectiva. Esto debido a la falta de herramientas adecuadas y el trabajo tedioso que esto suele ser, para hacerlo de forma continua y detallada. Lo cual da a una falta de visibilidad y datos concretos, lo cual lleva a gastos innecesarios con el inventario y posibilidad de descomposición de alimentos.<br>
 
-El desafío que hay actualmente es que las soluciones actuales no proveen un precio accesible, al mismo tiempo que mantienen una alta calidad de servicio.<br>
+El desafío que hay actualmente es que las soluciones actuales no proveen un precio accesible, al mismo tiempo que mantienen una alta calidad de servicio. Frente a esta problemática, planteamos a siguiente pregunta:<br>
 
 ¿Cómo podemos ofrecer a los restaurantes una plataforma con un precio accesible que al mismo tiempo ofrezca la calidad que estos necesitan?
 
@@ -376,7 +385,7 @@ KeepItFresh es una plataforma enfocada en los dos segmentos clave dentro de un r
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td><img src="" alt="KeepItFresh"><br></td>
+    <td><img src="assets/logo.jpg" alt="KeepItFresh"><br></td>
     <td><img src="assets/restroworks.png" alt="Restroworks"><br></td>
     <td><img src="assets/odoo.png" alt="Odoo"/><br></td>
     <td><img src="assets/solvermedia.jpg" alt="SolverMedia"/><br></td>
