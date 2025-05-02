@@ -846,19 +846,19 @@ La tipografía es la forma en que se ven y se leen los textos, nos ayuda mejoran
 
 **Head**
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/heding%20size.png?raw=true" width="50%"/>
+<img src="assets/heding size.png" width="50%"/>
 
 **Body**
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/body%20size.png?raw=true" width="50%"/>
+<img src="assets/body size.png" width="50%"/>
 
 **Colors**
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/colors.png?raw=true" width="50%"/>
+<img src="assets/colors.png" width="50%"/>
 
 **Spacing**
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/spacing.png?raw=true" width="50%"/>
+<img src="assets/spacing.png" width="50%"/>
 
 **Color Primario:** Decidimos que los tonos azules serían nuestro color primario ya que estos representan confianza, seguridad, orden y profesionalismo, características que debemos de mostrar por lo que nuestro proyecto se basa en la gestión y ordenamiento de inventarios.
 
@@ -874,7 +874,7 @@ KeepItFresh es una plataforma de gestión de inventario que ayuda a controlar pr
 
 A continuación, se mostrará el logo de nuestra aplicación.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/logo.jpg?raw=true" width="50%"/>
+<img src="assets/logo.jpg" width="50%"/>
 
 ### 4.1.2. Web Style Guidelines
 Desarrollaremos una plataforma digital que pueda usarse en cualquier dispositivo tecnológico, manteniendo el mismo diseño y estructura, para eso debemos tener en cuenta las cualidades de cada dispositivo para poder mantener un buen orden y diseño para todos los dispositivos. 
@@ -1033,27 +1033,27 @@ Incluyen menús, barras laterales, breadcrumbs, y enlaces que permiten:
 
 Esta es la vista en un navegador de escritorio de nuestra pagina, en donde podemos ver secciones como el menú, la pagina principal, el apartado de los miembros, la sección que contendrá la información general del equipo, la características que tendrá nuestra aplicación y por ultimo un formulario para que nos contacten los usuarios.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-1.png?raw=true" width="50%"/>
+<img src="assets/wf-1.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-2.png?raw=true" width="50%"/>
+<img src="assets/wf-2.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-3.png?raw=true" width="50%"/>
+<img src="assets/wf-3.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-4.png?raw=true" width="50%"/>
+<img src="assets/wf-4.png" width="50%"/>
 
 **Landing Page para Mobile Web Browser**
 
 Esta es la vista en un navegador móvil de nuestra página, que tiene el mismo contenido solo que esta adaptado a las características que tiene un movil, es decir, la pantalla más pequeña.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-1.png?raw=true" width="50%"/>
+<img src="assets/mwf-1.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-2.png?raw=true" width="50%"/>
+<img src="assets/mwf-2.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-3.png?raw=true" width="50%"/>
+<img src="assets/mwf-3.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-4.png?raw=true" width="50%"/>
+<img src="assets/mwf-4.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-5.png?raw=true" width="50%"/>
+<img src="assets/mwf-5.png" width="50%"/>
 
 ### 4.3.2. Landing Page Mock-up
 
@@ -1061,27 +1061,27 @@ Esta es la vista en un navegador móvil de nuestra página, que tiene el mismo c
 
 Gracias a los wireframes de la versión desktop pudimos ver cómo organizar de la mejor manera nuestra landing page, en base a eso se creó la versión mock-up de la landing page, en el que se aplican la paleta de colores y la tipografia que ya se mencionaron antes. 
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-1.png?raw=true" width="50%"/>
+<img src="assets/mu-1.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-2.png?raw=true" width="50%"/>
+<img src="assets/mu-2.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-3.png?raw=true" width="50%"/>
+<img src="assets/mu-3.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-4.png?raw=true" width="50%"/>
+<img src="assets/mu-4.png" width="50%"/>
 
 **Landing Page para Mobile Web Browser**
 
 Igualmente gracias a los wireframes pudimos ver como quedaría en un mobile web browser, aquí se mantiene la estructura del diseño, la paleta de colores y la tipografia. Se adapta a la pantalla de los dispositivos móviles.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-1.png?raw=true" width="50%"/>
+<img src="assets/mmu-1.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-2.png?raw=true" width="50%"/>
+<img src="assets/mmu-2.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-3.png?raw=true" width="50%"/>
+<img src="assets/mmu-3.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-4.png?raw=true" width="50%"/>
+<img src="assets/mmu-4.png" width="50%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-5.png?raw=true" width="50%"/>
+<img src="assets/mmu-5.png" width="50%"/>
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
@@ -1102,9 +1102,9 @@ Los wireframes de la plataforma web KeepItFresh muestran la estructura funcional
 Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la prevención de pérdidas y la toma de decisiones basada en datos.
 
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/pwf-1.png?raw=true" width="100%"/>
+<img src="assets/pwf-1.png" width="100%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/pwf-2.png?raw=true" width="100%"/>
+<img src="assets/pwf-2.png" width="100%"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1114,7 +1114,7 @@ Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la
 
 Como dueño de restaurante, deseo crear una cuenta o iniciar sesión con mis credenciales, para acceder a las funcionalidades de la plataforma según mi rol.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/login.png?raw=true" width="100%"/>
+<img src="assets/login.png" width="100%"/>
 
 **User Goal:** Visualizar el estado de los sensores en tiempo real
 
@@ -1122,7 +1122,7 @@ Como dueño de restaurante, deseo crear una cuenta o iniciar sesión con mis cre
 
 Como dueño de restaurante, quiero ver los datos actualizados de temperatura y gas desde los sensores IoT, para monitorear las condiciones de mi inventario y asegurar su conservación.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/iot.png?raw=true" width="100%"/>
+<img src="assets/iot.png" width="100%"/>
 
 **User Goal:** Registrar y consultar mi inventario
 
@@ -1130,7 +1130,7 @@ Como dueño de restaurante, quiero ver los datos actualizados de temperatura y g
 
 Como dueño de restaurante, deseo ingresar productos con su fecha de vencimiento y condiciones de almacenamiento, y consultar el inventario actualizado, para tomar mejores decisiones de compra y uso.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/gestion.png?raw=true" width="100%"/>
+<img src="assets/gestion.png" width="100%"/>
 
 **User Goal:** Ser notificado ante productos por vencer, bajo stock o condiciones no tan buenas
 
@@ -1138,7 +1138,7 @@ Como dueño de restaurante, deseo ingresar productos con su fecha de vencimiento
 
 Como dueño de restaurante, deseo recibir alertas cuando un producto esté por vencer, el stock esté bajo, o condiciones no tan buneas para evitar pérdidas económicas y reponer a tiempo con la distribuidora.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/alerta.png?raw=true" width="100%"/>
+<img src="assets/alerta.png" width="100%"/>
 
 **User Goal:** Generar y exportar reportes
 
@@ -1146,13 +1146,13 @@ Como dueño de restaurante, deseo recibir alertas cuando un producto esté por v
 
 Como dueño de restaurante, deseo generar reportes de ventas y exportarlos en formatos PDF o Excel, para tener acceso a estos datos en mi formato preferido y compartirlos fácilmente.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/exportar.png?raw=true" width="100%"/>
+<img src="assets/exportar.png" width="100%"/>
 
 ### 4.4.3. Web Applications Mock-ups
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/pmu-1.png?raw=true" width="100%"/>
+<img src="assets/pmu-1.png" width="100%"/>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/pmu-2.png?raw=true" width="100%"/>
+<img src="assets/pmu-2.png" width="100%"/>
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
@@ -1200,24 +1200,24 @@ User Goal: Como propietario, deseo configurar alertas para el inventario.
 
 Descripción: El propietario puede configurar alertas automáticas sobre productos que necesiten reposición, productos con fechas de vencimiento cercanas o problemas en la cadena de suministro, para tomar acciones preventivas.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/flow.png?raw=true" width="100%"/>
+<img src="assets/flow.png" width="100%"/>
 
 ## 4.5. Web Applications Prototyping
 Hemos hecho un bosquejo de nuestro prototipo de web en figma
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/product-design/assets/Prototype.png?raw=true" width="100%"/>
+<img src="assets/Prototype.png" width="100%"/>
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepItFresh.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4context.png?raw=true" width="100%"/>
+<img src="assets/c4context.png" width="100%"/>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4container.png?raw=true" width="100%"/>
+<img src="assets/c4container.png" width="100%"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
@@ -1226,22 +1226,168 @@ A continuación, se mostrarán los diagramas de componentes para cada Bounded Co
 ## 4.7. Software Object-Oriented Design
 Diagrama de componente de Customer Feedback
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsCustomer.png?raw=true" width="100%"/>
+<img src="assets/c4componentsCustomer.png" width="100%"/>
 
 Diagrama de componente de Inventory Monitoring
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsInventory.png?raw=true" width="100%"/>
+<img src="assets/c4componentsInventory.png" width="100%"/>
 
 Diagrama de componente de Location and Environment
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsLocation.png?raw=true" width="100%"/>
+<img src="assets/c4componentsLocation.png" width="100%"/>
 
 Diagrama de componente de Restaurant Operations
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsRestaurant.png?raw=true" width="100%"/>
+<img src="assets/c4componentsRestaurant.png" width="100%"/>
 
 ### 4.7.1. Class Diagrams
+
+<img src="assets/diagrama de clases.jpg" width="100%"/>
+
 ### 4.7.2. Class Dictionary
+
+**User**: CLase que representa a un usuario del sistema.
+
+| **Atributo** | **Tipo** | **Descripción**                                |
+|--------------|----------|------------------------------------------------|
+| `login_id`     | String   | Identificador de inicio de sesión del usuario. |
+| `email`        | String   | Correo electrónico del usuario.                |
+| `userName`     | String   | Nombre de usuario.                             |
+| `phone_number` | int      | Número de teléfono del usuario.                |
+| `userID`       | int      | Identificador único del usuario.               |
+
+| **Función**                                | **Tipo** | **Descripción**                            |
+|--------------------------------------------|----------|--------------------------------------------|
+| `changePassword(username, oldPass, newPass)` | bool     | Cambia la contraseña del usuario.          |
+| `changeName(username, oldName, newName)`     | bool     | Cambia el nombre del usuario.              |
+| `EditInfo()`                                 | bool     | Permite editar la información del usuario. |
+| `logout(username)`                           | bool     | Cierra la sesión del usuario.              |
+
+
+**Restaurant**: Representa un restaurante registrado en el sistema.
+
+| **Atributo**     | **Tipo**        | **Descripción**                                   |
+|------------------|-----------------|---------------------------------------------------|
+| `restaurantID`   | int             | ID único del restaurante.                         |
+| `restaurantName` | String          | Nombre del restaurante.                           |
+| `restaurantOwner` | RestaurantOwner | Propietario del restaurante.                      |
+| `address`         | String          | Dirección del restaurante.                        |
+| `product`          | Product         | Producto principal gestionado por el restaurante. |
+
+| **Función**          | **Tipo** | **Descripción**                    |
+|----------------------|----------|------------------------------------|
+| `addWaiter(waiter)`    | void     | Agrega un mesero al restaurante.   |
+| `removeWaiter(waiter)` | void     | Elimina un mesero del restaurante. |
+
+**Waiter**: Representa a un mesero que trabaja en un restaurante.
+
+| **Atributo** | **Tipo** | **Descripción**                  |
+|--------------|----------|----------------------------------|
+| `name`         | String   | Nombre del mesero.               |
+| `age`          | int      | Edad del mesero.                 |
+| `occupation`   | String   | Ocupación específica del mesero. |
+
+**RestaurantOwner**: Usuario que posee uno o más restaurantes.
+
+| **Atributo** | **Tipo**         | **Descripción**                        |
+|--------------|------------------|----------------------------------------|
+| `restaurants`  | List<Restaurant> | Lista de restaurantes del propietario. |
+
+| **Función**            | **Tipo** | **Descripción**                      |
+|------------------------|----------|--------------------------------------|
+| `watchNotifications()` | void     | Observa notificaciones relacionadas. |
+
+**Product**: Representa un producto del inventario de un restaurante.
+
+| **Atributo**   | **Tipo** | **Descripción**                   |
+|----------------|----------|-----------------------------------|
+| `name`           | String   | Nombre del producto.              |
+| `expirationDate` | String   | Fecha de caducidad del producto.  |
+| `quantity`       | int      | Cantidad disponible del producto. |
+| `category`       | String   | Categoría del producto.           |
+
+| **Función**      | **Tipo** | **Descripción**                     |
+|------------------|----------|-------------------------------------|
+| `showInfo()`       | void     | Muestra información del producto.   |
+| `updateQuantity()` | void     | Actualiza la cantidad del producto. |
+
+**IoT Devices**: Dispositivos IoT que controlan el inventario automáticamente.
+
+| **Atributo** | **Tipo** | **Descripción**                |
+|--------------|----------|--------------------------------|
+| `location`     | String   | Ubicación del dispositivo.     |
+| `status`       | String   | Estado actual del dispositivo. |
+| `last_active`  | String   | Última vez que estuvo activo.  |
+
+| **Funcion**      | **Tipo** | **Descripción**                       |
+|------------------|----------|---------------------------------------|
+| `AuditInventory()` | void     | Audita el inventario automáticamente. |
+
+**SensorNotification**: Notificaciones enviadas por sensores IoT.
+
+| **Atributo** | **Tipo** | **Descripción**           |
+|--------------|----------|---------------------------|
+| `alertType`    | String   | Tipo de alerta.           |
+| `status`       | String   | Estado actual del sensor. |
+
+| **Función**    | **Tipo** | **Descripción**                         |
+|----------------|----------|-----------------------------------------|
+| `Send()`         | void     | Envía una notificación.                 |
+| `checkProduct()` | void     | Verifica el estado de un producto.      |
+| `sendAlert()`    | void     | Envía una alerta basada en condiciones. |
+| `getStatus()`    | void     | Obtiene el estado actual del sensor.    |
+
+**Button_Notification**: Simulación de notificaciones por botón físico o interfaz.
+
+| **Atributo**    | **Tipo** | **Descripción**                     |
+|-----------------|----------|-------------------------------------|
+| `pressed`         | bool     | Estado del botón (presionado o no). |
+| `lastPressedTime` | String   | Última vez que se presionó.         |
+| `status`          | String   | Estado actual del botón.            |
+
+| **Función**   | **Tipo** | **Descripción**               |
+|---------------|----------|-------------------------------|
+| `pressButton()` | String   | Simula la presión del botón.  |
+| `resetButton()` | String   | Reinicia el estado del botón. |
+
+**Subscription**: Clase que gestiona suscripciones de usuarios.
+
+| **Atributo**   | **Tipo** | **Descripción**                    |
+|----------------|----------|------------------------------------|
+| `planType`       | String   | Tipo de plan de suscripción.       |
+| `startDate`      | String   | Fecha de inicio de la suscripción. |
+| `durationMonths` | int      | Duración en meses.                 |
+| `pricePerMonth`  | float    | Precio mensual del plan.           |
+
+| **Función**           | **Tipo** | **Descripción**                            |
+|-----------------------|----------|--------------------------------------------|
+| `calculateTotalPrice()` | float    | Calcula el precio total de la suscripción. |
+| `cancelSubscription()`  | void     | Cancela la suscripción del usuario.        |
+
+**Inventory**: Interfaz que define operaciones básicas de gestión de inventario.
+
+| **Función**                      | **Tipo** | **Descripción**                             |
+|----------------------------------|----------|---------------------------------------------|
+| `AddProduct()`                   | void     | Agrega un producto al inventario.           |
+| `RemoveProduct()`                | void     | Elimina un producto del inventario.         |
+| `UpdateProduct()`                  | void     | Actualiza datos del producto.               |
+| `AdjustStockLevel()`               | void     | Ajusta el nivel de stock.                   |
+| `CheckStockLevel()`                | void     | Verifica el nivel de stock.                 |
+| `setInventory()`                   | void     | Establece los datos del inventario.         |
+| `AuditInventory()`                 | void     | Audita el inventario.                       |
+| `SearchProduct(productName: String)` | void     | Busca un producto por nombre.               |
+| `GetProductDetails(productCode: int)` | void     | Obtiene detalles de un producto.            |
+| `RestoreInventoryCheck()`          | void     | Restaura un chequeo anterior de inventario. |
+| `GenerateInventoryReport()`        | void     | Genera un informe del inventario.           |
+
+**User_Authentication**: Interfaz para autenticación y registro de usuarios.
+
+| **Función**                              | **Tipo** | **Descripción**                           |
+|------------------------------------------|----------|-------------------------------------------|
+| `login(username, password)`                | bool     | Inicia sesión con usuario y contraseña.   |
+| `register(email, username, password)`      | bool     | Registra un nuevo usuario.                |
+| `logout(username)`                         | bool     | Cierra sesión del usuario.                |
+| `validateUser(username, oldPass, newPass)` | bool     | Valida usuario y actualiza la contraseña. |
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
@@ -1313,12 +1459,12 @@ Se refiere a textos escritos o ilustraciones que acompañan al software de compu
 
 ### 5.1.2. Source Code Management
 
-En esta sección se detalla qué medios se utilizaron para el seguimiento de las modificaciones, así como la semántica y nomenclatura que se usará para los commits y releases que se implementarán durante el avance del proyecto.
+El proyecto mantiene las convenciones de flujo establecido por el modelo GitFlow para el control de versiones usando Git para el control de versiones. Además, el código fuente del proyecto será publicado en la plataforma GitHub tanto para publicar nuestros avances de manera pública como para permitir la colaboración entre cada integrante del equipo en el desarrollo del mismo.
 
-Antes que nada, hay que mencionar que se utilizará GitHub como sistema de control de versiones del informe, landing page, web service y frontend de nuestro proyecto. Para ello se crearon sus respectivos repositorios:
+<img src="assets/gitflow.png">
 
-* Url de la organización: [github.com/ClearView](https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView)
-* Repositorio Landing page: [github.com/ClearView/KeepItFresh-landing-page](https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/ClearView-landing-page)
+* Enlace del repositorio del informe: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report
+* Repositorio Landing page: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/ClearView-landing-page
 
 **GitFlow:**
 
@@ -1666,14 +1812,7 @@ Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Webstor
 
 ### 5.2.1. Sprint 1
 
-En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como el entorno de desarrollo.
-
-Repositorio GitHub: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-landing-page
-
 #### 5.2.1.1. Sprint Planning 1
-
-Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
-
 <table>
     <thead>
         <tr>
@@ -1749,6 +1888,7 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
             </td>
         </tr>
     </tbody>
+</table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -1761,118 +1901,7 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 | Rodas Sotomayor, Ernesto             | ernesto0710          | L                    | C                    |
 
 #### 5.2.1.3. Sprint Backlog 1
-<table>
-  <tr>
-   <tr>
-    <td> <strong>Sprint #</strong></td>
-    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
-  </tr>
 
-   <tr>
-    <td align="center" colspan="2"> <strong>User Story</strong></td>
-    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
-  </tr>
-  <tr>
-    <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>Description<strong></td>
-    <td align="center"> <strong>Estimation (Hours)<strong></td>
-    <td align="center"> <strong>Assigned To<strong></td>
-    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
-  </tr>
-  <!---------------------------------------------------------------------- -->
-  <tr>
-    <td rowspan="4" align="center"> ID </td>
-    <td rowspan="4" align="center"> US11 Alertas visuales en dashboard</td>
-    <td align="center"> TA01 </td>
-     <td align="center"> Notificacion de la alerta.</td>
-    <td align="center">Cuando una alerta ocurra el usuario debe recibir una notificación. </td>
-    <td align="center"> 2</td>
-    <td align="center"> Marco Antonio Nakasone Gomes</td>
-    <td align="center">Todo</td>
-    <td rowspan="4" align="center"> US18 Navegación por la Landing Page</td>
-    <td align="center"> TA01 </td>
-     <td align="center"> menu con hipervinculos responsive</td>
-    <td align="center">Cada Hipervinculo debe de rediriguirte a una seccion especifica de la landing page </td>
-    <td align="center"> 2</td>
-    <td align="center"> Gonzalo Andre Zavala Quedena</td>
-    <td align="center">Done</td>
-  </tr>
-
-  <tr>
-    <td align="center"> TA02 </td>
-    <td align="center"> Pop up de alerta</td>
-    <td align="center"> Debe aparecer un pop up en la pagina cuando una alerta ocurra.</td>
-    <td align="center"> 2</td>
-    <td align="center"> Marco Antonio Nakasone Gomes</td>
-    <td align="center"> menu de navegacion mobile</td>
-    <td align="center"> Se debe desarrollar el menu mobile, haciendo uso de un icono que despliegue los hipervinculos</td>
-    <td align="center"> 2</td>
-    <td align="center"> Gonzalo Andre Zavala Quedena</td>
-    <td align="center">Done</td>
-  </tr>
-
-   <tr>
-    <td align="center"> TA03 </td>
-    <td align="center"> Historial</td>
-    <td align="center"> El historia de alertas debe ser visible.</td>
-    <td align="center"> 2</td>
-    <td align="center"> Marco Antonio Nakasone Gomes</td>
-    <td align="center"> Hero</td>
-    <td align="center"> Se debe desarrollar un banner con una frase y un botón call to action que permita dirigirnos a la aplicación web.</td>
-    <td align="center"> 2</td>
-    <td align="center"> Daniel Mateo del Castillo Bueno</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center"> TA04 </td>
-    <td align="center"> Resumen</td>
-    <td align="center"> Las alertas deben de contar con un resumen de los sucedido.</td>
-    <td align="center"> 1</td>
-    <td align="center"> Marco Antonio Nakasone Gomes</td>
-    <td align="center">Done</td>
-  </tr>
-<!----------------------------------------------->
-  <tr>
-    <td rowspan="2" align="center"> ID </td>
-    <td rowspan="2" align="center"> US01 Registro de usuario</td>
-    <td align="center"> TA01 </td>
-    <td align="center"> Registro</td>
-    <td align="center"> El usuario debe poder registrarse de forma correcta.</td>
-    <td align="center"> 1</td>
-    <td align="center"> Marco Antonio Nakasone Gomes</td>
-    <td align="center">Done</td>
-  </tr>
-
-  <tr>
-    <td align="center"> TA02 </td>
-    <td align="center"> Security </td>
-    <td align="center"> En caso un usuario ya este registrado anteriormente, no se puede crear otra cuenta con sus credenciales. </td>
-    <td align="center"> 2</td>
-    <td align="center"> Marco Antonio Nakasone Gomes</td>
-    <td align="center"> Doing</td>
-  </tr>
-    <td align="center"> Hero responsive</td>
-    <td align="center"> Esta seccion debe de ajustarse el diseño dependiendo del tamaño de la pantalla del navegador.</td>
-    <td align="center"> 1</td>
-    <td align="center"> Daniel Mateo del Castillo Bueno</td>
-    <td align="center">Done</td>
-  </tr>
-  <!------------------------------------------------>
-   <tr>
-    <td rowspan="1" align="center"> ID </td>
-    <td rowspan="1" align="center"> US22 Consulta de reseñas de clientes</td>
-    <td align="center"> TA01 </td>
-    <td align="center"> Reseñas</td>
-    <td align="center"> Se desarrolla secion donde se muestra comentarios de las experiencias de los usuarios de la plataforma web</td>
-    <td align="center"> 2</td>
-    <td align="center"> Gonzalo Andre Zavala Quedena </td>
-    <td align="center"> Done</td>
-  </tr>
-  
-</table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
