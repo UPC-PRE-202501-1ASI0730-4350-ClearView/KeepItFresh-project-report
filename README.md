@@ -375,6 +375,8 @@ KeepItFresh es una plataforma enfocada en los dos segmentos clave dentro de un r
 
 ### 2.1.1. Análisis competitivo
 
+Este análisis es llevado a cabo porque se busca conocer cuáles son las ventajas y desventajas que presenta nuestra aplicación frente a la competencia.
+
 <table>
   <tr>
     <th colspan="22">Competitive Analysis Landscape</th>
@@ -393,10 +395,6 @@ KeepItFresh es una plataforma enfocada en los dos segmentos clave dentro de un r
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
 </tr>
   <tr>
   <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
@@ -533,7 +531,7 @@ Entrevistas del segmento de dueño de restaurante:
 | Apellido             | Agurto                                                                                                                                                                                                                                                                                                                      |
 | Edad                 | 34 años                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | San Borja                                                                                                                                                                                                                                                                                                                   |
-| Evidencia            | ![EntrevistaLuis.jpg](assets/EntrevistaLuis.jpg)                                                                                                                                                                                                                                                                            |
+| Evidencia            | <img src="assets/EntrevistaLuis.jpg" width="600" height="400">                                                                                                                                                                                                                                                              |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 00:00                                                                                                                                                                                                                                                                                                                       |    
 | Fin de entrevista    | 06:30                                                                                                                                                                                                                                                                                                                       |
@@ -542,15 +540,15 @@ Resumen de entrevista: Luis Agurto, fundador y gerente general de la cevichería
 
 - Entrevista 2
 
-| Nombre               | Daniel                                                                                                                                                                                                                                                                                                                      |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Céspedes                                                                                                                                                                                                                                                                                                                    |
-| Edad                 | 54 años                                                                                                                                                                                                                                                                                                                     |
-| Distrito             | Miami                                                                                                                                                                                                                                                                                                                       |
-| Evidencia            | ![entrevista.jpg](assets/entrevista.jpg)                                                                                                                                                                                                                                                                                                                            |
+| Nombre               | Daniel                                                                                                                                                                                                                                                                                                                     |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Céspedes                                                                                                                                                                                                                                                                                                                   |
+| Edad                 | 54 años                                                                                                                                                                                                                                                                                                                    |
+| Distrito             | Miami                                                                                                                                                                                                                                                                                                                      |
+| Evidencia            | <img src="assets/entrevista.jpg" width="600" height="400">                                                                                                                                                                                                                                                                                         |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
-| Inicio de entrevista | 14:43                                                                                                                                                                                                                                                                                                                       |    
-| Fin de entrevista    | 29:10                                                                                                                                                                                                                                                                                                                       |
+| Inicio de entrevista | 14:43                                                                                                                                                                                                                                                                                                                      |    
+| Fin de entrevista    | 29:10                                                                                                                                                                                                                                                                                                                      |
 
 
 Resumen de entrevista:
@@ -566,7 +564,7 @@ Entrevista del segmento trabajadores del restaurante
 | Apellido             | Frias                                                                                                                                                                                                                                                                                                                       |
 | Edad                 | 21                                                                                                                                                                                                                                                                                                                          |
 | Distrito             | San Miguel                                                                                                                                                                                                                                                                                                                  |
-| Evidencia            | <img src="assets/evidencia.png">                                                                                                                                                                                                                                                                                            |
+| Evidencia            | <img src="assets/evidencia.png" width="600" height="400">                                                                                                                                                                                                                                                                                           |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 09:41                                                                                                                                                                                                                                                                                                                       |
 | Fin de entrevista    | 14:42                                                                                                                                                                                                                                                                                                                       | 
@@ -582,7 +580,7 @@ Kaleb Frias trabaja en un restaurante atendiendo clientes, tomando pedidos y org
 | Apellido             | Yonamine                                                                                                                                                                                                                                                                                                               |
 | Edad                 | 20                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | Pueblo Libre                                                                                                                                                                                                                                                                                                           |
-| Evidencia            | <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/feature/competitor-analysis/assets/entrevista-4.png?raw=true" width="50%">                                                                                                                                         |
+| Evidencia            | <img src="assets/entrevista-4.png" width="600" height="400">                                                                                                                                         |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 29:11                                                                                                                                                                                                                                                                                                                  |
 | Fin de entrevista    | 39:10                                                                                                                                                                                                                                                                                                                  | 
@@ -598,7 +596,7 @@ Matthew nos dió a conocer un poco sobre como es el hambiente laboral dentro de 
 | Apellido             | Ahane                                                                                                                                                                                                                                                                                                                       |
 | Edad                 | 19                                                                                                                                                                                                                                                                                                                          |
 | Distrito             | San Miguel                                                                                                                                                                                                                                                                                                                  |
-| Evidencia            | <img src="assets/envidencia-entrevista6.png">                                                                                                                                                                                                                                                                               |
+| Evidencia            | <img src="assets/envidencia-entrevista6.png" width="600" height="400">                                                                                                                                                                                                                                                                              |
 | Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 06:30                                                                                                                                                                                                                                                                                                                       |
 | Fin de entrevista    | 09:40                                                                                                                                                                                                                                                                                                                       | 
@@ -673,14 +671,21 @@ Caracteristicas Objetivas
 ## 2.3. Needfinding 
 
 ### 2.3.1. User Personas
+En esta sección, se incluyen las fichas de User Personas que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competencia, con el objetivo de capturar las caracteristicas, necesidades, y comportamientos de nuestros usuarios.
 
-#### Segmento 1: Dueños de restaurantes.
-<img src="assets/userpersona1.png">
-
-#### Segmento 2: Empleados de restaurantes.
-<img src="assets/userpersona2.png">
+<ul>
+    <li>
+        <p>Dueños de restaurantes</p>
+        <img src="assets/userpersona1.png" alt="Owner user person" title="Owner user person">
+    </li>
+    <li>
+        <p>Empleados de restaurantes</p>
+        <img src="assets/userpersona2.png" alt="Worker user person" title="Worker user person">
+    </li>
+</ul>
 
 ### 2.3.2. User Task Matrix 
+En esta sección, se presenta el User Task Matrix, que agrupa las principales tareas que los User Personas realizan para cumplir sus objetivos. Los segmentos considerados para este análisis son "Javier Rojas", un dueño de restaurante que busca la mejora para el manejamiento de inventario en la cocina, y "Daniel Paredes", un mesero que ayuda a mejorar la administración en el restaurante y atiende de manera perfecta a los clientes. Las siguientes tareas identificadas reflejan las actividades esenciales que estos usuarios realizan independientemente de la existencia de nuestra aplicación web.
 
 | **Tareas**                                                           | **Daniel**<br>Frecuencia | **Daniel**<br>Importancia | **Javier**<br>Frecuencia | **Javier**<br>Importancia |
 |----------------------------------------------------------------------|---------------------------|----------------------------|--------------------------|----------------------------|
@@ -697,6 +702,7 @@ Caracteristicas Objetivas
 | Asegurar temperatura adecuada para insumos sensibles                 | Baja                      | Baja                       | Alta                     | Alta                       |
 
 ### 2.3.3. User Journey Mapping
+En esta sección se presentan los User Journey Maps, que ilustran el end-to-end journey que experimentan nuestros segmentos objetivo sin la intervención de nuestra solución propuesta. En estos mapas se identifican las etapas, interacciones y puntos de contacto que atraviesan para cumplir sus objetivos. Por un lado, se presenta el recorrido completo que sigue el dueño, Javier Rojas, al buscar una solucion tecnológica para evitar pérdidas por vencimiento de productos. Por otro lado, se detalla el recorrido del mesero, Daniel Paredes, al comprender nuestro producto y cómo se usará en su área del trabajo.
 
 #### Segmento 1: Dueños de restaurantes.
 
@@ -707,7 +713,7 @@ Caracteristicas Objetivas
 <img src="assets/journey-map-trabajadores.png">
 
 ### 2.3.4. Empathy Mapping
-
+Para los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más lo que los usuarios sienten o necesitan de nuestra aplicación. Para llevarlo a cabo, se usará a las User Personas, los cuales son "Javier Rojas", quien es el dueño que enseña como manejar el negocio con el producto KeepItFresh. El segundo es "Daniel Paredes", quien es un trabajador que desea conocer el producto para desempeñar en el restaurante.
 #### Segmento 1: Dueños de restaurantes.
 
 <img src="assets/empathymap1.png">
@@ -718,30 +724,18 @@ Caracteristicas Objetivas
 
 ### 2.3.5. As-Is Scenario Mapping
 
-**Segmento 1**
+Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cual es el escenario actual sobre el problema que se intentará resolver, en este caso revisar el estado de las mesas, inventerio de ingredientes, asignar tareas al personal, y al momento de completar dichas tareas, comunicar su estado al supervisor.<br>
 
-Escenario: El dueño necesita revisar el estado de las mesas, el inventario de ingredientes y asignar tareas al personal.
-
-As-Is:
-
-| Fases    |                      Verificar disponibilidad de mesas                         |                         Verificacion de inventario                         |                Asignar tareas al personal                  |              Comunicacion con el equipo                                       |
-|----------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|
-| Doing    | Revisa mesas físicamente                               | Cuenta ingredientes manualmente                | Asigna tareas verbalmente                  | Comunica cambios en persona              |
-| Thinking | "No tengo visibilidad en tiempo real" | "Podríamos quedarnos sin ingredientes"  | "El personal parece sobrecargado" | "La comunicación es ineficiente" |
-| Feeling  | Me siento inseguro sobre la disponibilidad de la mesas | Me preocupa que tengamos posibles ingredientes faltantes. | me siento estresado por la carga laboral | Me frusta que existan malentendidos al momento de comunicar |
-
-**Segmento 2**  
-
-Escenario: El empleado completa tareas y necesita comunicar su estado al supervisor.
-
-As-Is:
-
-| Fases    |                         Realizacion de tareas                               |                             Notificacion de tareas                         |                   Verificacion de insumos                       |     Comunicacion con el supervisor                                               |
-|----------|------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
-| Doing    | Limpia o Prepara manualmente                          | Notificando al supervisor cuando terminan las tareas de limpieza      | Verifica fisicamente el stock             | Busca al supervisor para reportes               |
-| Thinking | "Podría ser más eficiente" | "No sé si me escucharon" | "No hay sistema para ver stock" | "Ojalá hubiera mejor comunicación" |
-| Feeling  | Me siento insatisfecho con la manera en que realice mis tareas | Me siento inseguro sobre algunas notificaciones | Me preocupa que hayan faltantes | Me frusta dichos procesos |
-
+<ul>
+  <li>
+    <p>Dueños de restaurantes</p>
+    <img src="assets/as-is scenario-mapping.png" alt="Owner's As-Is Scenario">
+  </li>
+  <li>
+    <p>Empleados de restaurantes</p>
+    <img src="assets/as-is scenario-mapping2.png" alt="Worker's As-Is Scenario">
+  </li>
+</ul>
 
 ## 2.4. Ubiquitous Language
 
@@ -775,21 +769,19 @@ WaiterInterface (InterfazDelMozo): Herramienta que utilizan los mozos para recib
 
 ## 3.1. To-Be Scenario Mapping
 
-**Segmento 1**
+Para los To-Be Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cual es el posible escenario sobre el problema después de que le demos una solución, en este caso usaremos las clases en línea, presentando cómo nuestro proyecto ayuda a solucionar el problema de revisar el estado de las mesas, inventerio de ingredientes, asignar tareas al personal, y al momento de completar dichas tareas, comunicar su estado al supervisor.<br>
 
-| Fases       | Verificación de mesas          | Gestión de inventario        | Asignación de tareas      | Comunicación con equipo    |
-|-------------|--------------------------------|------------------------------|---------------------------|---------------------------|
-| **Doing**   | Consulta sistema de reservas en tiempo real | Recibe alertas automáticas de bajo stock | Asigna tareas mediante plataforma digital | Coordina mediante chat integrado |
-| **Thinking**| "Tengo visibilidad completa del estado del restaurante" | "El sistema me avisa antes de quedarnos sin ingredientes" | "Puedo balancear mejor las cargas de trabajo" | "Todos reciben las actualizaciones al instante" |
-| **Feeling** | Tranquilo y en control | Confiado en los suministros | Satisfecho con la distribución | Conectado con el equipo |
+<ul>
+  <li>
+    <p>Dueños de Restaurantes</p>
+    <img src="assets/to-be scenario-mapping.png" alt="Owner's As-Is Scenario">
+  </li>
+  <li>
+    <p>Empleados de Restaurantes</p>
+    <img src="assets/to-be scenario-mapping2.png" alt="Worker's As-Is Scenario">
+  </li>
+</ul>
 
-**Segmento 2**
-
-| Fases       | Ejecución de tareas            | Reporte de progreso           | Verificación de recursos  | Comunicación con supervisores |
-|-------------|--------------------------------|------------------------------|---------------------------|------------------------------|
-| **Doing**   | Registra tareas completadas en app móvil | Notifica completado mediante sistema | Consulta niveles de ingredientes en tablet | Envía solicitudes por plataforma |
-| **Thinking**| "Ahora trabajo de manera organizada" | "Mis reportes quedan registrados adecuadamente" | "Sé exactamente qué productos están disponibles" | "Puedo comunicar necesidades fácilmente" |
-| **Feeling** | Satisfecho con la eficiencia | Seguro en sus reportes     | Tranquilo por visibilidad | Apoyado por la comunicación clara |
 
 ## 3.2. User Stories
 
@@ -820,6 +812,8 @@ WaiterInterface (InterfazDelMozo): Herramienta que utilizan los mozos para recib
 
 ## 3.3. Impact Mapping
 
+El Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio, asegurando que los esfuerzos se concentren en generar un impacto real y valioso. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.<br>
+
 <img src="./assets/impact mapping.jpg">
 
 ## 3.4. Product Backlog
@@ -841,7 +835,6 @@ WaiterInterface (InterfazDelMozo): Herramienta que utilizan los mozos para recib
 |       13      |          US08        |           Solicitud de atención          |                                 Como comensal    Quiero presionar un botón para solicitar atención    Para que el personal reciba una notificación inmediata.                               |                 2               |
 |       14      |          US09        |     Registro   de tiempo de respuesta    |                           Como administrador    Quiero medir cuánto tiempo tarda el personal en atender una   solicitud    Para evaluar la eficiencia del servicio.                         |                 2               |
 |       15      |          US01        |            Registro de usuario           |                        Como dueño o trabajador de   restaurante    Quiero poder crear una cuenta en la plataforma    Para acceder a sus funcionalidades según mi rol.                       |                 3               |
-|       16      |          US02        |              Inicio de sesión            |                 Como dueño o trabajador de   restaurante    Quiero poder iniciar sesión con mis credenciales    Para acceder a las funciones específicas asignadas a mi rol.                |                 3               |
 
 
 # Capítulo IV: Product Design
