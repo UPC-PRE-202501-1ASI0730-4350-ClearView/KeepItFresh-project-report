@@ -1868,10 +1868,7 @@ Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Webstor
             <td>Sprint 1 Goal</td>
             <td style="text-align: justify">
                 <p>
-                Nuestro objetivo en este sprint es desarrollar la primera versión de la Landing Page de KeepItFresh, enfocándonos en una estructura que sea visualmente atractiva y fácil de navegar. Utilizando HTML, CSS y JavaScript, crearemos una interfaz responsive que se adapte de manera óptima a dispositivos móviles y de escritorio.
-                </p>
-                <p>
-                Creemos que esta Landing Page ofrecerá una introducción profesional y accesible a KeepItFreet, mejorando la experiencia de usuario y estableciendo una base sólida para la intecon el sistema. El éxito de este sprint se confirmará cuando los usuarios puedan explorar la Landing Page de manera fluida en distintos dispositivos, logrando una primera impresión positiva y una navegación sencilla que los motive a explorar más sobre el sistema.
+                Completar el desarrollo de la landing page y desplegada en GitHub Pages
                 </p>
             </td>
         </tr>
@@ -1892,13 +1889,13 @@ Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Webstor
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name)       | GitHub Username | Aspect Name 1 (L/C) | Aspect Name 2 (L/C) |
-|-------------------------------------------|------------------|----------------------|----------------------|
-| Briceño Llanos, Ayrton Omar             | AyrtonBriceno    | L                    | C                    |
-| Guia Carrasco, Pedro Andre              | Pedrivizz           | L                    | C                    |
-| Lang Nassi, Werner Khalil             | 00WernerLang           | L                    | C                    |
-| Nakasone Gomes, Marco Antonio              | marquinho04           | L                    | C                    |
-| Rodas Sotomayor, Ernesto             | ernesto0710          | L                    | C                    |
+| Team Member (Last Name, First Name)       | GitHub Username | Aspect Name (L/C) |
+|-------------------------------------------|------------------|-------------------|
+| Briceño Llanos, Ayrton Omar             | AyrtonBriceno    | L                 |
+| Guia Carrasco, Pedro Andre              | Pedrivizz           | C                 |
+| Lang Nassi, Werner Khalil             | 00WernerLang           | C                 |
+| Nakasone Gomes, Marco Antonio              | marquinho04           | C                 |
+| Rodas Sotomayor, Ernesto             | ernesto0710          | C                 |
 
 #### 5.2.1.3. Sprint Backlog 1
 
@@ -1948,25 +1945,6 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 
 *Consulta* : Si necesitas ayuda, no dudes en dejar un mensaje.
 ![message](./assets/landing_page6.png)
-
-=======
-
-![navebar](./assets/landing_page1.png)
-
-*Perfiles* : Averigua quienes son los integrantes de este proyecto.
-![profile](./assets/landing_page2.png)
-
-*Esencia* : Descubre la esencia que propone esta empresa para la solucion del problema.
-![esential](./assets/landing_page3.png)
-
-*Hazañas* : Descubre la mision, vision y valores que ofrecemos.
-![hazañas](./assets/landing_page4.png)
-
-*Caracterisitas* : Descubre las caractericias que proponemos para la solucion.
-![caracteristicas](./assets/landing_page5.png)
-
-*Consulta* : Si necesitas ayuda, no dudes en dejarnos un mensaje.
-![consulta](./assets/landing_page6.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
