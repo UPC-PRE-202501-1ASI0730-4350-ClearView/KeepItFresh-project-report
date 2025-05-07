@@ -738,6 +738,21 @@ Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
 </ul>
 
 ## 2.4. Ubiquitous Language
+<p style="text-align: justify;">
+El lenguaje ubicuo es una parte fundamental de la estrategia de UX. Esta consiste en el conjunto de términos y frases fuera del contexto de un desarrollador pero que se usan para la lógica de negocio, permitiéndole así al usuario poder leer y entender mejor el proyecto. Aplicar el lenguaje ubicuo (ubiquitous language) en un proyecto consigue los siguientes beneficios:
+
+- **Aumenta la Accesibilidad:**  
+  Un lenguaje claro y conciso es esencial para que la aplicación sea accesible para personas con diferentes niveles de alfabetización y habilidades cognitivas. Esto incluye el uso de terminología sencilla, descripciones precisas y frases directas, lo cual ayuda a eliminar barreras de comprensión y a crear una experiencia más inclusiva.
+
+
+- **Facilita el Onboarding de Nuevos Usuarios:**  
+  Un lenguaje consistente y bien estructurado, ayuda a que los nuevos usuarios comprendan rápidamente el funcionamiento de la aplicación. Al utilizar términos intuitivos y mensajes claros, se reduce la curva de aprendizaje y se mejora la adopción inicial del producto.
+
+
+- **Incrementa la Eficiencia en el Desarrollo:**
+  Los equipos de desarrollo pueden trabajar más eficientemente cuando se utiliza un lenguaje compartido y coherente en toda la aplicación. Esto reduce la necesidad de aclaraciones y permite un flujo de trabajo más fluido y menos propenso a errores.
+
+### Glosario
 
 ```
 RestaurantOwner (DueñoDelRestaurante): Persona encargada de la administración general del restaurante. Supervisa el inventario, el personal, la calidad del servicio y toma decisiones operativas clave.
