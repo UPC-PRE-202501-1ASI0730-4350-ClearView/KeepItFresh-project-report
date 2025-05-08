@@ -2112,26 +2112,11 @@ Link del tablero: https://trello.com/invite/b/681c43979a40b407203af2bc/ATTIe73d7
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
-<table>
-  <tr>
-    <td align ="center" > <strong>Repository</strong></td>
-    <td  align ="center" > <strong>Branch</strong></td>
-    <td  align ="center" > <strong>Commit ID</strong></td>
-    <td  align ="center" > <strong>Commit message</strong></td>
-    <td  align ="center" > <strong>Commit Masagge body</strong></td>
-    <td  align ="center" > <strong>Commit on (date)</strong></td>
-  </tr>
-
-  <tr>
-    <td rowspan="27" align="center">https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-landing-page </td>
-    <td align="center"> main</td>
-    <td align="center"> 0833c84</td>
-    <td align="center"> Primer avance del landing page</td>
-    <td align="center"> Primer avance del landing paget</td>
-    <td align="center"> ---</td>
-    <td align="center"> 04/04/2025</td>
-  </tr>
-</table>
+| Repository               | Branch                | Commit Id                             | Commit Message                     |
+|--------------------------|-----------------------|---------------------------------------|------------------------------------|
+| KeepItFresh-landing-page  | feature/language      | d35fb59c33d0d436d200a4921e7c17cc1dd65f7d | fixes on en.json and es.json       |
+|                          | feature/login-register| 03371751957fcd500b311b6d5fbc3b4199621ce1 | fixes on final version             |
+|                          | feature/landing-page  | 1ce447d03aa852c0a8140faa90575eccc540ae1c | change main language on the landing |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -2158,19 +2143,7 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "KeepItFresh"
-
-<table> 
-  <tr>
-    <td> <strong>End Point </strong></td>
-    <td align="center"> <strong>Funciones</strong> </td>
-  </tr>
-
-  <tr>
-    <td> https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/</td>
-    <td> Desplegar Landing Page de KeepItFresh</td>
-  </tr>
-</table>
+**Esta seccion no aplica para esta entrega**
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -2179,12 +2152,6 @@ Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para ha
 **Link de la landing page desplegada:** https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/
 
 ![GitHub-Pages](./assets/github_pages.png)
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint
-
-La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo ClearView.
-
-![GitHubPages](./assets/github_pages.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
