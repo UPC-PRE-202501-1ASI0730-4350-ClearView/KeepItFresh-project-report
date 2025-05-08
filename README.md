@@ -1813,6 +1813,7 @@ Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Webstor
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
+A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación del landing page.
 <table>
     <thead>
         <tr>
@@ -1898,7 +1899,216 @@ Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Webstor
 | Rodas Sotomayor, Ernesto             | ernesto0710          | C                 |
 
 #### 5.2.1.3. Sprint Backlog 1
+En esta secciones se muestra las tareas que se realizaron en el sprint 1, se adjunta la captura del tablero y el link.
+Link del tablero: https://trello.com/invite/b/681c43979a40b407203af2bc/ATTIe73d73219d6b16a5d2f5071d672b47c920C0DDDF/keepitfresh-sprint-1
+![img.png](assets/sprint-1.png)
 
+
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td align="center" colspan="7"><strong>Sprint 1</strong></td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2"><strong>User Story</strong></td>
+    <td align="center" colspan="6"><strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do/In-Process/To-Review/Done)</strong></td>
+  </tr>
+
+  <!-- US03 -->
+  <tr>
+    <td rowspan="1" align="center">US03</td>
+    <td rowspan="1" align="center">Sección Features</td>
+    <td align="center">01</td>
+    <td align="center">Crear contenido e iconos de features</td>
+    <td align="center">Se redacta descripciones breves y claras de las principales funcionalidades del producto.</td>
+    <td align="center">1</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!-- US04 -->
+  <tr>
+    <td rowspan="2" align="center">US04</td>
+    <td rowspan="2" align="center">Sección contacto</td>
+    <td align="center">02</td>
+    <td align="center">Diseñar formulario de contacto</td>
+    <td align="center">Se crea un formulario simple. Se asegura que el diseño sea intuitivo y accesible.</td>
+    <td align="center">2</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">03</td>
+    <td align="center">Incluir métodos alternativos</td>
+    <td align="center">Se agrega información de contacto adicional tal como correo electronico y telefono.</td>
+    <td align="center">1</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!-- US06 -->
+  <tr>
+    <td rowspan="3" align="center">US06</td>
+    <td rowspan="3" align="center">Envío de consultas</td>
+    <td align="center">04</td>
+    <td align="center">Implementar lógica de envío</td>
+    <td align="center">Desarrollar la funcionalidad que permita enviar la información del formulario de contacto al backend.</td>
+    <td align="center">3</td>
+    <td align="center">Marco</td>
+    <td align="center">To Do</td>
+  </tr>
+  <tr>
+    <td align="center">05</td>
+    <td align="center">Mostrar mensaje de confirmación</td>
+    <td align="center">Diseñar un mensaje visual que se muestre tras el envío exitoso del formulario.</td>
+    <td align="center">1</td>
+    <td align="center">Marco</td>
+    <td align="center">To Do</td>
+  </tr>
+  <tr>
+    <td align="center">06</td>
+    <td align="center">Validar campos del formulario</td>
+    <td align="center">Implementar validaciones básicas.</td>
+    <td align="center">1</td>
+    <td align="center">Marco</td>
+    <td align="center">To Do</td>
+  </tr>
+
+  <!-- US08 -->
+  <tr>
+    <td rowspan="2" align="center">US08</td>
+    <td rowspan="2" align="center">Diseño visual coherente</td>
+    <td align="center">07</td>
+    <td align="center">Aplicar paleta y tipografía de marca</td>
+    <td align="center">Asegurar que todos los elementos visuales utilicen los colores, fuentes y estilos definidos por el style guidelines.</td>
+    <td align="center">1</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">08</td>
+    <td align="center">Incluir logo</td>
+    <td align="center">Incorporar el logo en las secciones clave, respetando el espacio alrededor.</td>
+    <td align="center">1</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!-- US02 -->
+  <tr>
+    <td rowspan="2" align="center">US02</td>
+    <td rowspan="2" align="center">Sección quienes somos</td>
+    <td align="center">09</td>
+    <td align="center">Redactar misión, visión y valores</td>
+    <td align="center">Crear textos que comuniquen la esencia. propósito y principios del equipo.</td>
+    <td align="center">2</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">10</td>
+    <td align="center">Incluir fotos del equipo</td>
+    <td align="center">Agregar imágenes del equipo.</td>
+    <td align="center">1</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!-- US05 -->
+  <tr>
+    <td rowspan="2" align="center">US05</td>
+    <td rowspan="2" align="center">Registro instantáneo</td>
+    <td align="center">11</td>
+    <td align="center">Diseñar botón "Register Now"</td>
+    <td align="center">Diseñar un botón llamativo y accesible que invite al visitante a registrarse de forma rápida.</td>
+    <td align="center">1</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">12</td>
+    <td align="center">Asegurar accesibilidad y visibilidad</td>
+    <td align="center">Verificar que el botón está ubicado estratégicamente en la página, y tenga el tamaño y contraste adecuados.</td>
+    <td align="center">1</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!-- US01 -->
+  <tr>
+    <td rowspan="2" align="center">US01</td>
+    <td rowspan="2" align="center">Menú de navegación</td>
+    <td align="center">13</td>
+    <td align="center">Diseñar layout del menú</td>
+    <td align="center">Planificar la estructura del menú de navegación.</td>
+    <td align="center">2</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">14</td>
+    <td align="center">Implementar enlaces a secciones</td>
+    <td align="center">Agregar enlaces que permiten desplazarse fácilmente a cada sección de la página al hacer click en el menú.</td>
+    <td align="center">1</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!-- US10 -->
+  <tr>
+    <td rowspan="1" align="center">US10</td>
+    <td rowspan="1" align="center">Tipografía legible y accesible</td>
+    <td align="center">15</td>
+    <td align="center">Elegir fuentes accesibles</td>
+    <td align="center">Seleccionar tipografías que sean legibles en distintos tamaños y dispositivos.</td>
+    <td align="center">1</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!-- US09 -->
+  <tr>
+    <td rowspan="2" align="center">US09</td>
+    <td rowspan="2" align="center">Organización de secciones claras</td>
+    <td align="center">16</td>
+    <td align="center">Definir estructura general</td>
+    <td align="center">Organizar el contenido de la landing en bloques visuales bien definidos.</td>
+    <td align="center">2</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">17</td>
+    <td align="center">Usar separación visual entre bloques</td>
+    <td align="center">Utilizar espacios, líneas, colores o fondos para diferenciar visualmente cada sección, facilitando la navegación.</td>
+    <td align="center">1</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <!-- US07 -->
+  <tr>
+    <td rowspan="1" align="center">US07</td>
+    <td rowspan="1" align="center">Diseño responsive</td>
+    <td align="center">18</td>
+    <td align="center">Implementar diseño adaptable</td>
+    <td align="center">Asegurar que todos los elementos de la página se adapten correctamente a diferentes tamaños de pantalla y dispositivos.</td>
+    <td align="center">2</td>
+    <td align="center">Marco</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
