@@ -744,10 +744,12 @@ Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
     <p>Dueños de restaurantes</p>
     <img src="assets/as-is scenario-mapping.png" alt="Owner's As-Is Scenario">
   </li>
+    <p>El escenario actual refleja los principales puntos de fricción que enfrenta el administrador en la gestión operativa del restaurante. Las tareas como verificar disponibilidad de mesas, controlar inventario y asignar funciones se realizan manualmente y sin visibilidad en tiempo real, lo que genera inseguridad, estrés y sobrecarga. Además, la comunicación interna es deficiente, ya que los cambios se comunican en persona y con frecuencia se producen malentendidos. Este mapeo evidencia la necesidad de digitalizar y automatizar procesos clave para mejorar la eficiencia y la experiencia laboral.</p>
   <li>
     <p>Empleados de restaurantes</p>
     <img src="assets/as-is scenario-mapping2.png" alt="Worker's As-Is Scenario">
   </li>
+    <p>Este mapeo muestra cómo los trabajadores operativos enfrentan procesos manuales y desconectados que afectan tanto su rendimiento como su bienestar. Las tareas de limpieza o preparación se notifican verbalmente al supervisor, sin confirmación clara de recepción, y el control de insumos se hace de forma visual, generando dudas y frustración. La comunicación con los supervisores es limitada y poco fluida. Las emociones predominantes son la inseguridad, insatisfacción y preocupación por fallas operativas, lo cual resalta la oportunidad de implementar herramientas tecnológicas que aporten claridad, agilidad y mejor comunicación. </p>
 </ul>
 
 ## 2.4. Ubiquitous Language
