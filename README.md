@@ -706,11 +706,11 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 
 #### Segmento 1: Dueños de restaurantes.
 
-<img src="assets/journey-map-dueños.png">
+<img src="assets/Segmento 1_ Dueños de restaurantes..png">
 
 ### Segmento 2: Empleados de restaurantes.
 
-<img src="assets/journey-map-trabajadores.png">
+<img src="assets/Segmento 2_ Empleados de restaurantes..png">
 
 ### 2.3.4. Empathy Mapping
 Para los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más lo que los usuarios sienten o necesitan de nuestra aplicación. Para llevarlo a cabo, se usará a las User Personas, los cuales son "Javier Rojas", quien es el dueño que enseña como manejar el negocio con el producto KeepItFresh. El segundo es "Daniel Paredes", quien es un trabajador que desea conocer el producto para desempeñar en el restaurante.
