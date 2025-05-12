@@ -727,9 +727,13 @@ Para los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más l
 
 <img src="assets/empathymap1.png">
 
+Este empathy map describe a Javier, un administrador de restaurante que experimenta altos niveles de estrés debido a la dificultad de mantener el orden y la eficiencia en su negocio. Siente que el registro manual de productos es ineficiente y reconoce la necesidad urgente de herramientas tecnológicas para mejorar su gestión. Está rodeado de comentarios negativos tanto de clientes como de empleados, lo que refuerza su sensación de desorganización. Busca soluciones que le permitan disminuir el estrés, optimizar procesos y reducir pérdidas por caducidad, siendo receptivo a adoptar nuevas tecnologías si estas son accesibles y fáciles de implementar.
+
 ### Segmento 2: Empleados de restaurantes.
 
 <img src="assets/empathymap2.png">
+
+El segundo empathy map se enfoca en Daniel, un joven estudiante que trabaja como mesero en un restaurante criollo. Se enfrenta diariamente al desorden operativo, conflictos entre personal de cocina e inventario, y la frustración de no poder concentrarse en sus estudios por el ambiente laboral estresante. Daniel desea ofrecer un buen servicio, pero sufre cuando la mala organización le impide hacerlo. Anhela un entorno más estructurado, con herramientas que le permitan tomar pedidos de forma eficiente y mejorar la coordinación interna sin tener que intervenir en procesos que no le competen.
 
 ### 2.3.5. As-Is Scenario Mapping
 
