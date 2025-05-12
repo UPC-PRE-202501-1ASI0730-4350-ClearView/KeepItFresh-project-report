@@ -1028,14 +1028,21 @@ Aquí mostraremos los Meta Tagas y los SEO tags que hemos usado para poder desar
 ```
 
 ### 4.2.4. Searching Systems
-Los Sistemas de Búsqueda permiten a los usuarios encontrar rápidamente productos específicos dentro del inventario usando filtros, palabras clave, categorías o códigos.
+Los sistemas de búsqueda son un componente fundamental en la experiencia del usuario dentro de KeepItFresh, ya que permiten al personal operativo y administrativo localizar de manera rápida y precisa productos específicos dentro del inventario. Este tipo de funcionalidad resulta crucial en entornos como cocinas o almacenes, donde el tiempo de respuesta y la claridad de la información impactan directamente en la eficiencia operativa y la toma de decisiones.
 
-Esto es útil para:
+Uno de los principales objetivos de estos sistemas es reducir la carga cognitiva del usuario, evitando que tenga que recorrer manualmente largas listas o estructuras complejas de información. En su lugar, se proporciona una interfaz que facilita búsquedas directas y refinadas mediante distintos criterios como nombres, categorías, fechas de ingreso, códigos únicos (SKU), estados de conservación, entre otros. Esto permite que cualquier usuario, sin importar su nivel de alfabetización digital, pueda obtener los resultados deseados en segundos.
 
-- Ahorrar tiempo al localizar productos.
-- Encontrar ítems por nombre, tipo, fecha de ingreso, etc.
-- Apoyar decisiones rápidas sobre stock o caducidad.
+El sistema ofrecerá múltiples métodos de búsqueda adaptados al contexto de uso operativo, tales como:
 
+- Búsqueda por palabra clave: Permite ingresar nombres de productos o términos relacionados para ubicar ítems rápidamente.
+
+- Búsqueda por código de producto o SKU: Ideal para entornos donde se maneja inventario con etiquetas o códigos únicos.
+
+- Filtros avanzados: El usuario podrá refinar resultados aplicando filtros por tipo de producto, estado (próximo a vencer, agotado, en stock), fecha de ingreso, categoría (perecible/no perecible) o zona de almacenamiento.
+
+- Resultados visuales ordenados: Los datos se presentarán de forma clara, con tarjetas o listas que incluirán nombre, cantidad, estado, fecha de vencimiento y alertas asociadas.
+
+Estos mecanismos de búsqueda están diseñados para ser accesibles tanto desde la interfaz web como desde dispositivos móviles. Gracias a esta integración, los usuarios pueden tomar decisiones informadas con mayor agilidad, lo cual impacta positivamente en la gestión de compras, la reducción de desperdicios, el control de mermas y la optimización del inventario general. En resumen, el sistema de búsqueda de KeepItFresh no solo facilita la localización de productos, sino que se convierte en una herramienta estratégica para mejorar la productividad y garantizar un servicio más eficiente y oportuno.
 
 ### 4.2.5. Navigation Systems
 Los Sistemas de Navegación ayudan al usuario a moverse fácilmente por la interfaz de la aplicación.
