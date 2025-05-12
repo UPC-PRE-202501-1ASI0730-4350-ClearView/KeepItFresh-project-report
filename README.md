@@ -2202,7 +2202,15 @@ Atzori, L., Iera, A., & Morabito, G. (2017). Understanding the Internet of Thing
 
 Bedoya-Perales, N. S., & Magro, G. P. D. (2021). Quantification of Food Losses and Waste in Peru: A Mass Flow Analysis along the Food Supply Chain. Sustainability, 13(5), 2807. https://doi.org/10.3390/su13052807
 
+Camden, R., Di Francesco, H., Gurney, C., & Shavin, M. (2023). Frontend Development Projects with Vue.js 3 (2nd ed.). Packt Publishing.
+
+Camden, R., Di Francesco, H., Gurney, C., Kirkbride, P., & Shavin, M. (2020). Front-End Development Projects with Vue.js. Packt Publishing.
+
+Cuomo, S., & Lee, T. J. (2024). Vue.js 3 for Beginners: Learn the Essentials of Vue.js 3 and Its Ecosystem to Build Modern Web Applications. Packt Publishing.
+
 Deloitte. (2020). The Future of Fresh: The rise of the fresh food ecosystem. Deloitte Insights. https://www2.deloitte.com
+
+Proud, N. (2024). Minimal APIs in ASP.NET 9 (2nd ed.). Packt Publishing.
 
 Verdouw, C. N., Wolfert, J., Beulens, A. J. M., & Rialland, A. (2016). Virtualization of food supply chains with the Internet of Things. Journal of Food Engineering, 176, 128–136. https://doi.org/10.1016/j.jfoodeng.2015.11.009
 
