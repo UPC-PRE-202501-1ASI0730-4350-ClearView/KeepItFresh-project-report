@@ -362,6 +362,11 @@ KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una 
 
 #### 1.2.2.4. Lean UX Canvas.
 <img src="assets/canvas-updated.jpeg">
+
+La imagen representa un UX Canvas del proyecto KeepItFresh, una herramienta estratégica que organiza de forma visual los elementos clave para diseñar una experiencia centrada en el usuario. El canvas parte del problema central del negocio —la mala gestión de inventarios en restaurantes medianos— y propone soluciones tecnológicas basadas en sensores IoT, alertas automáticas y control visual accesible, con beneficios tanto operativos como comerciales.
+
+Se identifican claramente a los usuarios (dueños y trabajadores de restaurantes), junto con sus necesidades, beneficios esperados, hipótesis a validar, y acciones mínimas viables para probar la solución. Además, se abordan tanto los aprendizajes prioritarios como las pruebas de menor esfuerzo necesarias para iterar el producto. En conjunto, este canvas guía el desarrollo de KeepItFresh desde la empatía con el usuario hasta la validación del producto en contexto real.
+
 ## 1.3. Segmentos Objetivos
 
 KeepItFresh es una plataforma enfocada en los dos segmentos clave dentro de un restaurante; Los dueños y trabajadores de los restaurantes. Estos dos grupos son los encargados principales en proveer la mejor experiencia posible al consumidor y de administrar el restaurante, por ello KeepItFresh se enfoca en proporcionarles soluciones inteligentes los cuales facilitan la labor de ambos segmentos.
