@@ -806,10 +806,12 @@ Para los To-Be Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
     <p>Dueños de Restaurantes</p>
     <img src="assets/to-be scenario-mapping.png" alt="Owner's As-Is Scenario">
   </li>
+    <p>El escenario ideal propuesto para el administrador transforma procesos manuales en flujos digitales eficientes. La verificación de mesas se realiza mediante un sistema de reservas en tiempo real, mientras que el inventario se gestiona con alertas automáticas. Las tareas se asignan digitalmente, permitiendo un balance más justo, y la comunicación con el equipo se centraliza mediante chats integrados. Esto genera sensaciones de tranquilidad, control y conexión, reflejando una mejora sustancial en la coordinación, toma de decisiones y reducción del estrés operativo.</p>
   <li>
     <p>Empleados de Restaurantes</p>
     <img src="assets/to-be scenario-mapping2.png" alt="Worker's As-Is Scenario">
-  </li>
+  </li
+      <p>En el caso del personal operativo, el nuevo escenario contempla herramientas que facilitan la atención, el control de insumos y la trazabilidad. Un botón IoT permite que los clientes soliciten atención de forma precisa y medible, mientras que la verificación de recursos y su estado se realiza digitalmente, previniendo pérdidas y garantizando frescura. Además, se integran reportes exportables para mayor orden y control. Esto permite que el empleado se sienta más enfocado, seguro y motivado, eliminando la incertidumbre propia de los procesos manuales.</p>
 </ul>
 
 
