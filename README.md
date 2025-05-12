@@ -713,9 +713,13 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 
 <img src="assets/Segmento 1_ Dueños de restaurantes..png">
 
+Este User Journey Map describe la experiencia del dueño de restaurante en su proceso de adopción de KeepItFresh, desde el descubrimiento de soluciones tecnológicas hasta su fidelización. Se identifican emociones como la duda inicial y la progresiva satisfacción conforme el usuario valida el valor del sistema en el control del stock y la reducción de pérdidas. Los puntos de contacto incluyen desde ferias gastronómicas y redes sociales hasta reportes automáticos y beneficios por recomendación. El mapa refleja una transición emocional positiva basada en la funcionalidad, el ahorro tangible y la facilidad de implementación de la solución, siempre considerando el perfil técnico y operativo del usuario.
+
 ### Segmento 2: Empleados de restaurantes.
 
 <img src="assets/Segmento 2_ Empleados de restaurantes..png">
+
+Este mapa representa la experiencia de los empleados de cocina o de operación directa con el sistema. Comienza con una sensación de inseguridad frente a la tecnología, que evoluciona hacia la confianza y, finalmente, la satisfacción. Las acciones están orientadas al uso práctico del sistema: escanear productos, registrar insumos y responder a alertas. Se enfatiza la necesidad de una interfaz intuitiva, tutoriales claros y compatibilidad con ambientes exigentes. La propuesta responde a mejorar la eficiencia diaria, reducir el estrés operativo y generar sentido de pertenencia con el proceso de mejora del restaurante.
 
 ### 2.3.4. Empathy Mapping
 Para los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más lo que los usuarios sienten o necesitan de nuestra aplicación. Para llevarlo a cabo, se usará a las User Personas, los cuales son "Javier Rojas", quien es el dueño que enseña como manejar el negocio con el producto KeepItFresh. El segundo es "Daniel Paredes", quien es un trabajador que desea conocer el producto para desempeñar en el restaurante.
