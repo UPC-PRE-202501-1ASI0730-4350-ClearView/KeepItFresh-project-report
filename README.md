@@ -67,7 +67,7 @@ TB1: El equipo entero participó en el desarrollo del sistema, asignando las tar
 * Se crearon los artefactos necesarios usando las herramientas recomendadas y se obtuvieron enlaces de imagen desde la carpeta "assets" en la rama develop del repositorio del informe.
 * Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los logros del Sprint 1, centrado en la página de inicio. 
 
-<img src="./assets/collaborations.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/collaborations.png?raw=true">
 
 # Contenido
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
