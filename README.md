@@ -862,7 +862,7 @@ A continuación, estableceremos las épicas, para luego detallarlas en historias
 
 El Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio, asegurando que los esfuerzos se concentren en generar un impacto real y valioso. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.<br>
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/impact%20mapping.jpg?raw=true">
+<img src="assets/impact mapping.png">
 
 ## 3.4. Product Backlog
 
@@ -878,6 +878,17 @@ El Impact Map es una herramienta que se utiliza en la planificación de proyecto
 | 8      | US6           | Diseño visual coherente        | Como usuario potencial interesado en el producto de Keep It Fresh Quiero que la landing page tenga un diseño visual coherente con la identidad de marca.                                        | 3            |
 | 9      | US7           | Organización de secciones claras | Como usuario, Quiero que el contenido de la landing page esté organizado en secciones claras, Para entender mejor la propuesta del producto.                                                  | 2            |
 | 10     | US8           | Tipografía legible y accesible | Como visitante, Quiero que las tipografías estén bien seleccionadas Para que la lectura sea cómoda y accesible.                                                                               | 1            |
+| 11     | US11          | Notificaciones conexión/desconexión    | Como gerente, quiero recibir notificaciones cuando un sensor se conecte o desconecte, para monitorear la integridad del sistema IoT.                                                                                             | 4            |
+| 12     | US12          | Estado actual de sensores              | Como gerente, quiero visualizar el estado operativo de todos los sensores (activos/inactivos) en un panel central, para identificar fallos rápidamente.                                                                         | 4            |
+| 13     | US13          | Alertas de alimentos próximos a vencer | Como gerente, quiero recibir alertas cuando un alimento esté próximo a vencer (≤3 días), para evitar pérdidas.                                                                                                                  | 4            |
+| 14     | US15          | Notificaciones de advertencia          | Como gerente, quiero recibir notificaciones amarillas para situaciones que requieren atención preventiva.                                                                                                                        | 4            |
+| 15     | US16          | Notificaciones de error y éxito        | Como gerente, quiero notificaciones rojas para errores críticos y verdes para confirmar acciones exitosas.                                                                                                                       | 4            |
+| 16     | US17          | Registro de productos en inventario    | Como administrador, quiero registrar productos en el inventario indicando nombre, cantidad, categoría y fecha de vencimiento, para mantener un control actualizado de los insumos.                                              | 5            |
+| 17     | US18          | Consulta del estado del inventario     | Como usuario, quiero revisar el estado actual de los productos registrados en inventario, para tomar decisiones de reposición a tiempo.                                                                                          | 5            |
+| 18     | US19          | Edición de productos en inventario     | Como responsable de almacén, quiero poder actualizar los datos de un producto ya registrado, para reflejar ingresos o corregir errores en la información.                                                                        | 5            |
+| 19     | US20          | Eliminación de productos caducados     | Como administrador, quiero eliminar productos que ya han vencido, para mantener el inventario limpio y evitar errores de gestión.                                                                                                | 5            |
+| 20     | US21          | Generación de reportes de inventario   | Como supervisor, quiero generar reportes del estado actual del inventario en formatos PDF o Excel, para utilizarlos en reuniones o análisis internos.                                                                            | 5            |
+| 21     | US14          | Notificaciones informativas            | Como gerente, quiero recibir notificaciones azules para confirmaciones de operaciones exitosas o actualizaciones del sistema.                                                                                                    | 4            |
 
 # Capítulo IV: Product Design
 
@@ -1278,13 +1289,13 @@ Hemos hecho un bosquejo de nuestro prototipo de web en figma
 ### 4.6.1. Software Architecture Context Diagram
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepItFresh.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4context.png?raw=true" width="100%"/>
+<img src=""/>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4container.png?raw=true" width="100%"/>
+<img src=""/>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
@@ -1293,19 +1304,19 @@ A continuación, se mostrarán los diagramas de componentes para cada Bounded Co
 ## 4.7. Software Object-Oriented Design
 Diagrama de componente de Customer Feedback
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsCustomer.png?raw=true" width="100%"/>
+<img src=""/>
 
 Diagrama de componente de Inventory Monitoring
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsInventory.png?raw=true" width="100%"/>
+<img src=""/>
 
 Diagrama de componente de Location and Environment
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsLocation.png?raw=true" width="100%"/>
+<img src=""/>
 
 Diagrama de componente de Restaurant Operations
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsRestaurant.png?raw=true" width="100%"/>
+<img src=""/>
 
 ### 4.7.1. Class Diagrams
 
