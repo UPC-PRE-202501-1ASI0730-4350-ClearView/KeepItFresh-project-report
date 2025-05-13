@@ -830,6 +830,7 @@ A continuación, estableceremos las épicas, para luego detallarlas en historias
 | E02            |Diseño e implementación de la interfaz visual | Implementación de un diseño atractivo, coherente y responsive que refleje la identidad de marca y ofrezca buena experiencia de usuario.             |
 |E03             | Optimización para conversiones y call to action | Implementación de elementos estratégicos para maximizar las conversiones y guiar al usuario hacia las acciones deseadas.                  |          
 | E04         | Gestión de Notificaciones de Estado         | Recibir notificaciones en tiempo real sobre sensores y alimentos, clasificadas por nivel de criticidad, para garantizar una operación eficiente.     |
+| E05         | Gestión de Inventario         | Implementación de un sistema eficiente de gestión que permita registrar, consultar, actualizar y eliminar productos de manera centralizada, con el fin de optimizar el control de insumos, reducir pérdidas por caducidad y garantizar la disponibilidad de productos críticos.     |
 
 
 ### User Stories:
