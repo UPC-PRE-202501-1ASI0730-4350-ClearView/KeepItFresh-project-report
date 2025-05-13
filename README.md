@@ -2404,7 +2404,14 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 #### 5.2.2.5. Execution Evidence for Sprint 2 Review
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint 2 Review
+### 5.2.2.6. Services Documentation Evidence for Sprint Review (Sprint 2)
+
+En el segundo sprint, hemos implementado y organizado los servicios correspondientes al Frontend de la aplicación web **KeepItFresh**, permitiendo así su visualización e interacción funcional.
+
+| End Point                                                                                                                             | Funciones                        |
+|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| [https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend](https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend) | Desplegar Frontend de KeepItFresh |
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint 2 Review
 
