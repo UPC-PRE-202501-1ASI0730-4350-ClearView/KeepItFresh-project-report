@@ -207,11 +207,11 @@ Ser la empresa más importante en Perú, en el ámbito de gestión y optimizaci�
 
 |                                | Apellido y Nombre               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                                      | Habilidades                                                                                             |
 |--------------------------------|---------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| <img src="assets/ayrton.jpg">  | Briceño Llanos, Ayrton Omar | Ingeniería de Software | Soy Ayrton Briceño. Me apasiona el desarrollo de Software y la creación de soluciones tecnológicas que impacten positivamente en las personas | JavaScript, CSS, C#, HTML, Java, SQL Server, MongoDB |
-| <img src="assets/pedro.jpg">   | Guia Carrasco, Pedro Andre | Ingeniería de Software | Soy Pedro Guia, estudiante de la UPC. Estoy llevando mi cuarto año en la universidad y sigo firme a mis logros a futuro. | Java, Python, HTML, CSS, JavaScript, Angular, MySQL |
-| <img src="assets/werner.jpg">  | Lang Nassi, Werner Khalil | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC), cursando en 5.º ciclo. Soy un estudiante que le gusta investigar cosas nuevas. | Java, JavaScript, C++, C#, SQL sever, Python, CSS, HTML|
-| <img src="assets/marco.jpg">   | Nakasone Gomes, Marco Antonio | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y tambien soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | Java, Python, HTML, CSS, JS, MySQL |
-| <img src="assets/ernesto.jpg"> | Rodas Sotomayor, Ernesto | Ingeniería de Software | Mi nombre es Ernesto Rodas, me apasiona la tecnología, el desarrollo de sistemas y la innovación en soluciones digitales. | Java, Python y JavaScript. (MySQL) y NoSQL (MongoDB). |
+| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/ayrton.jpg?raw=true "  width="300"/>  | Briceño Llanos, Ayrton Omar | Ingeniería de Software | Soy Ayrton Briceño. Me apasiona el desarrollo de Software y la creación de soluciones tecnológicas que impacten positivamente en las personas | JavaScript, CSS, C#, HTML, Java, SQL Server, MongoDB |
+| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/pedro.jpg?raw=true" width="300"/>   | Guia Carrasco, Pedro Andre | Ingeniería de Software | Soy Pedro Guia, estudiante de la UPC. Estoy llevando mi cuarto año en la universidad y sigo firme a mis logros a futuro. | Java, Python, HTML, CSS, JavaScript, Angular, MySQL |
+| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/werner.jpg?raw=true" width="300"/>  | Lang Nassi, Werner Khalil | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC), cursando en 5.º ciclo. Soy un estudiante que le gusta investigar cosas nuevas. | Java, JavaScript, C++, C#, SQL sever, Python, CSS, HTML|
+| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/marco.jpg?raw=true" width="300"/>   | Nakasone Gomes, Marco Antonio | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y tambien soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | Java, Python, HTML, CSS, JS, MySQL |
+| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/ernesto.jpg?raw=true" width="300"/> | Rodas Sotomayor, Ernesto | Ingeniería de Software | Mi nombre es Ernesto Rodas, me apasiona la tecnología, el desarrollo de sistemas y la innovación en soluciones digitales. | Java, Python y JavaScript. (MySQL) y NoSQL (MongoDB). |
 
 ## 1.2. Solution Profile
 
@@ -361,7 +361,7 @@ KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una 
 9. Hipótesis 9: Creemos que al proporcionar un flujo específico para que el personal registre y almacene inventario entrante, el proceso de actualización de stock será más eficiente y preciso para los trabajadores, lo cual reducirá su carga de trabajo y asegurará registros exactos en el sistema.
 
 #### 1.2.2.4. Lean UX Canvas.
-<img src="assets/canvas-updated.jpeg">
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/canvas-updated.jpeg?raw=true">
 
 La imagen representa un UX Canvas del proyecto KeepItFresh, una herramienta estratégica que organiza de forma visual los elementos clave para diseñar una experiencia centrada en el usuario. El canvas parte del problema central del negocio —la mala gestión de inventarios en restaurantes medianos— y propone soluciones tecnológicas basadas en sensores IoT, alertas automáticas y control visual accesible, con beneficios tanto operativos como comerciales.
 
@@ -392,10 +392,10 @@ Este análisis es llevado a cabo porque se busca conocer cuáles son las ventaja
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td><img src="assets/logo.jpg" alt="KeepItFresh"><br></td>
-    <td><img src="assets/restroworks.png" alt="Restroworks"><br></td>
-    <td><img src="assets/odoo.png" alt="Odoo"/><br></td>
-    <td><img src="assets/solvermedia.jpg" alt="SolverMedia"/><br></td>
+    <td><img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/logo.jpg?raw=true" width="100px"><br></td>
+    <td><img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/restroworks.png?raw=true" width="100px"><br></td>
+    <td><img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/odoo.png?raw=true" width="100px"/><br></td>
+    <td><img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/solvermedia.jpg?raw=true"width="100px"/><br></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -536,7 +536,7 @@ Entrevistas del segmento de dueño de restaurante:
 | Apellido             | Agurto                                                                                                                                                                                                                                                                                                                      |
 | Edad                 | 34 años                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | San Borja                                                                                                                                                                                                                                                                                                                   |
-| Evidencia            | <img src="assets/EntrevistaLuis.jpg" width="600" height="400">                                                                                                                                                                                                                                                              |
+| Evidencia            | <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/EntrevistaLuis.jpg?raw=true" width="600" height="400">                                                                                                                                                                                                                                                              |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 00:00                                                                                                                                                                                                                                                                                                                       |    
 | Fin de entrevista    | 06:30                                                                                                                                                                                                                                                                                                                       |
@@ -550,7 +550,7 @@ Resumen de entrevista: Luis Agurto, fundador y gerente general de la cevichería
 | Apellido             | Céspedes                                                                                                                                                                                                                                                                                                                   |
 | Edad                 | 54 años                                                                                                                                                                                                                                                                                                                    |
 | Distrito             | Miami                                                                                                                                                                                                                                                                                                                      |
-| Evidencia            | <img src="assets/entrevista.jpg" width="600" height="400">                                                                                                                                                                                                                                                                                         |
+| Evidencia            | <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/entrevista.jpg?raw=true" width="600" height="400">                                                                                                                                                                                                                                                                                         |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 14:43                                                                                                                                                                                                                                                                                                                      |    
 | Fin de entrevista    | 29:10                                                                                                                                                                                                                                                                                                                      |
@@ -569,7 +569,7 @@ Entrevista del segmento trabajadores del restaurante
 | Apellido             | Frias                                                                                                                                                                                                                                                                                                                       |
 | Edad                 | 21                                                                                                                                                                                                                                                                                                                          |
 | Distrito             | San Miguel                                                                                                                                                                                                                                                                                                                  |
-| Evidencia            | <img src="assets/evidencia.png" width="600" height="400">                                                                                                                                                                                                                                                                                           |
+| Evidencia            | <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/evidencia.png?raw=true" width="600" height="400">                                                                                                                                                                                                                                                                                           |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 09:41                                                                                                                                                                                                                                                                                                                       |
 | Fin de entrevista    | 14:42                                                                                                                                                                                                                                                                                                                       | 
@@ -585,7 +585,7 @@ Kaleb Frias trabaja en un restaurante atendiendo clientes, tomando pedidos y org
 | Apellido             | Yonamine                                                                                                                                                                                                                                                                                                               |
 | Edad                 | 20                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | Pueblo Libre                                                                                                                                                                                                                                                                                                           |
-| Evidencia            | <img src="assets/entrevista-4.png" width="600" height="400">                                                                                                                                         |
+| Evidencia            | <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/entrevista-4.png?raw=true" width="600" height="400">                                                                                                                                         |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 29:11                                                                                                                                                                                                                                                                                                                  |
 | Fin de entrevista    | 39:10                                                                                                                                                                                                                                                                                                                  | 
@@ -601,7 +601,7 @@ Matthew nos dió a conocer un poco sobre como es el hambiente laboral dentro de 
 | Apellido             | Ahane                                                                                                                                                                                                                                                                                                                       |
 | Edad                 | 19                                                                                                                                                                                                                                                                                                                          |
 | Distrito             | San Miguel                                                                                                                                                                                                                                                                                                                  |
-| Evidencia            | <img src="assets/envidencia-entrevista6.png" width="600" height="400">                                                                                                                                                                                                                                                                              |
+| Evidencia            | <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/envidencia-entrevista6.png?raw=true" width="600" height="400">                                                                                                                                                                                                                                                                              |
 | Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 06:30                                                                                                                                                                                                                                                                                                                       |
 | Fin de entrevista    | 09:40                                                                                                                                                                                                                                                                                                                       | 
@@ -681,12 +681,12 @@ En esta sección, se incluyen las fichas de User Personas que representan arquet
 <ul>
     <li>
         <p>Dueños de restaurantes</p>
-        <img src="assets/userpersona1.png" alt="Owner user person" title="Owner user person">
+        <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/userpersona1.png?raw=true" alt="Owner user person" title="Owner user person">
         <p>Javier representa el perfil racional de un administrador gastronómico que busca integrar soluciones tecnológicas para optimizar la gestión de inventario y mejorar la experiencia del cliente. A sus 45 años, es responsable del funcionamiento operativo del restaurante, pero enfrenta limitaciones relacionadas con la supervisión manual de productos y procesos, lo que le genera estrés y pérdidas económicas por caducidad de insumos. Este perfil se caracteriza por una alta responsabilidad, organización y habilidades de comunicación, pero demanda herramientas que le brinden mayor visibilidad y control en tiempo real. La información que sustenta este perfil fue construida combinando sesiones de observación directa y análisis de resultados obtenidos a través de formularios en Google Forms aplicados a usuarios reales del sector, lo cual permitió validar tanto sus motivaciones como sus frustraciones operativas.</p>
     </li>
     <li>
         <p>Empleados de restaurantes</p>
-        <img src="assets/userpersona2.png" alt="Worker user person" title="Worker user person">
+        <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/userpersona2.png?raw=true" alt="Worker user person" title="Worker user person">
         <p>Daniel encarna el perfil artesanal de un joven trabajador del rubro gastronómico, que equilibra sus labores como mesero en un restaurante criollo con sus estudios universitarios. A sus 23 años, muestra alta amabilidad, responsabilidad y compromiso con el servicio al cliente, pero se ve afectado por una mala coordinación interna, desorden en la gestión del inventario y una comunicación ineficaz con el equipo de cocina. Su frustración aumenta cuando no puede dar respuestas claras a los comensales o debe improvisar frente a la falta de insumos. Esta persona tipo fue construida con base en entrevistas cualitativas y formularios en línea aplicados a trabajadores de atención directa, cuyos patrones comunes permitieron validar necesidades clave como contar con un sistema más organizado, menos estresante y que le permita concentrarse en brindar un servicio eficiente.</p>
     </li>
 </ul>
@@ -713,13 +713,13 @@ En esta sección se presentan los User Journey Maps, que ilustran el end-to-end 
 
 #### Segmento 1: Dueños de restaurantes.
 
-<img src="assets/Segmento 1_ Dueños de restaurantes..png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/Segmento%201_%20Due%C3%B1os%20de%20restaurantes..png?raw=true">
 
 Este User Journey Map describe la experiencia del dueño de restaurante en su proceso de adopción de KeepItFresh, desde el descubrimiento de soluciones tecnológicas hasta su fidelización. Se identifican emociones como la duda inicial y la progresiva satisfacción conforme el usuario valida el valor del sistema en el control del stock y la reducción de pérdidas. Los puntos de contacto incluyen desde ferias gastronómicas y redes sociales hasta reportes automáticos y beneficios por recomendación. El mapa refleja una transición emocional positiva basada en la funcionalidad, el ahorro tangible y la facilidad de implementación de la solución, siempre considerando el perfil técnico y operativo del usuario.
 
 ### Segmento 2: Empleados de restaurantes.
 
-<img src="assets/Segmento 2_ Empleados de restaurantes..png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/Segmento%202_%20Empleados%20de%20restaurantes..png?raw=true">
 
 Este mapa representa la experiencia de los empleados de cocina o de operación directa con el sistema. Comienza con una sensación de inseguridad frente a la tecnología, que evoluciona hacia la confianza y, finalmente, la satisfacción. Las acciones están orientadas al uso práctico del sistema: escanear productos, registrar insumos y responder a alertas. Se enfatiza la necesidad de una interfaz intuitiva, tutoriales claros y compatibilidad con ambientes exigentes. La propuesta responde a mejorar la eficiencia diaria, reducir el estrés operativo y generar sentido de pertenencia con el proceso de mejora del restaurante.
 
@@ -727,13 +727,13 @@ Este mapa representa la experiencia de los empleados de cocina o de operación d
 Para los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más lo que los usuarios sienten o necesitan de nuestra aplicación. Para llevarlo a cabo, se usará a las User Personas, los cuales son "Javier Rojas", quien es el dueño que enseña como manejar el negocio con el producto KeepItFresh. El segundo es "Daniel Paredes", quien es un trabajador que desea conocer el producto para desempeñar en el restaurante.
 #### Segmento 1: Dueños de restaurantes.
 
-<img src="assets/empathymap1.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/empathymap1.png?raw=true">
 
 Este empathy map describe a Javier, un administrador de restaurante que experimenta altos niveles de estrés debido a la dificultad de mantener el orden y la eficiencia en su negocio. Siente que el registro manual de productos es ineficiente y reconoce la necesidad urgente de herramientas tecnológicas para mejorar su gestión. Está rodeado de comentarios negativos tanto de clientes como de empleados, lo que refuerza su sensación de desorganización. Busca soluciones que le permitan disminuir el estrés, optimizar procesos y reducir pérdidas por caducidad, siendo receptivo a adoptar nuevas tecnologías si estas son accesibles y fáciles de implementar.
 
 ### Segmento 2: Empleados de restaurantes.
 
-<img src="assets/empathymap2.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/empathymap2.png?raw=true">
 
 El segundo empathy map se enfoca en Daniel, un joven estudiante que trabaja como mesero en un restaurante criollo. Se enfrenta diariamente al desorden operativo, conflictos entre personal de cocina e inventario, y la frustración de no poder concentrarse en sus estudios por el ambiente laboral estresante. Daniel desea ofrecer un buen servicio, pero sufre cuando la mala organización le impide hacerlo. Anhela un entorno más estructurado, con herramientas que le permitan tomar pedidos de forma eficiente y mejorar la coordinación interna sin tener que intervenir en procesos que no le competen.
 
@@ -744,12 +744,12 @@ Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
 <ul>
   <li>
     <p>Dueños de restaurantes</p>
-    <img src="assets/as-is scenario-mapping.png" alt="Owner's As-Is Scenario">
+    <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/as-is%20scenario-mapping.png?raw=true" alt="Owner's As-Is Scenario">
   </li>
     <p>El escenario actual refleja los principales puntos de fricción que enfrenta el administrador en la gestión operativa del restaurante. Las tareas como verificar disponibilidad de mesas, controlar inventario y asignar funciones se realizan manualmente y sin visibilidad en tiempo real, lo que genera inseguridad, estrés y sobrecarga. Además, la comunicación interna es deficiente, ya que los cambios se comunican en persona y con frecuencia se producen malentendidos. Este mapeo evidencia la necesidad de digitalizar y automatizar procesos clave para mejorar la eficiencia y la experiencia laboral.</p>
   <li>
     <p>Empleados de restaurantes</p>
-    <img src="assets/as-is scenario-mapping2.png" alt="Worker's As-Is Scenario">
+    <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/as-is%20scenario-mapping2.png?raw=true" alt="Worker's As-Is Scenario">
   </li>
     <p>Este mapeo muestra cómo los trabajadores operativos enfrentan procesos manuales y desconectados que afectan tanto su rendimiento como su bienestar. Las tareas de limpieza o preparación se notifican verbalmente al supervisor, sin confirmación clara de recepción, y el control de insumos se hace de forma visual, generando dudas y frustración. La comunicación con los supervisores es limitada y poco fluida. Las emociones predominantes son la inseguridad, insatisfacción y preocupación por fallas operativas, lo cual resalta la oportunidad de implementar herramientas tecnológicas que aporten claridad, agilidad y mejor comunicación. </p>
 </ul>
@@ -806,12 +806,12 @@ Para los To-Be Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
 <ul>
   <li>
     <p>Dueños de Restaurantes</p>
-    <img src="assets/to-be scenario-mapping.png" alt="Owner's As-Is Scenario">
+    <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/to-be%20scenario-mapping.png?raw=true" alt="Owner's As-Is Scenario">
   </li>
     <p>El escenario ideal propuesto para el administrador transforma procesos manuales en flujos digitales eficientes. La verificación de mesas se realiza mediante un sistema de reservas en tiempo real, mientras que el inventario se gestiona con alertas automáticas. Las tareas se asignan digitalmente, permitiendo un balance más justo, y la comunicación con el equipo se centraliza mediante chats integrados. Esto genera sensaciones de tranquilidad, control y conexión, reflejando una mejora sustancial en la coordinación, toma de decisiones y reducción del estrés operativo.</p>
   <li>
     <p>Empleados de Restaurantes</p>
-    <img src="assets/to-be scenario-mapping2.png" alt="Worker's As-Is Scenario">
+    <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/to-be%20scenario-mapping2.png?raw=true" alt="Worker's As-Is Scenario">
   </li>
       <p>En el caso del personal operativo, el nuevo escenario contempla herramientas que facilitan la atención, el control de insumos y la trazabilidad. Un botón IoT permite que los clientes soliciten atención de forma precisa y medible, mientras que la verificación de recursos y su estado se realiza digitalmente, previniendo pérdidas y garantizando frescura. Además, se integran reportes exportables para mayor orden y control. Esto permite que el empleado se sienta más enfocado, seguro y motivado, eliminando la incertidumbre propia de los procesos manuales.</p>
 </ul>
@@ -857,7 +857,7 @@ A continuación, estableceremos las épicas, para luego detallarlas en historias
 
 El Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio, asegurando que los esfuerzos se concentren en generar un impacto real y valioso. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.<br>
 
-<img src="./assets/impact mapping.jpg">
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/impact%20mapping.jpg?raw=true">
 
 ## 3.4. Product Backlog
 
@@ -883,19 +883,19 @@ La tipografía es la forma en que se ven y se leen los textos, nos ayuda mejoran
 
 **Head**
 
-<img src="assets/heding size.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/heding%20size.png?raw=true" width="50%"/>
 
 **Body**
 
-<img src="assets/body size.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/body%20size.png?raw=true" width="50%"/>
 
 **Colors**
 
-<img src="assets/colors.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/colors.png?raw=true" width="50%"/>
 
 **Spacing**
 
-<img src="assets/spacing.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/spacing.png?raw=true" width="50%"/>
 
 **Color Primario:** Decidimos que los tonos azules serían nuestro color primario ya que estos representan confianza, seguridad, orden y profesionalismo, características que debemos de mostrar por lo que nuestro proyecto se basa en la gestión y ordenamiento de inventarios.
 
@@ -911,7 +911,7 @@ KeepItFresh es una plataforma de gestión de inventario que ayuda a controlar pr
 
 A continuación, se mostrará el logo de nuestra aplicación.
 
-<img src="assets/logo.jpg" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/logo.jpg?raw=true" width="50%"/>
 
 ### 4.1.2. Web Style Guidelines
 Desarrollaremos una plataforma digital que pueda usarse en cualquier dispositivo tecnológico, manteniendo el mismo diseño y estructura, para eso debemos tener en cuenta las cualidades de cada dispositivo para poder mantener un buen orden y diseño para todos los dispositivos. 
@@ -1095,27 +1095,27 @@ La navegación está pensada para adaptarse a distintos perfiles de usuario (des
 
 Esta es la vista en un navegador de escritorio de nuestra pagina, en donde podemos ver secciones como el menú, la pagina principal, el apartado de los miembros, la sección que contendrá la información general del equipo, la características que tendrá nuestra aplicación y por ultimo un formulario para que nos contacten los usuarios.
 
-<img src="assets/wf-1.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-1.png?raw=true" width="50%"/>
 
-<img src="assets/wf-2.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-2.png?raw=true" width="50%"/>
 
-<img src="assets/wf-3.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-3.png?raw=true" width="50%"/>
 
-<img src="assets/wf-4.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-4.png?raw=true" width="50%"/>
 
 **Landing Page para Mobile Web Browser**
 
 Esta es la vista en un navegador móvil de nuestra página, que tiene el mismo contenido solo que esta adaptado a las características que tiene un movil, es decir, la pantalla más pequeña.
 
-<img src="assets/mwf-1.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-1.png?raw=true" width="50%"/>
 
-<img src="assets/mwf-2.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-2.png?raw=true" width="50%"/>
 
-<img src="assets/mwf-3.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-3.png?raw=true" width="50%"/>
 
-<img src="assets/mwf-4.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-4.png?raw=true" width="50%"/>
 
-<img src="assets/mwf-5.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-5.png?raw=true" width="50%"/>
 
 ### 4.3.2. Landing Page Mock-up
 
@@ -1123,27 +1123,27 @@ Esta es la vista en un navegador móvil de nuestra página, que tiene el mismo c
 
 Gracias a los wireframes de la versión desktop pudimos ver cómo organizar de la mejor manera nuestra landing page, en base a eso se creó la versión mock-up de la landing page, en el que se aplican la paleta de colores y la tipografia que ya se mencionaron antes. 
 
-<img src="assets/mu-1.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-1.png?raw=true" width="50%"/>
 
-<img src="assets/mu-2.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-2.png?raw=true" width="50%"/>
 
-<img src="assets/mu-3.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-3.png?raw=true" width="50%"/>
 
-<img src="assets/mu-4.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-4.png?raw=true" width="50%"/>
 
 **Landing Page para Mobile Web Browser**
 
 Igualmente gracias a los wireframes pudimos ver como quedaría en un mobile web browser, aquí se mantiene la estructura del diseño, la paleta de colores y la tipografia. Se adapta a la pantalla de los dispositivos móviles.
 
-<img src="assets/mmu-1.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-1.png?raw=true" width="50%"/>
 
-<img src="assets/mmu-2.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-2.png?raw=true" width="50%"/>
 
-<img src="assets/mmu-3.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-3.png?raw=true" width="50%"/>
 
-<img src="assets/mmu-4.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-4.png?raw=true" width="50%"/>
 
-<img src="assets/mmu-5.png" width="50%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-5.png?raw=true" width="50%"/>
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
@@ -1164,9 +1164,9 @@ Los wireframes de la plataforma web KeepItFresh muestran la estructura funcional
 Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la prevención de pérdidas y la toma de decisiones basada en datos.
 
 
-<img src="assets/pwf-1.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/pwf-1.png?raw=true" width="100%"/>
 
-<img src="assets/pwf-2.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/pwf-2.png?raw=true" width="100%"/>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1176,7 +1176,7 @@ Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la
 
 Como dueño de restaurante, deseo crear una cuenta o iniciar sesión con mis credenciales, para acceder a las funcionalidades de la plataforma según mi rol.
 
-<img src="assets/login.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/login.png?raw=true" width="100%"/>
 
 **User Goal:** Visualizar el estado de los sensores en tiempo real
 
@@ -1184,7 +1184,7 @@ Como dueño de restaurante, deseo crear una cuenta o iniciar sesión con mis cre
 
 Como dueño de restaurante, quiero ver los datos actualizados de temperatura y gas desde los sensores IoT, para monitorear las condiciones de mi inventario y asegurar su conservación.
 
-<img src="assets/iot.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/iot.png?raw=true" width="100%"/>
 
 **User Goal:** Registrar y consultar mi inventario
 
@@ -1192,7 +1192,7 @@ Como dueño de restaurante, quiero ver los datos actualizados de temperatura y g
 
 Como dueño de restaurante, deseo ingresar productos con su fecha de vencimiento y condiciones de almacenamiento, y consultar el inventario actualizado, para tomar mejores decisiones de compra y uso.
 
-<img src="assets/gestion.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/gestion.png?raw=true" width="100%"/>
 
 **User Goal:** Ser notificado ante productos por vencer, bajo stock o condiciones no tan buenas
 
@@ -1200,7 +1200,7 @@ Como dueño de restaurante, deseo ingresar productos con su fecha de vencimiento
 
 Como dueño de restaurante, deseo recibir alertas cuando un producto esté por vencer, el stock esté bajo, o condiciones no tan buneas para evitar pérdidas económicas y reponer a tiempo con la distribuidora.
 
-<img src="assets/alerta.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/alerta.png?raw=true" width="100%"/>
 
 **User Goal:** Generar y exportar reportes
 
@@ -1208,13 +1208,13 @@ Como dueño de restaurante, deseo recibir alertas cuando un producto esté por v
 
 Como dueño de restaurante, deseo generar reportes de ventas y exportarlos en formatos PDF o Excel, para tener acceso a estos datos en mi formato preferido y compartirlos fácilmente.
 
-<img src="assets/exportar.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/exportar.png?raw=true" width="100%"/>
 
 ### 4.4.3. Web Applications Mock-ups
 
-<img src="assets/pmu-1.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/pmu-1.png?raw=true" width="100%"/>
 
-<img src="assets/pmu-2.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/pmu-2.png?raw=true" width="100%"/>
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
@@ -1262,24 +1262,24 @@ User Goal: Como propietario, deseo configurar alertas para el inventario.
 
 Descripción: El propietario puede configurar alertas automáticas sobre productos que necesiten reposición, productos con fechas de vencimiento cercanas o problemas en la cadena de suministro, para tomar acciones preventivas.
 
-<img src="assets/flow.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/usf.png?raw=true" width="100%"/>
 
 ## 4.5. Web Applications Prototyping
 Hemos hecho un bosquejo de nuestro prototipo de web en figma
 
-<img src="assets/Prototype.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/proto.png?raw=true" width="100%"/>
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepItFresh.
 
-<img src="assets/c4context.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4context.png?raw=true" width="100%"/>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
 
-<img src="assets/c4container.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4container.png?raw=true" width="100%"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
@@ -1288,23 +1288,23 @@ A continuación, se mostrarán los diagramas de componentes para cada Bounded Co
 ## 4.7. Software Object-Oriented Design
 Diagrama de componente de Customer Feedback
 
-<img src="assets/c4componentsCustomer.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsCustomer.png?raw=true" width="100%"/>
 
 Diagrama de componente de Inventory Monitoring
 
-<img src="assets/c4componentsInventory.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsInventory.png?raw=true" width="100%"/>
 
 Diagrama de componente de Location and Environment
 
-<img src="assets/c4componentsLocation.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsLocation.png?raw=true" width="100%"/>
 
 Diagrama de componente de Restaurant Operations
 
-<img src="assets/c4componentsRestaurant.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/c4componentsRestaurant.png?raw=true" width="100%"/>
 
 ### 4.7.1. Class Diagrams
 
-<img src="assets/diagrama de clases.jpg" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/diagrama%20de%20clases.jpg?raw=true" width="100%"/>
 
 El diagrama de clases del sistema KeepItFresh refleja una arquitectura orientada a objetos donde se modelan las entidades clave de un entorno de gestión inteligente de restaurantes mediante dispositivos IoT. La clase central Restaurant se relaciona con otras clases como Product, Waiter, Button_Notification e IoT Devices, lo que permite gestionar productos perecibles, recibir alertas de atención y controlar sensores ambientales. Los RestaurantOwner pueden tener múltiples restaurantes asociados, y estos se vinculan con un conjunto de productos y meseros, permitiendo una estructura escalable y reutilizable. Las clases User y Subscription definen las credenciales, roles y planes contratados por cada usuario, mientras que las interfaces Operaciones_Usuario y Autenticación_Usuario definen las operaciones abstractas que permiten gestionar cambios de datos, autenticación y control de sesión. Se destaca también el uso de clases como SensorNotification y Button_Notification, que encapsulan eventos críticos dentro del sistema, y su integración con la clase Inventario, que centraliza operaciones como generación de reportes, actualización de stock o auditorías de inventario. En conjunto, el diseño muestra una distribución lógica, coherente con los requerimientos de control en tiempo real, trazabilidad y eficiencia operativa del sistema.
 
@@ -1455,7 +1455,7 @@ El diagrama de clases del sistema KeepItFresh refleja una arquitectura orientada
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-<img src="assets/database.png" width="100%"/>
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/database.png?raw=true" width="100%"/>
 El modela la estructura relacional del sistema KeepItFresh, orientado a la gestión operativa de restaurantes. La entidad central es restaurant, la cual se vincula a un propietario (owner) y un mesero (waiter), ambos derivados de la entidad general user, lo que refleja una implementación adecuada de herencia mediante claves foráneas. La entidad subscription define el tipo de plan asociado a cada usuario, lo cual puede relacionarse a funcionalidades o restricciones por rol. A nivel logístico, se destacan las entidades kitchen, product, inventory y supplier, que permiten gestionar el stock y su trazabilidad. La relación entre inventory y product permite identificar insumos almacenados por proveedor, cantidad y fecha de vencimiento. Por otro lado, el sistema de alertas se representa con la tabla notification, la cual está conectada a los restaurantes, permitiendo una retroalimentación directa del estado de productos, operaciones o servicio. En conjunto, el modelo presenta una base sólida y normalizada, adecuada para respaldar un sistema integral de control de inventario, operaciones y personal en el sector gastronómico.
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -1526,7 +1526,7 @@ Se refiere a textos escritos o ilustraciones que acompañan al software de compu
 
 El proyecto mantiene las convenciones de flujo establecido por el modelo GitFlow para el control de versiones usando Git para el control de versiones. Además, el código fuente del proyecto será publicado en la plataforma GitHub tanto para publicar nuestros avances de manera pública como para permitir la colaboración entre cada integrante del equipo en el desarrollo del mismo.
 
-<img src="assets/gitflow.png">
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/gitflow.png?raw=true">
 
 * Enlace del repositorio del informe: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report
 * Repositorio Landing page: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/ClearView-landing-page
@@ -2191,22 +2191,22 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 
 *Seccion de navegacion* : Nos ayudara a redirigirnos a secciones especificas de la lading page.
 
-![navBar](./assets/landing_page1.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/landing_page1.png?raw=true"/>
 
 *Perfiles de integrantes* : Conoce los participantes de este proyecto.
-![profile](./assets/landing_page2.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/landing_page2.png?raw=true"/>
 
 *Esencia* : Descubre nuestra esencia que satisfacera la solucion del problema.
-![solution](./assets/landing_page3.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/landing_page3.png?raw=true"/>
 
 *Hazañas* : Conce la mision, vison y valores de esta empresa.
-![hazañas](./assets/landing_page4.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/landing_page4.png?raw=true"/>
 
 *Caracteristicas* : Descubre las interesantes caracterisitcas de esta empresa.
-![feature](./assets/landing_page5.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/landing_page5.png?raw=true"/>
 
 *Consulta* : Si necesitas ayuda, no dudes en dejar un mensaje.
-![message](./assets/landing_page6.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/landing_page6.png?raw=true"/>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2222,19 +2222,19 @@ Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para ha
 
 **Link de la landing page desplegada:** https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/
 
-![GitHub-Pages](./assets/github_pages.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/github_pages.png?raw=true"/>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo KeepItFresh.
 
-![Commits-landing](./assets/github_1.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/github_1.png?raw=true"/>
 La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
 
-![Contribuitors-landing](./assets/github_2.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/github_2.png?raw=true"/>
 En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en la Landing Page.
 
-![Network-landing](./assets/github_3.png)
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/github_3.png?raw=true"/>
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
 
 ### 5.2.2. Sprint 2
