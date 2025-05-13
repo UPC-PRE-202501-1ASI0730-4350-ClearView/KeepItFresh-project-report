@@ -1047,14 +1047,17 @@ El sistema ofrecerá múltiples métodos de búsqueda adaptados al contexto de u
 Estos mecanismos de búsqueda están diseñados para ser accesibles tanto desde la interfaz web como desde dispositivos móviles. Gracias a esta integración, los usuarios pueden tomar decisiones informadas con mayor agilidad, lo cual impacta positivamente en la gestión de compras, la reducción de desperdicios, el control de mermas y la optimización del inventario general. En resumen, el sistema de búsqueda de KeepItFresh no solo facilita la localización de productos, sino que se convierte en una herramienta estratégica para mejorar la productividad y garantizar un servicio más eficiente y oportuno.
 
 ### 4.2.5. Navigation Systems
-Los Sistemas de Navegación ayudan al usuario a moverse fácilmente por la interfaz de la aplicación.
+Los sistemas de navegación en KeepItFresh han sido diseñados para guiar al usuario de forma clara, intuitiva y eficiente a través de la interfaz tanto en la Landing Page como en las distintas secciones de la aplicación web y móvil. Estos sistemas cumplen un rol clave en ayudar al usuario a orientarse, encontrar rápidamente la información que necesita y ejecutar acciones sin fricciones, asegurando una experiencia satisfactoria desde el primer contacto.
 
-Incluyen menús, barras laterales, breadcrumbs, y enlaces que permiten:
+Entre los principales elementos de navegación se incluyen:
 
-- Acceder intuitivamente a secciones como productos, reportes, o alertas.
-- Mejorar la experiencia de uso y reducir la curva de aprendizaje.
-- Guiar al usuario en flujos como registrar productos o revisar inventario.
+- Menú principal de navegación (navbar): Presente de forma fija en la parte superior o lateral, permite acceder rápidamente a secciones críticas como productos, reportes, alertas, inventario y configuración.
 
+- Botones de acción contextual (CTA): Guiarán al usuario en flujos específicos como registrar nuevos productos, generar reportes o confirmar alertas.
+
+- Landing Page guiada: Presentará secciones destacadas como beneficios del sistema, testimonios, acceso a demostración y botón claro de registro o inicio de sesión.
+
+La navegación está pensada para adaptarse a distintos perfiles de usuario (desde supervisores hasta personal operativo), minimizando la curva de aprendizaje y permitiendo que cada uno complete sus tareas sin distracciones ni confusión. Además, se garantiza que todos los elementos sean accesibles tanto desde desktop como dispositivos móviles, siguiendo principios de diseño responsive.
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
