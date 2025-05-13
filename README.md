@@ -1276,6 +1276,8 @@ Diagrama de componente de Restaurant Operations
 
 <img src="assets/diagrama de clases.jpg" width="100%"/>
 
+El diagrama de clases del sistema KeepItFresh refleja una arquitectura orientada a objetos donde se modelan las entidades clave de un entorno de gestión inteligente de restaurantes mediante dispositivos IoT. La clase central Restaurant se relaciona con otras clases como Product, Waiter, Button_Notification e IoT Devices, lo que permite gestionar productos perecibles, recibir alertas de atención y controlar sensores ambientales. Los RestaurantOwner pueden tener múltiples restaurantes asociados, y estos se vinculan con un conjunto de productos y meseros, permitiendo una estructura escalable y reutilizable. Las clases User y Subscription definen las credenciales, roles y planes contratados por cada usuario, mientras que las interfaces Operaciones_Usuario y Autenticación_Usuario definen las operaciones abstractas que permiten gestionar cambios de datos, autenticación y control de sesión. Se destaca también el uso de clases como SensorNotification y Button_Notification, que encapsulan eventos críticos dentro del sistema, y su integración con la clase Inventario, que centraliza operaciones como generación de reportes, actualización de stock o auditorías de inventario. En conjunto, el diseño muestra una distribución lógica, coherente con los requerimientos de control en tiempo real, trazabilidad y eficiencia operativa del sistema.
+
 ### 4.7.2. Class Dictionary
 
 **User**: CLase que representa a un usuario del sistema.
