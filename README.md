@@ -2417,6 +2417,20 @@ En el segundo sprint, hemos implementado y organizado los servicios correspondie
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint 2
 
+La meta principal de este Sprint fue la implementación del módulo de Inventario, que incluye la visualización, registro, edición y eliminación de productos. Para alcanzar este objetivo, el equipo utilizó herramientas como GitHub, Visual Studio Code y Vue.js. A continuación, se presentan evidencias del trabajo colaborativo mediante los registros de commits generados por cada integrante del equipo en el repositorio oficial del proyecto.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/commit1.jpeg?raw=true"/>
+Esta imagen refleja el número de commits realizados por cada integrante durante el Sprint 2 en el módulo correspondiente.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/commit2.jpeg?raw=true"/>
+Aquí se observa la cantidad de líneas añadidas y eliminadas, como evidencia del esfuerzo realizado por cada colaborador durante el desarrollo del sistema de inventario.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/commit3.jpeg?raw=true"/>
+En esta vista se muestra la evolución temporal de los commits, indicando cómo se distribuyó la carga de trabajo durante las semanas del Sprint 2.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/commit4.jpeg?raw=true"/>
+Finalmente, esta imagen muestra las ramas de desarrollo (feature branches) creadas por el equipo para implementar funcionalidades de forma distribuida, lo cual evidencia el trabajo colaborativo y organizado del equipo de desarrollo.
+
 ## Conclusiones y recomendaciones
 ## Conclusiones
 
