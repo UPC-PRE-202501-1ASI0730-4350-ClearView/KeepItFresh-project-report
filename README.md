@@ -687,7 +687,7 @@ En esta sección, se incluyen las fichas de User Personas que representan arquet
     <li>
         <p>Empleados de restaurantes</p>
         <img src="assets/userpersona2.png" alt="Worker user person" title="Worker user person">
-        <p>Daniel encarna el perfil artesanal de un joven trabajador del rubro gastronómico, que equilibra sus labores como mesero en un restaurante criollo con sus estudios universitarios. A sus 23 años, muestra alta amabilidad, responsabilidad y compromiso con el servicio al cliente, pero se ve afectado por una mala coordinación interna, desorden en la gestión del inventario y una comunicación ineficaz con el equipo de cocina. Su frustración aumenta cuando no puede dar respuestas claras a los comensales o debe improvisar frente a la falta de insumos. Esta persona tipo fue construida con base en entrevistas cualitativas y formularios en línea aplicados a trabajadores de atención directa, cuyos patrones comunes permitieron validar necesidades clave como contar con un sistema más organizado, menos estresante y que le permita concentrarse en brindar un servicio eficiente.</p
+        <p>Daniel encarna el perfil artesanal de un joven trabajador del rubro gastronómico, que equilibra sus labores como mesero en un restaurante criollo con sus estudios universitarios. A sus 23 años, muestra alta amabilidad, responsabilidad y compromiso con el servicio al cliente, pero se ve afectado por una mala coordinación interna, desorden en la gestión del inventario y una comunicación ineficaz con el equipo de cocina. Su frustración aumenta cuando no puede dar respuestas claras a los comensales o debe improvisar frente a la falta de insumos. Esta persona tipo fue construida con base en entrevistas cualitativas y formularios en línea aplicados a trabajadores de atención directa, cuyos patrones comunes permitieron validar necesidades clave como contar con un sistema más organizado, menos estresante y que le permita concentrarse en brindar un servicio eficiente.</p>
     </li>
 </ul>
 
@@ -812,7 +812,7 @@ Para los To-Be Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
   <li>
     <p>Empleados de Restaurantes</p>
     <img src="assets/to-be scenario-mapping2.png" alt="Worker's As-Is Scenario">
-  </li
+  </li>
       <p>En el caso del personal operativo, el nuevo escenario contempla herramientas que facilitan la atención, el control de insumos y la trazabilidad. Un botón IoT permite que los clientes soliciten atención de forma precisa y medible, mientras que la verificación de recursos y su estado se realiza digitalmente, previniendo pérdidas y garantizando frescura. Además, se integran reportes exportables para mayor orden y control. Esto permite que el empleado se sienta más enfocado, seguro y motivado, eliminando la incertidumbre propia de los procesos manuales.</p>
 </ul>
 
@@ -2221,6 +2221,110 @@ En esta imagen se refleja la el nivel de modificaciones realizadas por los commi
 
 ![Network-landing](./assets/github_3.png)
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
+
+### 5.2.2. Sprint 2
+
+En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como el entorno de desarrollo.
+
+Repositorio GitHub: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-landing-page
+#### 5.2.2.1. Sprint Planning 1
+Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint  Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2025/05/09</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>6:50 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google meet</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Ayrton Omar Briceño Llanos</td>
+        </tr>
+        <tr>
+            <td>Atendees (to  meeting)</td>
+            <td>
+                <li>Pedro Andre Guia Carrasco/li>
+                <li>Werner Khalil Lang Nassi</li>
+                <li>Marco Antonio Nakasone Gomes</li>
+                <li>Ernesto Rodas Sotomayor</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>
+                Este es el segundo sprint a realizar por el equipo
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>
+                Acuerdo de la implementación de una primera versión del front-end
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td style="text-align: justify">
+                <p>
+                Desplegar la primera version del Front-end
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>
+                8
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                8
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name)       | GitHub Username | Aspect Name (L/C) | Aspect Name (L/C) | Aspect Name (L/C) | Aspect Name (L/C) |
+|-------------------------------------------|------------------|-------------------|-------------------|-------------------|-------------------|
+| Briceño Llanos, Ayrton Omar               | AyrtonBriceno    |                   |                   |                   |                   |
+| Guia Carrasco, Pedro Andre                | Pedrivizz        |                   |                   |                   |                   |
+| Lang Nassi, Werner Khalil                 | 00WernerLang     |                   |                   |                   |                   |
+| Nakasone Gomes, Marco Antonio             | marquinho04      |                   |                   |                   |                   |
+| Rodas Sotomayor, Ernesto                  | ernesto0710      |                   |                   |                   |                   |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+#### 5.2.2.4. Development Evidence for Sprint 2 Review
+
+#### 5.2.2.5. Execution Evidence for Sprint 2 Review
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint 2 Review
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint 2 Review
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint 2
 
 ## Conclusiones y recomendaciones
 ## Conclusiones
