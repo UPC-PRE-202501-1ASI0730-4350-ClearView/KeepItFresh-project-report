@@ -1922,13 +1922,14 @@ A continuación, se presentará el sprint planning 1 donde se mostrarán las evi
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name)       | GitHub Username | Aspect Name (L/C) |
-|-------------------------------------------|------------------|-------------------|
-| Briceño Llanos, Ayrton Omar             | AyrtonBriceno    | L                 |
-| Guia Carrasco, Pedro Andre              | Pedrivizz           | C                 |
-| Lang Nassi, Werner Khalil             | 00WernerLang           | C                 |
-| Nakasone Gomes, Marco Antonio              | marquinho04           | C                 |
-| Rodas Sotomayor, Ernesto             | ernesto0710          | C                 |
+| Team Member (Last Name, First Name)       | GitHub Username | Aspect Name (L/C) | Aspect Name (L/C) | Aspect Name (L/C) | Aspect Name (L/C) |
+|-------------------------------------------|------------------|-------------------|-------------------|-------------------|-------------------|
+| Briceño Llanos, Ayrton Omar               | AyrtonBriceno    |                   |                   |                   |                   |
+| Guia Carrasco, Pedro Andre                | Pedrivizz        |                   |                   |                   |                   |
+| Lang Nassi, Werner Khalil                 | 00WernerLang     |                   |                   |                   |                   |
+| Nakasone Gomes, Marco Antonio             | marquinho04      |                   |                   |                   |                   |
+| Rodas Sotomayor, Ernesto                  | ernesto0710      |                   |                   |                   |                   |
+
 
 #### 5.2.1.3. Sprint Backlog 1
 En esta secciones se muestra las tareas que se realizaron en el sprint 1, se adjunta la captura del tablero y el link.
