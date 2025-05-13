@@ -939,21 +939,36 @@ En este apartado nos vamos a centrar en el contenido visual y estilos que se usa
    - Detalles
 
 ### 4.2.2. Labeling Systems
-Los sistemas de etiquetado sirven para **identificar**, **organizar**, y **rastrear** productos o elementos dentro de un inventario. En el contexto de una app de gestión de inventario como Keep It Fresh, su función principal incluye:
-- Asignar etiquetas únicas
-- Facilitar en el escaneo y registro rápido
-- Reducir errores
-- Mejorar la trazabilidad
-- Organizar físicamente el inventario
+Los sistemas de etiquetado (Labeling Systems) en KeepItFresh cumplen una función clave para garantizar que la información se represente de forma clara, concisa y comprensible para todos los perfiles de usuario. Su diseño está orientado a minimizar la carga cognitiva, facilitar la navegación y permitir la rápida identificación de datos críticos, especialmente en entornos operativos donde el tiempo y la precisión son factores determinantes.
 
-**Emjemplos**
-- **Menú:** "Equipo", "Acerca", "Características", "Contacto".
-- **Secciones:**
-  - **Team:** Nombres y descripciones de los miembros del equipo: "Marco Nakasone", "Pedro Guia", "Werner Lang", "Ayrton Briceño", "Ernesto Rodas".
-  - **About:** "Nestra esencia", "misión", "visión", "valores".
-  - **Features:** "Seguimiento en tiempo real", "Manejo de temperatura", "Alertas y notificaciones", "Gestión de inventario", "Llamado al mozo".
-  - **Contact:**"Nombre completo", "Correo electrónico", "Detalles", "Enviar".
- 
+Las etiquetas se utilizarán tanto en la interfaz gráfica como en la estructura de datos subyacente para identificar productos, acciones, secciones del sistema y flujos de interacción. En todos los casos se optará por nombres breves, intuitivos y consistentes, evitando tecnicismos innecesarios o etiquetas ambiguas.
+
+Principales usos del sistema de etiquetado:
+Identificación de productos e inventario:
+Cada producto será etiquetado con atributos clave como nombre, categoría, fecha de caducidad y estado (ej. "Pechuga de pollo", "Lácteo - vencido", "Stock bajo").
+
+Menú de navegación principal (navbar):
+Las etiquetas en el menú global estarán compuestas por una sola palabra o frases muy cortas, como:
+Inicio, Equipo, Acerca, Funciones, Contacto.
+
+Secciones del sitio o aplicación:
+
+- Equipo (Team): "Marco Nakasone", "Pedro Guía", "Werner Lang", etc.
+
+- Acerca (About): "Nuestra esencia", "Misión", "Visión", "Valores".
+
+- Funciones (Features): "Alertas en tiempo real", "Gestión de inventario", "Botón de atención", etc.
+
+- Contacto (Contact): "Nombre completo", "Correo electrónico", "Mensaje", "Enviar".
+
+Botones y llamadas a la acción (CTAs):
+Etiquetas claras como Registrar producto, Actualizar stock, Llamar mozo, Ver reporte, Editar, Guardar.
+
+Asociaciones de datos dentro de flujos funcionales:
+En los formularios y dashboards, las etiquetas asociarán directamente los campos con su propósito, por ejemplo:
+"Cantidad", "Temperatura actual", "Última actualización", "Usuario asignado".
+
+Este sistema de etiquetado fue definido con base en principios de diseño centrado en el usuario y validado preliminarmente mediante formularios en Google Forms para garantizar su comprensibilidad en usuarios de distinto nivel técnico.
   
 ### 4.2.3. SEO Tags and Meta Tags
 Aquí mostraremos los Meta Tagas y los SEO tags que hemos usado para poder desarrollar el landing page con el objetivo de que sea agradable para los usuarios.
