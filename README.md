@@ -2405,6 +2405,7 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 #### 5.2.2.5. Execution Evidence for Sprint 2 Review
 
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review (Sprint 2)
 
 En el segundo sprint, hemos implementado y organizado los servicios correspondientes al Frontend de la aplicación web **KeepItFresh**, permitiendo así su visualización e interacción funcional.
@@ -2415,6 +2416,11 @@ En el segundo sprint, hemos implementado y organizado los servicios correspondie
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint 2 Review
+
+Para el despliegue de nuestro Frontend hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde dividimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra aplicación web.
+
+Link del frontend desplegado:
+https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint 2
 
