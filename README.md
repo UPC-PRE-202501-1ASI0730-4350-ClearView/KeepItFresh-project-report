@@ -2360,6 +2360,24 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 #### 5.2.2.3. Sprint Backlog 2
 
+| Sprint # | User Story | Work-Item / Task |          |                            |                      |             |------------------------------|
+|----------|------------|------------------|----------|----------------------------|----------------------|-------------|------------------------------|
+|          | ID         | ID               | Title    | Description                | Estimation (Hours)   | Assigned To | Status                       |
+| 2        | US11       | T11-1            | IoT Alerts Trigger     | Configurar notificaciones de conexión/desconexión de sensores               | 5                    | Ayrton Briceño  | In-Process                   |
+| 2        | US12       | T12-1            | Sensor Status Panel     | Visualizar sensores activos/inactivos en tablero de control                 | 4                    | Ernesto Rodas   | Done                         |
+| 2        | US13       | T13-1            | Expiry Alerts Setup     | Generar alertas de productos a vencer y vencidos                            | 5                    | Pedro Guia      | To-Reviw                        |
+| 2        | US14       | T14-1            | Info Notifications      | Configurar mensajes azules para eventos exitosos                            | 3                    | Werner Lang     | Done                         |
+| 2        | US15       | T15-1            | Warning Alerts Logic    | Activar alertas preventivas para temperatura y stock bajo                   | 4                    | Marco Nakasone  | Done                   |
+| 2        | US16       | T16-1            | Error & Success Alerts  | Configurar mensajes de error (rojo) y éxito (verde)                         | 5                    | Ayrton Briceño  | To-Review                    |
+| 2        | US17       | T17-1            | Inventory Registration  | Registrar productos con nombre, categoría, cantidad y vencimiento          | 6                    | Ernesto Rodas   | To-Review                         |
+| 2        | US18       | T18-1            | Inventory Viewer        | Mostrar inventario actual en formato de lista y búsqueda                    | 5                    | Werner Lang     | In-Process                   |
+| 2        | US19       | T19-1            | Inventory Editing       | Habilitar edición de productos existentes                                   | 4                    | Marco Nakasone  | To-Do                        |
+| 2        | US20       | T20-1            | Product Deletion Flow   | Eliminar productos vencidos con confirmación del usuario                    | 3                    | Pedro Guia      | Done                         |
+| 2        | US21       | T21-1            | Report Generator        | Exportar inventario en formato PDF y Excel con filtros                      | 6                    | Werner Lang     | To-Do                        |
+| 2        | US22       | T22-1            | Profile Data Viewer     | Mostrar información personal del usuario                                    | 3                    | Ayrton Briceño  | Done                         |
+| 2        | US23       | T23-1            | Subscription Panel      | Visualizar tipo de suscripción del usuario                                  | 4                    | Ernesto Rodas   | Done                   |
+| 2        | US24       | T24-1            | Edit Profile Settings   | Editar correo y contraseña desde la sección de perfil                       | 4                    | Marco Nakasone  | Done                   |
+
 #### 5.2.2.4. Development Evidence for Sprint 2 Review
 
 #### 5.2.2.5. Execution Evidence for Sprint 2 Review
