@@ -682,10 +682,12 @@ En esta sección, se incluyen las fichas de User Personas que representan arquet
     <li>
         <p>Dueños de restaurantes</p>
         <img src="assets/userpersona1.png" alt="Owner user person" title="Owner user person">
+        <p>Javier representa el perfil racional de un administrador gastronómico que busca integrar soluciones tecnológicas para optimizar la gestión de inventario y mejorar la experiencia del cliente. A sus 45 años, es responsable del funcionamiento operativo del restaurante, pero enfrenta limitaciones relacionadas con la supervisión manual de productos y procesos, lo que le genera estrés y pérdidas económicas por caducidad de insumos. Este perfil se caracteriza por una alta responsabilidad, organización y habilidades de comunicación, pero demanda herramientas que le brinden mayor visibilidad y control en tiempo real. La información que sustenta este perfil fue construida combinando sesiones de observación directa y análisis de resultados obtenidos a través de formularios en Google Forms aplicados a usuarios reales del sector, lo cual permitió validar tanto sus motivaciones como sus frustraciones operativas.</p>
     </li>
     <li>
         <p>Empleados de restaurantes</p>
         <img src="assets/userpersona2.png" alt="Worker user person" title="Worker user person">
+        <p>Daniel encarna el perfil artesanal de un joven trabajador del rubro gastronómico, que equilibra sus labores como mesero en un restaurante criollo con sus estudios universitarios. A sus 23 años, muestra alta amabilidad, responsabilidad y compromiso con el servicio al cliente, pero se ve afectado por una mala coordinación interna, desorden en la gestión del inventario y una comunicación ineficaz con el equipo de cocina. Su frustración aumenta cuando no puede dar respuestas claras a los comensales o debe improvisar frente a la falta de insumos. Esta persona tipo fue construida con base en entrevistas cualitativas y formularios en línea aplicados a trabajadores de atención directa, cuyos patrones comunes permitieron validar necesidades clave como contar con un sistema más organizado, menos estresante y que le permita concentrarse en brindar un servicio eficiente.</p
     </li>
 </ul>
 
