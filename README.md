@@ -2350,13 +2350,14 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name)       | GitHub Username | Aspect Name (L/C) | Aspect Name (L/C) | Aspect Name (L/C) | Aspect Name (L/C) |
-|-------------------------------------------|------------------|-------------------|-------------------|-------------------|-------------------|
-| Briceño Llanos, Ayrton Omar               | AyrtonBriceno    |                   |                   |                   |                   |
-| Guia Carrasco, Pedro Andre                | Pedrivizz        |                   |                   |                   |                   |
-| Lang Nassi, Werner Khalil                 | 00WernerLang     |                   |                   |                   |                   |
-| Nakasone Gomes, Marco Antonio             | marquinho04      |                   |                   |                   |                   |
-| Rodas Sotomayor, Ernesto                  | ernesto0710      |                   |                   |                   |                   |
+| Team Member (Last Name, First Name)       | GitHub Username | Gestión de invenatrio (L/C)                  | Gestion de notificaciones de estado (L/C)                      | Gestion de perfil de usuario  (L/C)                    |
+|-------------------------------------------|------------------|------------------------------------|----------------------------------------|---------------------------------------|
+| Briceño Llanos, Ayrton Omar               | AyrtonBriceno    | (C)  | (C)              |  (L) |     
+| Guia Carrasco, Pedro Andre                | Pedrivizz        | (L)         | (C) |  (C)       |                   
+| Lang Nassi, Werner Khalil                 | 00WernerLang     |  (C) |  (L)         |  (C)       |                  
+| Nakasone Gomes, Marco Antonio             | marquinho04      |   (C)         |  (L)        | (C) |                  
+| Rodas Sotomayor, Ernesto                  | ernesto0710      |  (L)         | (C) |(C)       |              
+
 
 #### 5.2.2.3. Sprint Backlog 2
 
