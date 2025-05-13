@@ -2195,7 +2195,11 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-**Esta seccion no aplica para esta entrega**
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "KeepItFresh"
+
+| End Point                                                                 | Funciones                             |
+|---------------------------------------------------------------------------|---------------------------------------|
+| [https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/](https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/) | Desplegar Landing Page de KeepItFresh |
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
