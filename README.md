@@ -819,7 +819,7 @@ Para los To-Be Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
 
 
 ## 3.2. User Stories
-En esta sección, estructuraremos nuestro proceso de desarrollo y aseguraremos de cubrir los aspectos necesarios para satisfacer las necesidades del usuario.
+En esta sección, estructuraremos nuestro proceso de desarrollo y aseguraremos de cubrir los os necesarios para satisfacer las necesidades del usuario.
 
 A continuación, estableceremos las épicas, para luego detallarlas en historias de usuario. De este modo estableceremos los objetivos y funcionalidades.
 
@@ -1984,13 +1984,13 @@ A continuación, se presentará el sprint planning 1 donde se mostrarán las evi
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name)       | GitHub Username | Aspect Name (L/C) | Aspect Name (L/C) | Aspect Name (L/C) | Aspect Name (L/C) |
-|-------------------------------------------|------------------|-------------------|-------------------|-------------------|-------------------|
-| Briceño Llanos, Ayrton Omar               | AyrtonBriceno    |                   |                   |                   |                   |
-| Guia Carrasco, Pedro Andre                | Pedrivizz        |                   |                   |                   |                   |
-| Lang Nassi, Werner Khalil                 | 00WernerLang     |                   |                   |                   |                   |
-| Nakasone Gomes, Marco Antonio             | marquinho04      |                   |                   |                   |                   |
-| Rodas Sotomayor, Ernesto                  | ernesto0710      |                   |                   |                   |                   |
+| Team Member (Last Name, First Name)       | GitHub Username | Landing Page (L/C) |Documentation (L/C) | Epics (L/C) | 
+|-------------------------------------------|------------------|-------------------|-------------------|-------------------|
+| Briceño Llanos, Ayrton Omar               | AyrtonBriceno    |             C      |            C       |            L       |                   
+| Guia Carrasco, Pedro Andre                | Pedrivizz        |            C       |           C        |            C       |                   
+| Lang Nassi, Werner Khalil                 | 00WernerLang     |           C        |           C        |         C          |                   
+| Nakasone Gomes, Marco Antonio             | marquinho04      |           L        |            C       |           C        |                   
+| Rodas Sotomayor, Ernesto                  | ernesto0710      |          C         |       L            |             C      |                   
 
 
 #### 5.2.1.3. Sprint Backlog 1
