@@ -2405,6 +2405,27 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 #### 5.2.2.5. Execution Evidence for Sprint 2 Review
 
+Durante este segundo sprint, se ha trabajado activamente en la implementación del **Frontend funcional** de KeepItFresh, incluyendo componentes clave como autenticación, perfiles de usuario, alertas del inventario y monitoreo de sensores. Las siguientes evidencias gráficas muestran los principales avances conseguidos en esta fase.
+
+**Login y Autenticación**  
+Implementamos una pantalla de inicio de sesión funcional con opción de registro, recuperación de contraseña y gestión de sesión.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/vista2.png?raw=true" width="700"/>
+
+**Gestión de Perfil de Usuario**  
+La sección de perfil permite al usuario visualizar su información personal, plan de suscripción activo, y actualizar su correo o contraseña.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/vista1.png?raw=true" width="700"/>
+
+**Alertas del Inventario**  
+Se ha implementado la visualización de alertas según el estado del inventario (stock bajo y caducidad próxima), con filtros interactivos.
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/vista4.jpeg?raw=true" width="700"/>
+
+**Monitoreo de Sensores**  
+Se ha desarrollado una sección para gestionar alertas de sensores clasificadas por tipo (error, advertencia, éxito e informativas).
+
+<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/vista3.jpeg?raw=true" width="700"/>
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review (Sprint 2)
 
