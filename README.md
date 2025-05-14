@@ -47,10 +47,11 @@
 
 # Registro de Versiones del Informe
 
-| Version | Fecha      | Autor           | Descripción de Modificación |
-|---------|------------|-----------------|-----------------------------|
-| 1.0   | 04/04/2025 | Grupo ClearView | Desarrollo de TB1           |
-| 2.0   | 28/04/2025 | Grupo ClearView | Corección de TB1            |
+| Version | Fecha      | Autor           | Descripción de Modificación  |
+|---------|------------|-----------------|------------------------------|
+| 1.0     | 04/04/2025 | Grupo ClearView | Desarrollo de TB1            |
+| 2.0     | 28/04/2025 | Grupo ClearView | Corrección de TB1            |
+| 3.0     | 13/05/2025 | Grupo ClearView | Desarrollo de TP             |
 
 # Project Report Collaboration Insights
 Analiza cómo la colaboración y la gestión de tareas influyeron en los resultados del proyecto, destacando fortalezas y áreas de mejora para optimizar futuras estrategias.
