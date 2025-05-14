@@ -2361,6 +2361,11 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 #### 5.2.2.3. Sprint Backlog 2
 
+En esta secciones se muestra las tareas que se realizaron en el sprint 2, se adjunta la captura del tablero y el link.
+Link del tablero: https://trello.com/invite/b/68236f8c4da02b57802427e1/ATTIa791a7f1e0da23eb825c4119a26d6cdf3A7E5EDA/keepitfresh-sprint-2
+![img.jpeg](assets/trello2.jpeg)
+
+
 | Sprint # | User Story | Work-Item / Task |          |                            |                      |             |------------------------------|
 |----------|------------|------------------|----------|----------------------------|----------------------|-------------|------------------------------|
 |          | ID         | ID               | Title    | Description                | Estimation (Hours)   | Assigned To | Status                       |
