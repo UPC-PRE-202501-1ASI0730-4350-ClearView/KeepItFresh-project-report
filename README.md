@@ -68,7 +68,7 @@ TB1: El equipo entero participó en el desarrollo del sistema, asignando las tar
 * Se crearon los artefactos necesarios usando las herramientas recomendadas y se obtuvieron enlaces de imagen desde la carpeta "assets" en la rama develop del repositorio del informe.
 * Se programaron reuniones para coordinar el avance de los elementos del informe y comunicar los logros del Sprint 1, centrado en la página de inicio. 
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/collaborations.png?raw=true">
+![collaborations.png](assets/collaborations.png)
 
 # Contenido
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
@@ -164,15 +164,24 @@ TB1: El equipo entero participó en el desarrollo del sistema, asignando las tar
 [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)  
 
 [5.2. Landing Page, Services & Applications Implementation.](#52-landing-page-services--applications-implementation)
-[5.2.1. Sprint n.](#521-sprint-n)  
-[5.2.1.1. Sprint Planning n.](#5211-sprint-planning-n)  
-[5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)  
-[5.2.1.3. Sprint Backlog n.](#5213-sprint-backlog-n)  
+[5.2.1. Sprint 1](#521-sprint-n)  
+[5.2.1.1. Sprint Planning 1](#5211-sprint-planning-n)  
+[5.2.1.2. Aspect Leaders and Collaborators 1](#5212-aspect-leaders-and-collaborators)  
+[5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-n)  
 [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)  
 [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)  
 [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)  
 [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)  
-[5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)  
+[5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+[5.2.2. Sprint 2](#521-sprint-n)  
+[5.2.2.1. Sprint Planning 2](#5211-sprint-planning-n)  
+[5.2.2.2. Aspect Leaders and Collaborators 1](#5212-aspect-leaders-and-collaborators)  
+[5.2.2.3. Sprint Backlog 1](#5213-sprint-backlog-n)  
+[5.2.2.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)  
+[5.2.2.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)  
+[5.2.2.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)  
+[5.2.2.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)  
+[5.2.2.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
 
 [Conclusiones](#conclusiones)  
 [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)  
@@ -209,11 +218,11 @@ Ser la empresa más importante en Perú, en el ámbito de gestión y optimizaci�
 
 |                                | Apellido y Nombre               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                                                      | Habilidades                                                                                             |
 |--------------------------------|---------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/ayrton.jpg?raw=true "  width="300"/>  | Briceño Llanos, Ayrton Omar | Ingeniería de Software | Soy Ayrton Briceño. Me apasiona el desarrollo de Software y la creación de soluciones tecnológicas que impacten positivamente en las personas | JavaScript, CSS, C#, HTML, Java, SQL Server, MongoDB |
-| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/pedro.jpg?raw=true" width="300"/>   | Guia Carrasco, Pedro Andre | Ingeniería de Software | Soy Pedro Guia, estudiante de la UPC. Estoy llevando mi cuarto año en la universidad y sigo firme a mis logros a futuro. | Java, Python, HTML, CSS, JavaScript, Angular, MySQL |
-| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/werner.jpg?raw=true" width="300"/>  | Lang Nassi, Werner Khalil | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC), cursando en 5.º ciclo. Soy un estudiante que le gusta investigar cosas nuevas. | Java, JavaScript, C++, C#, SQL sever, Python, CSS, HTML|
-| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/marco.jpg?raw=true" width="300"/>   | Nakasone Gomes, Marco Antonio | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y tambien soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | Java, Python, HTML, CSS, JS, MySQL |
-| <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/ernesto.jpg?raw=true" width="300"/> | Rodas Sotomayor, Ernesto | Ingeniería de Software | Mi nombre es Ernesto Rodas, me apasiona la tecnología, el desarrollo de sistemas y la innovación en soluciones digitales. | Java, Python y JavaScript. (MySQL) y NoSQL (MongoDB). |
+| ![ayrton.jpg](assets/ayrton.jpg)  | Briceño Llanos, Ayrton Omar | Ingeniería de Software | Soy Ayrton Briceño. Me apasiona el desarrollo de Software y la creación de soluciones tecnológicas que impacten positivamente en las personas | JavaScript, CSS, C#, HTML, Java, SQL Server, MongoDB |
+| ![pedro.jpg](assets/pedro.jpg)  | Guia Carrasco, Pedro Andre | Ingeniería de Software | Soy Pedro Guia, estudiante de la UPC. Estoy llevando mi cuarto año en la universidad y sigo firme a mis logros a futuro. | Java, Python, HTML, CSS, JavaScript, Angular, MySQL |
+| ![werner.jpg](assets/werner.jpg) | Lang Nassi, Werner Khalil | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC), cursando en 5.º ciclo. Soy un estudiante que le gusta investigar cosas nuevas. | Java, JavaScript, C++, C#, SQL sever, Python, CSS, HTML|
+| ![marco.jpg](assets/marco.jpg)  | Nakasone Gomes, Marco Antonio | Ingeniería de Software | Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y tambien soy buen compañero de trabajo que siempre quiere lo mejor para su grupo. | Java, Python, HTML, CSS, JS, MySQL |
+| ![ernesto.jpg](assets/ernesto.jpg) | Rodas Sotomayor, Ernesto | Ingeniería de Software | Mi nombre es Ernesto Rodas, me apasiona la tecnología, el desarrollo de sistemas y la innovación en soluciones digitales. | Java, Python y JavaScript. (MySQL) y NoSQL (MongoDB). |
 
 ## 1.2. Solution Profile
 
@@ -394,10 +403,22 @@ Este análisis es llevado a cabo porque se busca conocer cuáles son las ventaja
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td><img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/logo.jpg?raw=true" width="100px"><br></td>
-    <td><img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/restroworks.png?raw=true" width="100px"><br></td>
-    <td><img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/odoo.png?raw=true" width="100px"/><br></td>
-    <td><img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/solvermedia.jpg?raw=true"width="100px"/><br></td>
+    <td>
+
+![logo.jpg](assets/logo.jpg) 
+</td>
+    <td>
+
+![restroworks.png](assets/restroworks.png)
+</td>
+    <td>
+
+![odoo.png](assets/odoo.png)
+</td>
+    <td>
+
+![solvermedia.jpg](assets/solvermedia.jpg)
+</td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -538,7 +559,7 @@ Entrevistas del segmento de dueño de restaurante:
 | Apellido             | Agurto                                                                                                                                                                                                                                                                                                                      |
 | Edad                 | 34 años                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | San Borja                                                                                                                                                                                                                                                                                                                   |
-| Evidencia            | <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/EntrevistaLuis.jpg?raw=true" width="600" height="400">                                                                                                                                                                                                                                                              |
+| Evidencia            | ![EntrevistaLuis.jpg](assets/EntrevistaLuis.jpg)                                                                                                                                                                                                                                                              |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 00:00                                                                                                                                                                                                                                                                                                                       |    
 | Fin de entrevista    | 06:30                                                                                                                                                                                                                                                                                                                       |
@@ -552,7 +573,7 @@ Resumen de entrevista: Luis Agurto, fundador y gerente general de la cevichería
 | Apellido             | Céspedes                                                                                                                                                                                                                                                                                                                   |
 | Edad                 | 54 años                                                                                                                                                                                                                                                                                                                    |
 | Distrito             | Miami                                                                                                                                                                                                                                                                                                                      |
-| Evidencia            | <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/entrevista.jpg?raw=true" width="600" height="400">                                                                                                                                                                                                                                                                                         |
+| Evidencia            | ![entrevista.jpg](assets/entrevista.jpg)                                                                                                                                                                                                                                                                                         |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 14:43                                                                                                                                                                                                                                                                                                                      |    
 | Fin de entrevista    | 29:10                                                                                                                                                                                                                                                                                                                      |
@@ -571,7 +592,7 @@ Entrevista del segmento trabajadores del restaurante
 | Apellido             | Frias                                                                                                                                                                                                                                                                                                                       |
 | Edad                 | 21                                                                                                                                                                                                                                                                                                                          |
 | Distrito             | San Miguel                                                                                                                                                                                                                                                                                                                  |
-| Evidencia            | <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/evidencia.png?raw=true" width="600" height="400">                                                                                                                                                                                                                                                                                           |
+| Evidencia            | ![evidencia.png](assets/evidencia.png)                                                                                                                                                                                                                                                                                      |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 09:41                                                                                                                                                                                                                                                                                                                       |
 | Fin de entrevista    | 14:42                                                                                                                                                                                                                                                                                                                       | 
@@ -587,7 +608,7 @@ Kaleb Frias trabaja en un restaurante atendiendo clientes, tomando pedidos y org
 | Apellido             | Yonamine                                                                                                                                                                                                                                                                                                               |
 | Edad                 | 20                                                                                                                                                                                                                                                                                                                     |
 | Distrito             | Pueblo Libre                                                                                                                                                                                                                                                                                                           |
-| Evidencia            | <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/entrevista-4.png?raw=true" width="600" height="400">                                                                                                                                         |
+| Evidencia            | ![entrevista-4.png](assets/entrevista-4.png)                                                                                                                                         |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 29:11                                                                                                                                                                                                                                                                                                                  |
 | Fin de entrevista    | 39:10                                                                                                                                                                                                                                                                                                                  | 
@@ -603,7 +624,7 @@ Matthew nos dió a conocer un poco sobre como es el hambiente laboral dentro de 
 | Apellido             | Ahane                                                                                                                                                                                                                                                                                                                       |
 | Edad                 | 19                                                                                                                                                                                                                                                                                                                          |
 | Distrito             | San Miguel                                                                                                                                                                                                                                                                                                                  |
-| Evidencia            | <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/envidencia-entrevista6.png?raw=true" width="600" height="400">                                                                                                                                                                                                                                                                              |
+| Evidencia            | ![envidencia-entrevista6.png](assets/envidencia-entrevista6.png)                                                                                                                                                                                                                                                                              |
 | Url                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HrwezL |
 | Inicio de entrevista | 06:30                                                                                                                                                                                                                                                                                                                       |
 | Fin de entrevista    | 09:40                                                                                                                                                                                                                                                                                                                       | 
@@ -683,7 +704,9 @@ En esta sección, se incluyen las fichas de User Personas que representan arquet
 <ul>
     <li>
         <p>Dueños de restaurantes</p>
-        <img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/userpersona1.png?raw=true" alt="Owner user person" title="Owner user person">
+        
+
+![userpersona1.png](assets/userpersona1.png)
         <p>Javier representa el perfil racional de un administrador gastronómico que busca integrar soluciones tecnológicas para optimizar la gestión de inventario y mejorar la experiencia del cliente. A sus 45 años, es responsable del funcionamiento operativo del restaurante, pero enfrenta limitaciones relacionadas con la supervisión manual de productos y procesos, lo que le genera estrés y pérdidas económicas por caducidad de insumos. Este perfil se caracteriza por una alta responsabilidad, organización y habilidades de comunicación, pero demanda herramientas que le brinden mayor visibilidad y control en tiempo real. La información que sustenta este perfil fue construida combinando sesiones de observación directa y análisis de resultados obtenidos a través de formularios en Google Forms aplicados a usuarios reales del sector, lo cual permitió validar tanto sus motivaciones como sus frustraciones operativas.</p>
     </li>
     <li>
