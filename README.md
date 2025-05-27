@@ -715,31 +715,61 @@ El lenguaje ubicuo es una parte fundamental de la estrategia de UX. Esta consist
 
 ### Glosario
 
-```
-RestaurantOwner (DueñoDelRestaurante): Persona encargada de la administración general del restaurante. Supervisa el inventario, el personal, la calidad del servicio y toma decisiones operativas clave.
+* RestaurantOwner (Dueño Del Restaurante): 
 
-RestaurantStaff (PersonalDelRestaurante): Conjunto de trabajadores que incluyen mozos, cocineros, encargados de almacén, entre otros. Reciben tareas y ejecutan las operaciones diarias del restaurante.
+    Persona encargada de la administración general del restaurante. Supervisa el inventario, el personal, la calidad del servicio y toma decisiones operativas clave.
 
-Product (Producto): Insumo alimenticio o material consumible utilizado en el restaurante, como carnes, verduras, condimentos, bebidas o productos de cocina. Cada producto puede tener una fecha de caducidad y condiciones de almacenamiento específicas.
 
-Inventory (Inventario): Conjunto de productos registrados y almacenados en el restaurante. Su correcta gestión evita pérdidas, desperdicio y garantiza disponibilidad.
+* RestaurantStaff (PersonalDelRestaurante): 
 
-StorageUnit (UnidadDeAlmacenamiento): Espacio físico donde se conservan los productos. Puede ser una nevera, congelador, despensa o zona de temperatura controlada.
+    Conjunto de trabajadores que incluyen mozos, cocineros, encargados de almacén, entre otros. Reciben tareas y ejecutan las operaciones diarias del restaurante.
 
-ExpirationDate (FechaDeCaducidad): Fecha límite en la que un producto debe ser utilizado o descartado. Su control es clave para evitar pérdidas y riesgos sanitarios.
 
-ExpirationAlert (AlertaDeCaducidad): Notificación que indica que un producto está por vencer o ya ha vencido, para tomar acción inmediata.
+* Product (Producto): 
 
-TemperatureMonitoring (MonitoreoDeTemperatura): Proceso que permite verificar que los productos almacenados están a la temperatura adecuada para preservar su calidad.
+    Insumo alimenticio o material consumible utilizado en el restaurante, como carnes, verduras, condimentos, bebidas o productos de cocina. Cada producto puede tener una fecha de caducidad y condiciones de almacenamiento específicas.
 
-RealTimeTracking (SeguimientoEnTiempoReal): Visualización instantánea del estado de los productos, inventario, alertas y condiciones de almacenamiento en todo momento.
 
-CustomerAttentionAlert (AlertaDeAtenciónAlCliente): Señal visual o notificación que permite al personal saber cuándo un cliente necesita atención.
+* Inventory (Inventario): 
 
-WaiterInterface (InterfazDelMozo): Herramienta que utilizan los mozos para recibir alertas, visualizar solicitudes de los clientes y gestionar su atención de forma organizada.
+    Conjunto de productos registrados y almacenados en el restaurante. Su correcta gestión evita pérdidas, desperdicio y garantiza disponibilidad.
 
-```
----
+
+* StorageUnit (UnidadDeAlmacenamiento): 
+
+    Espacio físico donde se conservan los productos. Puede ser una nevera, congelador, despensa o zona de temperatura controlada.
+
+
+* ExpirationDate (FechaDeCaducidad): 
+    
+    Fecha límite en la que un producto debe ser utilizado o descartado. Su control es clave para evitar pérdidas y riesgos sanitarios.
+
+
+* ExpirationAlert (AlertaDeCaducidad): 
+
+    Notificación que indica que un producto está por vencer o ya ha vencido, para tomar acción inmediata.
+
+
+* TemperatureMonitoring (MonitoreoDeTemperatura): 
+
+    Proceso que permite verificar que los productos almacenados están a la temperatura adecuada para preservar su calidad.
+
+
+* RealTimeTracking (SeguimientoEnTiempoReal): 
+
+    Visualización instantánea del estado de los productos, inventario, alertas y condiciones de almacenamiento en todo momento.
+
+
+* CustomerAttentionAlert (AlertaDeAtenciónAlCliente): 
+
+    Señal visual o notificación que permite al personal saber cuándo un cliente necesita atención.
+
+
+* WaiterInterface (InterfazDelMozo): 
+
+    Herramienta que utilizan los mozos para recibir alertas, visualizar solicitudes de los clientes y gestionar su atención de forma organizada.
+
+
 
 # Capitulo III: Requeriments Specification
 
