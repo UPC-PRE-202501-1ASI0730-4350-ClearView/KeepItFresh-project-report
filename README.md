@@ -70,6 +70,16 @@ TB1: El equipo entero participó en el desarrollo del sistema, asignando las tar
 
 ![collaborations.png](assets/collaborations.png)
 
+TP: Se completaron las tareas previstas para la entrega del TP, y se documentaron de manera adecuada en el repositorio de GitHub del equipo.
+
+* Los contenidos asignados a cada miembro se redactaron y organizaron en formato Markdown, realizando commits para garantizar el seguimiento del avance en el repositorio.
+* Se crearon los artefactos necesarios utilizando las herramientas sugeridas.
+* Se realizaron reuniones para coordinar el progreso de los elementos del informe y compartir los avances del Sprint 2, enfocado en el desarrollo de la aplicación web.
+
+![commit1.jpeg](assets/commit1.jpeg)
+
+![commit2.jpeg](assets/commit2.jpeg)
+
 # Contenido
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
 [Project Report Collaboration Insights](#project-report-collaboration-insights)  
@@ -157,26 +167,29 @@ TB1: El equipo entero participó en el desarrollo del sistema, asignando las tar
 
 [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation-deployment)  
 
-[5.1. Software Configuration Management.](#51-software-configuration-management)  
+[5.1. Software Configuration Management.](#51-software-configuration-management) 
+
 [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)  
 [5.1.2. Source Code Management.](#512-source-code-management)  
-[5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide--conventions)
+[5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide--conventions)                  
 [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)  
 
 [5.2. Landing Page, Services & Applications Implementation.](#52-landing-page-services--applications-implementation)
-[5.2.1. Sprint 1](#521-sprint-n)  
-[5.2.1.1. Sprint Planning 1](#5211-sprint-planning-n)  
+
+[5.2.1. Sprint 1](#521-sprint-1)  
+[5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)  
 [5.2.1.2. Aspect Leaders and Collaborators 1](#5212-aspect-leaders-and-collaborators)  
-[5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-n)  
+[5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)  
 [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)  
 [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)  
 [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)  
 [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)  
 [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-[5.2.2. Sprint 2](#521-sprint-n)  
-[5.2.2.1. Sprint Planning 2](#5211-sprint-planning-n)  
+
+[5.2.2. Sprint 2](#522-sprint-2)  
+[5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)  
 [5.2.2.2. Aspect Leaders and Collaborators 1](#5212-aspect-leaders-and-collaborators)  
-[5.2.2.3. Sprint Backlog 1](#5213-sprint-backlog-n)  
+[5.2.2.3. Sprint Backlog 1](#5223-sprint-backlog-2)  
 [5.2.2.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)  
 [5.2.2.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)  
 [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)  
@@ -372,8 +385,8 @@ KeepItFresh debe tener un diseño visual moderno, limpio y profesional, con una 
 9. Hipótesis 9: Creemos que al proporcionar un flujo específico para que el personal registre y almacene inventario entrante, el proceso de actualización de stock será más eficiente y preciso para los trabajadores, lo cual reducirá su carga de trabajo y asegurará registros exactos en el sistema.
 
 #### 1.2.2.4. Lean UX Canvas.
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/canvas-updated.jpeg?raw=true">
 
+![canvas-updated.jpeg](assets/canvas-updated.jpeg)
 La imagen representa un UX Canvas del proyecto KeepItFresh, una herramienta estratégica que organiza de forma visual los elementos clave para diseñar una experiencia centrada en el usuario. El canvas parte del problema central del negocio —la mala gestión de inventarios en restaurantes medianos— y propone soluciones tecnológicas basadas en sensores IoT, alertas automáticas y control visual accesible, con beneficios tanto operativos como comerciales.
 
 Se identifican claramente a los usuarios (dueños y trabajadores de restaurantes), junto con sus necesidades, beneficios esperados, hipótesis a validar, y acciones mínimas viables para probar la solución. Además, se abordan tanto los aprendizajes prioritarios como las pruebas de menor esfuerzo necesarias para iterar el producto. En conjunto, este canvas guía el desarrollo de KeepItFresh desde la empatía con el usuario hasta la validación del producto en contexto real.
@@ -391,111 +404,23 @@ KeepItFresh es una plataforma enfocada en los dos segmentos clave dentro de un r
 
 ### 2.1.1. Análisis competitivo
 
-Este análisis es llevado a cabo porque se busca conocer cuáles son las ventajas y desventajas que presenta nuestra aplicación frente a la competencia.
+| **Competitive Analysis Landscape**                                                                                                                                                                         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **¿Por qué llevar a cabo el análisis?** El objetivo de este análisis es conocer las diferencias entre los competidores que hay en el mercado actual.                                                       |
 
-<table>
-  <tr>
-    <th colspan="22">Competitive Analysis Landscape</th>
-  </tr>
-  <tr>
-    <td colspan="1">¿Por qué llevar a cabo el análisis?</td>
-    <td colspan="17">El objetivo de este análisis es conocer las diferencias entre los competidores que hay en el mercado actual.</td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td>
+| Categoría                | Elemento                                 | ![logo.jpg](assets/logo.jpg)<br>**KeepItFresh**                                               | ![restroworks.png](assets/restroworks.png)<br>**Restroworks**             | ![odoo.png](assets/odoo.png)<br>**Odoo**                                   | ![solvermedia.jpg](assets/solvermedia.jpg)<br>**SolverMedia**                     |
+|-------------------------|------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Perfil**              | Ventaja competitiva ¿Qué valor ofrece?   | Software inteligente de inventario, control de estado, conservación de alimentos y botón de llamado a mozos. | Inventario en tiempo real para decisiones inteligentes.                   | Software personalizado para comercio e inventario.                        | Control de stocks, generación de horarios y pedidos a proveedores.               |
+| **Perfil de Marketing** | Mercado Objetivo                         | Restaurantes criollos, cevicherías y pollerías.                                               | Cadenas de comida rápida y restaurantes.                                   | Negocios que buscan software personalizado para restaurantes.            | Restaurantes, cafeterías y puntos de venta en hotelería.                         |
+|                         | Estrategias de Marketing                 | Publicidad, landing page, redes sociales y entrevistas.                                       | Landing page y colaboración con grandes empresas.                          | Publicidad, landing page y entrevistas.                                   | Publicidad y landing page.                                                       |
+| **Perfil de Producto**  | Productos y Servicios                    | Software de manejo de inventario para restaurantes y análisis de datos.                       | Plataforma de gestión de inventario y monitoreo en tiempo real.            | Software personalizado para el usuario.                                  | Control de stock, generación de horarios y pedidos a proveedor.                 |
+|                         | Precios y Costos                         | Suscripción por cada dispositivo IoT.                                                         | Precio según complejidad de software y hardware.                           | Precio según cotización del software.                                    | Desde $5 con funciones extendidas.                                               |
+|                         | Canales de distribución (Web y/o Móvil) | Web y móvil.                                                                                   | Web y móvil.                                                               | Web y móvil.                                                            | Solo web.                                                                        |
+| **Análisis SWOT**       | Fortalezas                               | Tecnología IoT con interfaz intuitiva.                                                        | Reconocimiento por grandes empresas y opciones personalizables.           | Personalización para el cliente.                                        | Precio accesible comparado a la competencia.                                    |
+|                         | Debilidades                              | Poca experiencia en el mercado.                                                               | Mala gestión de redes sociales.                                            | Diversidad de sectores sin especialización.                            | Interfaz difícil de entender.                                                   |
+|                         | Oportunidades                            | Alquiler flexible de dispositivos IoT según presupuesto.                                      | Alianzas con cadenas reconocidas para aumentar presencia.                 | Mercado gastronómico amplio para escalar.                              | Planes accesibles para pequeños negocios.                                       |
+|                         | Amenazas                                 | Competencia con más experiencia en el mercado.                                                | Problemas con plataformas externas que pueden afectar la experiencia del cliente. | Cambios en la demanda del mercado.                                 | Competidores con mayor experiencia y posicionamiento.                           |
 
-![logo.jpg](assets/logo.jpg) 
-</td>
-    <td>
-
-![restroworks.png](assets/restroworks.png)
-</td>
-    <td>
-
-![odoo.png](assets/odoo.png)
-</td>
-    <td>
-
-![solvermedia.jpg](assets/solvermedia.jpg)
-</td>
-</tr>
-  <tr>
-    <td rowspan="2">Perfil</td>
-    <td>Overview</td>
-</tr>
-  <tr>
-  <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-    <td>KeepItFresh ofrece un software inteligente para gestionar el inventario de tu negocio. Brinda un control completo del estado de los productos almacenados, recomienda las mejores condiciones de conservación para los alimentos y, además, incluye un botón para llamar a los mozos de forma rápida y eficiente.</td>
-    <td>Restroworks ofrece un software con información de inventario en tiempo real para tomar decisiones más inteligentes </td>
-    <td>Oddo ofrece un software para comercio e inventario personalizado a pedido de sus clientes</td>
-    <td>SolverMedia ofrece un software para control de stacks, puede generar horarios y también realizar pedidos al proveedor</td>
-    </tr>
-<tr>
-    <td rowspan="2">Perfil de Marketing</td>
-    <td>Mercado Objetivo</td>
-    <td>Enfocado en restaurantes criollos, cevicherías y pollerías.</td>
-    <td>Enfocado en negocios del sector gastronómico, especialmente cadenas de comida rápida y restaurantes.</td>
-    <td>Enfocado a negocios que buscan un software personalizado para sus restaurantes.</td>
-    <td>Enfocado en restaurantes, cafeterias y terminal punto de ventas en hotelería.</td>
-  </tr>
-  <tr>
-  <td>Estrategias de Marketing</td>
-    <td>Publicidad, posicionamiento de Landing page, redes sociales y entrevistas.</td>
-    <td>Posicionamiento de su Landing Page y colaboración con grandes empresas</td>
-    <td>Publicidad, posicionamiento de su Landing Page y entrevistas</td>
-    <td>Publicidad y posicionamiento de su Landing Page</td>
-    </tr>
-<tr>
-    <td rowspan="3">Perfil de Producto</td>
-    <td>Productos y Servicios</td>
-    <td>Software de manejo de inventario para restaurantes y análisis de datos de los productos alojados.</td>
-    <td>Ofrece una Plataforma de gestión de inventario y monitoreo en tiempo real.</td>
-    <td>Proporciona un software personalizado para el usuario.</td>
-    <td>Ofrece un software de control de stack, genera horarios para el equipo del restaurante y realiza pedidos al proveedor.</td>
-  </tr>
-  <tr>
-  <td>Precios y Costos</td>
-    <td>Suscripción de cada IOT para los restaurantes</td>
-    <td>El precio depende de la complejidad del software y hardware</td>
-    <td>El precio depende de la cotización del software</td>
-    <td>Suscripciones a partir de 5$ que ofrece una experiencia más extendida</td>
-    </tr>
-<td>Canales de distribución (Web y/o Móvil)</td>
-    <td>Web y móvil</td>
-    <td>Web y móvil</td>
-    <td>Web y móvil</td>
-    <td>Web</td>
-<tr>
-    <td rowspan="4">Análisis SWOT</td>
-    <td>Fortalezas</td>
-    <td>Ofrecer tecnología IOT de sensores y una interfaz intuitiva para todo público.</td>
-    <td>Reconocimiento por empresas grandes y ofrece varias opciones personalizables.</td>
-    <td>Ser personalizable para el negocio que solicita su servicio.</td>
-    <td>Barato comparado a su competencia.</td>
-  </tr>
-  <tr>
-  <td>Debilidades</td>
-    <td>Poca experiencia en el mercado.</td>
-    <td>Mala administración de redes sociales (no promociona su marca).</td>
-    <td>Cubrir muchos sectores sin especializarse en uno.</td>
-    <td>La interfaz del software es muy complicada de entender.</td>
-    </tr>
-  <tr>
-<td>Oportunidades</td>
-    <td>El cliente puede ajustar la cantidad de dispositivos IOT que desee alquilar de acuerdo a su presupuesto</td>
-    <td>Colaboraciones estratégicas con cadenas reconocidas pueden aumentar presencia y consolidar su reputación internacional.</td>
-    <td>El sector gastronómico es diverso y extenso, ideal para escalar y captar múltiples tipos de clientes.</td>
-    <td>Ofrecer planes accesibles permitiendo llegar a pequeños negocios que no pueden costear soluciones costosas.</td>
-</tr>
-  <tr>
-<td>Amenazas</td>
-    <td>Competencia de empresas con mayor manejo y tiempo en el mercado</td>
-    <td>Problemas con plataformas externas pueden afectar la experiencia del cliente y generar desconfianza en usuarios.</td>
-    <td>Cambios en la demanda del mercado.</td>
-    <td>Competidores con alta experiencia en el mercado.</td>
-</tr>
-</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
@@ -1136,27 +1061,27 @@ La navegación está pensada para adaptarse a distintos perfiles de usuario (des
 
 Esta es la vista en un navegador de escritorio de nuestra pagina, en donde podemos ver secciones como el menú, la pagina principal, el apartado de los miembros, la sección que contendrá la información general del equipo, la características que tendrá nuestra aplicación y por ultimo un formulario para que nos contacten los usuarios.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-1.png?raw=true" width="50%"/>
+![wf-1.png](assets/wf-1.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-2.png?raw=true" width="50%"/>
+![wf-2.png](assets/wf-2.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-3.png?raw=true" width="50%"/>
+![wf-3.png](assets/wf-3.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/wf-4.png?raw=true" width="50%"/>
+![wf-4.png](assets/wf-4.png)
 
 **Landing Page para Mobile Web Browser**
 
 Esta es la vista en un navegador móvil de nuestra página, que tiene el mismo contenido solo que esta adaptado a las características que tiene un movil, es decir, la pantalla más pequeña.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-1.png?raw=true" width="50%"/>
+![mwf-1.png](assets/mwf-1.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-2.png?raw=true" width="50%"/>
+![mwf-2.png](assets/mwf-2.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-3.png?raw=true" width="50%"/>
+![mwf-3.png](assets/mwf-3.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-4.png?raw=true" width="50%"/>
+![mwf-4.png](assets/mwf-4.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mwf-5.png?raw=true" width="50%"/>
+![mwf-5.png](assets/mwf-5.png)
 
 ### 4.3.2. Landing Page Mock-up
 
@@ -1164,27 +1089,27 @@ Esta es la vista en un navegador móvil de nuestra página, que tiene el mismo c
 
 Gracias a los wireframes de la versión desktop pudimos ver cómo organizar de la mejor manera nuestra landing page, en base a eso se creó la versión mock-up de la landing page, en el que se aplican la paleta de colores y la tipografia que ya se mencionaron antes. 
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-1.png?raw=true" width="50%"/>
+![mu-1.png](assets/mu-1.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-2.png?raw=true" width="50%"/>
+![mu-2.png](assets/mu-2.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-3.png?raw=true" width="50%"/>
+![mu-3.png](assets/mu-3.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mu-4.png?raw=true" width="50%"/>
+![mu-4.png](assets/mu-4.png)
 
 **Landing Page para Mobile Web Browser**
 
 Igualmente gracias a los wireframes pudimos ver como quedaría en un mobile web browser, aquí se mantiene la estructura del diseño, la paleta de colores y la tipografia. Se adapta a la pantalla de los dispositivos móviles.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-1.png?raw=true" width="50%"/>
+![mmu-1.png](assets/mmu-1.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-2.png?raw=true" width="50%"/>
+![mmu-2.png](assets/mmu-2.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-3.png?raw=true" width="50%"/>
+![mmu-3.png](assets/mmu-3.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-4.png?raw=true" width="50%"/>
+![mmu-4.png](assets/mmu-4.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/mmu-5.png?raw=true" width="50%"/>
+![mmu-5.png](assets/mmu-5.png)
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
@@ -1205,9 +1130,9 @@ Los wireframes de la plataforma web KeepItFresh muestran la estructura funcional
 Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la prevención de pérdidas y la toma de decisiones basada en datos.
 
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/pwf-1.png?raw=true" width="100%"/>
+![pwf-1.png](assets/pwf-1.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/pwf-2.png?raw=true" width="100%"/>
+![pwf-2.png](assets/pwf-2.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1217,7 +1142,7 @@ Estos wireframes sientan las bases para una plataforma intuitiva, enfocada en la
 
 Como dueño de restaurante, deseo crear una cuenta o iniciar sesión con mis credenciales, para acceder a las funcionalidades de la plataforma según mi rol.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/login.png?raw=true" width="100%"/>
+![login.png](assets/login.png)
 
 **User Goal:** Visualizar el estado de los sensores en tiempo real
 
@@ -1225,7 +1150,7 @@ Como dueño de restaurante, deseo crear una cuenta o iniciar sesión con mis cre
 
 Como dueño de restaurante, quiero ver los datos actualizados de temperatura y gas desde los sensores IoT, para monitorear las condiciones de mi inventario y asegurar su conservación.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/iot.png?raw=true" width="100%"/>
+![iot.png](assets/iot.png)
 
 **User Goal:** Registrar y consultar mi inventario
 
@@ -1233,7 +1158,7 @@ Como dueño de restaurante, quiero ver los datos actualizados de temperatura y g
 
 Como dueño de restaurante, deseo ingresar productos con su fecha de vencimiento y condiciones de almacenamiento, y consultar el inventario actualizado, para tomar mejores decisiones de compra y uso.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/gestion.png?raw=true" width="100%"/>
+![gestion.png](assets/gestion.png)
 
 **User Goal:** Ser notificado ante productos por vencer, bajo stock o condiciones no tan buenas
 
@@ -1241,7 +1166,7 @@ Como dueño de restaurante, deseo ingresar productos con su fecha de vencimiento
 
 Como dueño de restaurante, deseo recibir alertas cuando un producto esté por vencer, el stock esté bajo, o condiciones no tan buneas para evitar pérdidas económicas y reponer a tiempo con la distribuidora.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/alerta.png?raw=true" width="100%"/>
+![alerta.png](assets/alerta.png)
 
 **User Goal:** Generar y exportar reportes
 
@@ -1249,13 +1174,13 @@ Como dueño de restaurante, deseo recibir alertas cuando un producto esté por v
 
 Como dueño de restaurante, deseo generar reportes de ventas y exportarlos en formatos PDF o Excel, para tener acceso a estos datos en mi formato preferido y compartirlos fácilmente.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/exportar.png?raw=true" width="100%"/>
+![exportar.png](assets/exportar.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/pmu-1.png?raw=true" width="100%"/>
+![pmu-1.png](assets/pmu-1.png)
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/pmu-2.png?raw=true" width="100%"/>
+![pmu-2.png](assets/pmu-2.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
@@ -1303,18 +1228,18 @@ User Goal: Como propietario, deseo configurar alertas para el inventario.
 
 Descripción: El propietario puede configurar alertas automáticas sobre productos que necesiten reposición, productos con fechas de vencimiento cercanas o problemas en la cadena de suministro, para tomar acciones preventivas.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/usf.png?raw=true" width="100%"/>
+![usf.png](assets/usf.png)
 
 ## 4.5. Web Applications Prototyping
 Hemos hecho un bosquejo de nuestro prototipo de web en figma
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/proto.png?raw=true" width="100%"/>
+![proto.png](assets/proto.png)
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepItFresh.
 
-<img src="assets/ContextDiagram.png"/>
+![ContextDiagram.png](assets/ContextDiagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
@@ -1349,7 +1274,7 @@ Diagrama de componente de Inventario
 
 ### 4.7.1. Class Diagrams
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/diagrama%20de%20clases.jpg?raw=true" width="100%"/>
+![diagrama de clases.jpg](assets/diagrama%20de%20clases.jpg)
 
 El diagrama de clases del sistema KeepItFresh refleja una arquitectura orientada a objetos donde se modelan las entidades clave de un entorno de gestión inteligente de restaurantes mediante dispositivos IoT. La clase central Restaurant se relaciona con otras clases como Product, Waiter, Button_Notification e IoT Devices, lo que permite gestionar productos perecibles, recibir alertas de atención y controlar sensores ambientales. Los RestaurantOwner pueden tener múltiples restaurantes asociados, y estos se vinculan con un conjunto de productos y meseros, permitiendo una estructura escalable y reutilizable. Las clases User y Subscription definen las credenciales, roles y planes contratados por cada usuario, mientras que las interfaces Operaciones_Usuario y Autenticación_Usuario definen las operaciones abstractas que permiten gestionar cambios de datos, autenticación y control de sesión. Se destaca también el uso de clases como SensorNotification y Button_Notification, que encapsulan eventos críticos dentro del sistema, y su integración con la clase Inventario, que centraliza operaciones como generación de reportes, actualización de stock o auditorías de inventario. En conjunto, el diseño muestra una distribución lógica, coherente con los requerimientos de control en tiempo real, trazabilidad y eficiencia operativa del sistema.
 
@@ -1500,7 +1425,9 @@ El diagrama de clases del sistema KeepItFresh refleja una arquitectura orientada
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/database.png?raw=true" width="100%"/>
+
+![database.png](assets/database.png)
+
 El modela la estructura relacional del sistema KeepItFresh, orientado a la gestión operativa de restaurantes. La entidad central es restaurant, la cual se vincula a un propietario (owner) y un mesero (waiter), ambos derivados de la entidad general user, lo que refleja una implementación adecuada de herencia mediante claves foráneas. La entidad subscription define el tipo de plan asociado a cada usuario, lo cual puede relacionarse a funcionalidades o restricciones por rol. A nivel logístico, se destacan las entidades kitchen, product, inventory y supplier, que permiten gestionar el stock y su trazabilidad. La relación entre inventory y product permite identificar insumos almacenados por proveedor, cantidad y fecha de vencimiento. Por otro lado, el sistema de alertas se representa con la tabla notification, la cual está conectada a los restaurantes, permitiendo una retroalimentación directa del estado de productos, operaciones o servicio. En conjunto, el modelo presenta una base sólida y normalizada, adecuada para respaldar un sistema integral de control de inventario, operaciones y personal en el sector gastronómico.
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -1571,7 +1498,7 @@ Se refiere a textos escritos o ilustraciones que acompañan al software de compu
 
 El proyecto mantiene las convenciones de flujo establecido por el modelo GitFlow para el control de versiones usando Git para el control de versiones. Además, el código fuente del proyecto será publicado en la plataforma GitHub tanto para publicar nuestros avances de manera pública como para permitir la colaboración entre cada integrante del equipo en el desarrollo del mismo.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/gitflow.png?raw=true">
+![gitflow.png](assets/gitflow.png)
 
 * Enlace del repositorio del informe: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report
 * Repositorio Landing page: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/ClearView-landing-page
@@ -1979,7 +1906,9 @@ A continuación, se presentará el sprint planning 1 donde se mostrarán las evi
             <td>Sprint 1 Goal</td>
             <td style="text-align: justify">
                 <p>
-                Completar el desarrollo de la landing page y desplegada en GitHub Pages
+                Nuestro objetivo en este sprint es desarrollar la primera versión de la Landing Page de KeepItFresh, enfocándonos en una estructura que sea visualmente atractiva y fácil de navegar. Utilizando HTML, CSS y JavaScript, crearemos una interfaz responsive que se adapte de manera óptima a dispositivos móviles y de escritorio.
+
+Creemos que esta Landing Page ofrecerá una introducción profesional y accesible a AquaEngine, mejorando la experiencia de usuario y estableciendo una base sólida para la intecon el sistema. El éxito de este sprint se confirmará cuando los usuarios puedan explorar la Landing Page de manera fluida en distintos dispositivos, logrando una primera impresión positiva y una navegación sencilla que los motive a explorar más sobre el sistema.
                 </p>
             </td>
         </tr>
@@ -2236,22 +2165,27 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 
 *Seccion de navegacion* : Nos ayudara a redirigirnos a secciones especificas de la lading page.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/landing_page1.png?raw=true"/>
+![landing_page1.png](assets/landing_page1.png)
 
 *Perfiles de integrantes* : Conoce los participantes de este proyecto.
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/landing_page2.png?raw=true"/>
+
+![landing_page2.png](assets/landing_page2.png)
 
 *Esencia* : Descubre nuestra esencia que satisfacera la solucion del problema.
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/landing_page3.png?raw=true"/>
+
+![landing_page3.png](assets/landing_page3.png)
 
 *Hazañas* : Conce la mision, vison y valores de esta empresa.
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/landing_page4.png?raw=true"/>
+
+![landing_page4.png](assets/landing_page4.png)
 
 *Caracteristicas* : Descubre las interesantes caracterisitcas de esta empresa.
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/landing_page5.png?raw=true"/>
+
+![landing_page5.png](assets/landing_page5.png)
 
 *Consulta* : Si necesitas ayuda, no dudes en dejar un mensaje.
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/landing_page6.png?raw=true"/>
+
+![landing_page6.png](assets/landing_page6.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2267,19 +2201,19 @@ Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para ha
 
 **Link de la landing page desplegada:** https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/github_pages.png?raw=true"/>
+![github_pages.png](assets/github_pages.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo KeepItFresh.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/github_1.png?raw=true"/>
+![github_1.png](assets/github_1.png)
 La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/github_2.png?raw=true"/>
+![github_2.png](assets/github_2.png)
 En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en la Landing Page.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/github_3.png?raw=true"/>
+![github_3.png](assets/github_3.png)
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
 
 ### 5.2.2. Sprint 2
@@ -2287,7 +2221,8 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 En la etapa inicial de nuestro proyecto, decidimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como el entorno de desarrollo.
 
 Repositorio GitHub: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-landing-page
-#### 5.2.2.1. Sprint Planning 1
+
+#### 5.2.2.1. Sprint Planning 2
 Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
 
 <table>
@@ -2431,79 +2366,86 @@ Durante este segundo sprint, se ha trabajado activamente en la implementación d
 **Login y Autenticación**  
 Implementamos una pantalla de inicio de sesión funcional con opción de registro, recuperación de contraseña y gestión de sesión.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/vista2.png?raw=true" width="700"/>
+![vista2.png](assets/vista2.png)
 
 **Gestión de Perfil de Usuario**  
 La sección de perfil permite al usuario visualizar su información personal, plan de suscripción activo, y actualizar su correo o contraseña.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/vista1.png?raw=true" width="700"/>
+![vista1.png](assets/vista1.png)
 
 **Alertas del Inventario**  
 Se ha implementado la visualización de alertas según el estado del inventario (stock bajo y caducidad próxima), con filtros interactivos.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/vista4.jpeg?raw=true" width="700"/>
+![vista4.jpeg](assets/vista4.jpeg)
 
 **Monitoreo de Sensores**  
 Se ha desarrollado una sección para gestionar alertas de sensores clasificadas por tipo (error, advertencia, éxito e informativas).
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/vista3.jpeg?raw=true" width="700"/>
+![vista3.jpeg](assets/vista3.jpeg)
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review (Sprint 2)
 
-En el segundo sprint, hemos implementado y organizado los servicios correspondientes al Frontend de la aplicación web **KeepItFresh**, permitiendo así su visualización e interacción funcional.
+En el segundo sprint principalmente hemos desarrollado la primera versión de la aplicación web de "AquaEngine". Además se hemos utilizado servicios web para desplegar tanto el front-end de "KeepItFresh", como el api fake de donde obtenemos los datos para simular una integración con una base de datos. Por último se ha actualizado la Landing Page de "KeepItFresh" para que pueda redirigir a la aplicación a traves de un botón Call-To-Action.
 
-| End Point                                                                                                                             | Funciones                        |
-|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| [https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend](https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend) | Desplegar Frontend de KeepItFresh |
+| End Point                                                                                                                             | Funciones                             |
+|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+|  | Desplegar Landing Page de KeepItFresh |
+|  | Desplegar la Fake Api de KeepItFresh  |
+| [https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend](https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend) | Desplegar Frontend de KeepItFresh     |
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint 2 Review
 
 Para el despliegue de nuestro Frontend hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde dividimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra aplicación web.
 
-Link del frontend desplegado:
-https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint 2
 
 La meta principal de este Sprint fue la implementación del módulo de Inventario, que incluye la visualización, registro, edición y eliminación de productos. Para alcanzar este objetivo, el equipo utilizó herramientas como GitHub, Visual Studio Code y Vue.js. A continuación, se presentan evidencias del trabajo colaborativo mediante los registros de commits generados por cada integrante del equipo en el repositorio oficial del proyecto.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/commit1.jpeg?raw=true"/>
-Esta imagen refleja el número de commits realizados por cada integrante durante el Sprint 2 en el módulo correspondiente.
-
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/commit2.jpeg?raw=true"/>
-Aquí se observa la cantidad de líneas añadidas y eliminadas, como evidencia del esfuerzo realizado por cada colaborador durante el desarrollo del sistema de inventario.
-
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/commit3.jpeg?raw=true"/>
+![commit3.jpeg](assets/commit3.jpeg)
 En esta vista se muestra la evolución temporal de los commits, indicando cómo se distribuyó la carga de trabajo durante las semanas del Sprint 2.
 
-<img src="https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report/blob/main/assets/commit4.jpeg?raw=true"/>
+![commit4.jpeg](assets/commit4.jpeg)
 Finalmente, esta imagen muestra las ramas de desarrollo (feature branches) creadas por el equipo para implementar funcionalidades de forma distribuida, lo cual evidencia el trabajo colaborativo y organizado del equipo de desarrollo.
 
 ## Conclusiones y recomendaciones
-## Conclusiones
 
-El desarrollo del proyecto Keep It Fresh nos ha permitido validar gran parte de los supuestos planteados inicialmente respecto al comportamiento de nuestros segmentos objetivo: dueños de restaurantes y trabajadores operativos del rubro gastronómico. A partir de las entrevistas realizadas y el análisis de campo, confirmamos que existe una necesidad latente de optimizar el control de productos perecibles y los tiempos de preparación durante los picos de alta demanda. Este hallazgo respalda directamente los Problem Statements formulados sobre la pérdida de insumos por falta de monitoreo, y los retrasos operativos por ausencia de información anticipada.
+El desarrollo del proyecto Keep It Fresh nos ha permitido validar gran parte de los supuestos planteados inicialmente 
+respecto al comportamiento de nuestros segmentos objetivo: dueños de restaurantes y trabajadores operativos del
+rubro gastronómico. A partir de las entrevistas realizadas y el análisis de campo, confirmamos que existe una 
+necesidad latente de optimizar el control de productos perecibles y los tiempos de preparación durante los picos de 
+alta demanda. Este hallazgo respalda directamente los Problem Statements formulados 
+sobre la pérdida de insumos por falta de monitoreo y los retrasos operativos por ausencia de información anticipada.
 
-Los Assumptions relacionados con la disposición del personal a utilizar soluciones digitales de fácil acceso fueron en su mayoría validados, especialmente por parte del personal operativo, quienes demostraron apertura hacia herramientas que no interrumpan su flujo de trabajo. En cuanto a los Hypotheses Statements, se comprobó que una plataforma complementada con sensores IoT puede generar alertas eficientes que optimicen decisiones diarias, tanto en cocina como en gestión administrativa. Asimismo, se identificó que la visualización anticipada de vencimientos y horarios de mayor afluencia influye positivamente en la reducción del desperdicio y en la mejora del servicio al cliente.
+Los Assumptions relacionados con la disposición del personal a utilizar soluciones digitales de fácil acceso fueron en su 
+mayoría validados, especialmente por parte del personal operativo, quienes demostraron apertura hacia herramientas que no 
+interrumpan su flujo de trabajo. En cuanto a los Hypotheses Statements, se comprobó que una plataforma complementada con s
+ensores IoT puede generar alertas eficientes que optimicen decisiones diarias, tanto en cocina como en gestión administrativa. 
+Asimismo, se identificó que la visualización anticipada de vencimientos y horarios de mayor afluencia influye positivamente en la reducción del desperdicio y en la mejora del servicio al cliente.
 
-En relación a los criterios de éxito, se logró validar el valor percibido por los usuarios potenciales, la relevancia de las funcionalidades propuestas y la viabilidad técnica inicial del producto.
+En relación a los criterios de éxito, se logró validar el valor percibido por los usuarios potenciales, 
+la relevancia de las funcionalidades propuestas y la viabilidad técnica inicial del producto.
 
-## Recomendaciones
+A partir de estos hallazgos, se proponen las siguientes recomendaciones para continuar con el desarrollo y evolución del proyecto:
 
-Iteración de funcionalidades clave:
-Priorizar la validación de componentes como el dashboard de alertas, el calendario de vencimientos y los reportes automáticos para toma de decisiones rápidas, aplicando ciclos cortos de testeo con usuarios reales.
+- **Iteración de funcionalidades clave**: Priorizar la validación de componentes como el dashboard de alertas, el calendario de vencimientos y los reportes automáticos para toma de decisiones rápidas, aplicando ciclos cortos de testeo con usuarios reales.
 
-Alianzas estratégicas para pruebas piloto:
-Establecer acuerdos con restaurantes independientes o pequeñas cadenas gastronómicas dispuestas a participar en pilotos controlados, lo que permitirá obtener retroalimentación directa en contextos reales de uso.
+- **Alianzas estratégicas para pruebas piloto**: Establecer acuerdos con restaurantes independientes o pequeñas cadenas gastronómicas dispuestas a participar en pilotos controlados, lo que permitirá obtener retroalimentación directa en contextos reales de uso.
 
-Ampliación del roadmap:
-Incorporar progresivamente otras funcionalidades en el producto digital, como la predicción de demanda basada en históricos y la gestión inteligente de inventario, para evolucionar hacia un modelo más robusto e integral.
+- **Ampliación del roadmap**: Incorporar progresivamente otras funcionalidades en el producto digital, como la predicción de demanda basada en históricos y la gestión inteligente de inventario, para evolucionar hacia un modelo más robusto e integral.
 
-Enfoque en escalabilidad y UX:
-A medida que se avance en la implementación técnica, mantener como prioridad el diseño centrado en el usuario, garantizando que la solución sea accesible, intuitiva y adaptable a distintos tamaños de operación.
+- **Enfoque en escalabilidad y UX**: A medida que se avance en la implementación técnica, mantener como prioridad el diseño centrado en el usuario, garantizando que la solución sea accesible, intuitiva y adaptable a distintos tamaños de operación.
 
-- El trabajo en equipo ha sido fundamental para avanzar en este proyecto. A lo largo de la primera entrega, hemos logrado establecer un entorno de colaboración inclusivo, donde todos los miembros pudieron aportar sus ideas y enfoques. La planificación de tareas y la asignación de responsabilidades han permitido un avance organizado, manteniendo el enfoque en los objetivos comunes. A través de la comunicación constante y la resolución conjunta de problemas, hemos alcanzado importantes avances que nos permiten estar alineados hacia el cumplimiento de nuestras metas. Este enfoque colaborativo ha sido clave para el desarrollo del proyecto y continuará siendo esencial en las próximas etapas.
+Finalmente, es importante destacar que el trabajo en equipo ha sido fundamental para avanzar en este proyecto. 
+A lo largo de la primera entrega, se logró establecer un entorno de colaboración inclusivo, donde todos los miembros 
+pudieron aportar sus ideas y enfoques. La planificación de tareas y la asignación de responsabilidades permitieron un 
+avance organizado, manteniendo el enfoque en los objetivos comunes. Gracias a la comunicación constante y a la 
+resolución conjunta de problemas, se alcanzaron avances importantes que nos mantienen alineados hacia el cumplimiento 
+de nuestras metas. Este enfoque colaborativo continuará siendo esencial en las próximas etapas del proyecto.
+
+
 
 ## Video About-the-Team
 
@@ -2526,3 +2468,43 @@ Proud, N. (2024). Minimal APIs in ASP.NET 9 (2nd ed.). Packt Publishing.
 Verdouw, C. N., Wolfert, J., Beulens, A. J. M., & Rialland, A. (2016). Virtualization of food supply chains with the Internet of Things. Journal of Food Engineering, 176, 128–136. https://doi.org/10.1016/j.jfoodeng.2015.11.009
 
 ## Anexos
+
+### Anexo A. Products Deployed
+
+Landing Page Desplegada: 
+
+Frontend Desplagado:
+
+Backend Desplegado:
+
+### Anexo B. Web Tools
+
+Figma Landing Page:
+
+Web Applications User Flow Diagrams:
+
+Web Applications Mock-ups:
+
+Web Application Prototyting: 
+
+### Anexo C. GitHub Repositories
+
+Link de la Organización ClearView:
+
+| Repositorios                 | Enlace al Respositorio                                  |
+|------------------------------|---------------------------------------------------------|
+| KeepItFresh Project Report   |  |
+| KeepItFresh Landing Page     |   |
+| KeepItFresh FrontEnd         |      |
+| KeepItFresh BackEnd          |       |
+| KeepItFresh Acceptance Tests |    |
+
+### Anexo D. Videos
+
+| Sección                 | Enlace al video                            |
+|-------------------------|--------------------------------------------|
+| Vídeo Sprint 1          |                   |
+| Vídeo Sprint 2          |                   |
+| Vídeo Sprint 3          |                   |
+| Vídeo About the Product |  |
+| Vídeo About the Team    |                 |
