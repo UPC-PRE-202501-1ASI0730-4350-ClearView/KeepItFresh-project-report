@@ -1881,81 +1881,21 @@ Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Webstor
 
 #### 5.2.1.1. Sprint Planning 1
 A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación del landing page.
-<table>
-    <thead>
-        <tr>
-            <th>Sprint #</th>
-            <th>Sprint 1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td colspan="2"><b>Sprint  Background</b></td>
-        </tr>
-        <tr>
-            <td>Date</td>
-            <td>2025/04/07</td>
-        </tr>
-        <tr>
-            <td>Time</td>
-            <td>5:40 PM</td>
-        </tr>
-        <tr>
-            <td>Location</td>
-            <td>Google meet</td>
-        </tr>
-        <tr>
-            <td>Prepared by</td>
-            <td>Ayrton Omar Briceño Llanos</td>
-        </tr>
-        <tr>
-            <td>Atendees (to  meeting)</td>
-            <td>
-                <li>Pedro Andre Guia Carrasco/li>
-                <li>Werner Khalil Lang Nassi</li>
-                <li>Marco Antonio Nakasone Gomes</li>
-                <li>Ernesto Rodas Sotomayor</li>
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Review Summary</td>
-            <td>
-                Este es el primer sprint a realizar por el equipo
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Retrospective Summary</td>
-            <td>
-                Acuerdo de la implementación de una primera versión del Landing Page  
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Goal</td>
-            <td style="text-align: justify">
-                <p>
-                Nuestro objetivo en este sprint es desarrollar la primera versión de la Landing Page de KeepItFresh, enfocándonos en una estructura que sea visualmente atractiva y fácil de navegar. Utilizando HTML, CSS y JavaScript, crearemos una interfaz responsive que se adapte de manera óptima a dispositivos móviles y de escritorio.
 
-Creemos que esta Landing Page ofrecerá una introducción profesional y accesible a AquaEngine, mejorando la experiencia de usuario y estableciendo una base sólida para la intecon el sistema. El éxito de este sprint se confirmará cuando los usuarios puedan explorar la Landing Page de manera fluida en distintos dispositivos, logrando una primera impresión positiva y una navegación sencilla que los motive a explorar más sobre el sistema.
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Velocity</td>
-            <td>
-                8
-            </td>
-        </tr>
-        <tr>
-            <td>Sum of story points</td>
-            <td>
-                8
-            </td>
-        </tr>
-    </tbody>
-</table>
+| **Campo**                          | **Sprint 1**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                      | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Date**                          | 2025/04/07                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Time**                          | 5:40 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Location**                      | Google Meet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Prepared by**                   | Ayrton Omar Briceño Llanos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Attendees (to meeting)**        | - Pedro Andre Guia Carrasco<br>- Werner Khalil Lang Nassi<br>- Marco Antonio Nakasone Gomes<br>- Ernesto Rodas Sotomayor                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Sprint 1 Review Summary**       | Este fue el primer sprint realizado por el equipo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sprint 1 Retrospective Summary**| Se acordó implementar una primera versión funcional de la Landing Page del sistema **Keep It Fresh**.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Sprint 1 Goal**                 | Desarrollar la primera versión funcional de la **Landing Page de Keep It Fresh**, enfocándose en una estructura visualmente atractiva y navegable. Se utilizarán tecnologías como HTML, CSS y JavaScript para crear una interfaz adaptable que funcione de forma óptima tanto en dispositivos móviles como en escritorio. El objetivo es ofrecer una introducción profesional al sistema AquaEngine, estableciendo una base sólida para su exploración futura y garantizando una experiencia fluida que motive al usuario a conocer más. |
+| **Sprint 1 Velocity**             | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Sum of Story Points**           | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -2255,79 +2195,20 @@ Repositorio GitHub: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/Ke
 #### 5.2.2.1. Sprint Planning 2
 Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
 
-<table>
-    <thead>
-        <tr>
-            <th>Sprint #</th>
-            <th>Sprint 2</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td colspan="2"><b>Sprint  Background</b></td>
-        </tr>
-        <tr>
-            <td>Date</td>
-            <td>2025/05/09</td>
-        </tr>
-        <tr>
-            <td>Time</td>
-            <td>6:50 PM</td>
-        </tr>
-        <tr>
-            <td>Location</td>
-            <td>Google meet</td>
-        </tr>
-        <tr>
-            <td>Prepared by</td>
-            <td>Ayrton Omar Briceño Llanos</td>
-        </tr>
-        <tr>
-            <td>Atendees (to  meeting)</td>
-            <td>
-                <li>Pedro Andre Guia Carrasco/li>
-                <li>Werner Khalil Lang Nassi</li>
-                <li>Marco Antonio Nakasone Gomes</li>
-                <li>Ernesto Rodas Sotomayor</li>
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Review Summary</td>
-            <td>
-                Este es el segundo sprint a realizar por el equipo
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Retrospective Summary</td>
-            <td>
-                Acuerdo de la implementación de una primera versión del front-end
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Goal</td>
-            <td style="text-align: justify">
-                <p>
-                Desplegar la primera version del Front-end
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Velocity</td>
-            <td>
-                8
-            </td>
-        </tr>
-        <tr>
-            <td>Sum of story points</td>
-            <td>
-                8
-            </td>
-        </tr>
-    </tbody>
-</table>
+| **Campo**                          | **Sprint 2**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                      | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Date**                          | 2025/05/09                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Time**                          | 6:50 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Location**                      | Google Meet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Prepared by**                   | Ayrton Omar Briceño Llanos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Attendees (to meeting)**        | - Pedro Andre Guia Carrasco<br>- Werner Khalil Lang Nassi<br>- Marco Antonio Nakasone Gomes<br>- Ernesto Rodas Sotomayor                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Sprint 2 Review Summary**       | Este fue el segundo sprint realizado por el equipo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Sprint 2 Retrospective Summary**| Se acordó implementar la primera versión funcional del front-end del sistema Keep It Fresh, asegurando integración básica con módulos clave y diseño modular inicial.                                                                                                                                                                                                                                                                                                                                                      |
+| **Sprint 2 Goal**                 | Desplegar la primera versión del front-end funcional para Keep It Fresh. Este sprint se enfocó en construir las primeras vistas de usuario del sistema (como Notificaciones, Inventario, Perfil), respetando la arquitectura establecida y asegurando responsividad. El éxito se confirmará cuando se tenga una navegación fluida entre vistas clave, estructura de componentes reutilizables, y diseño consistente con el prototipo.                                                                                                       |
+| **Sprint 2 Velocity**             | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Sum of Story Points**           | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
