@@ -2538,3 +2538,10 @@ Link de la Organización ClearView:
 | Vídeo Sprint 3          |                   |
 | Vídeo About the Product |  |
 | Vídeo About the Team    |                 |
+
+### Anexo E. Entrevistas
+
+| Sección                       | Enlace                            |
+|-------------------------------|-------------------------------------------|
+| Formulario de entrevistas     | https://docs.google.com/forms/d/e/1FAIpQLSeB3U08c3PWee7htqJOBD5dV1GQHwSULb6f2R-ug4sjBcIRSQ/viewform?usp=sharing&ouid=104117435534873394348                 |
+| Vídeo Completo de entrevistas | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=imrUxO                  |
