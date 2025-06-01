@@ -2318,7 +2318,7 @@ En el segundo sprint principalmente hemos desarrollado la primera versión de la
 | End Point                                                                                                                             | Funciones                             |
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
 |  | Desplegar Landing Page de KeepItFresh |
-|  | Desplegar la Fake Api de KeepItFresh  |
+| https://app.beeceptor.com/console/keepitfreshweb | Desplegar la Fake Api de KeepItFresh  |
 | [https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend](https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend) | Desplegar Frontend de KeepItFresh     |
 
 
