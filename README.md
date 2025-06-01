@@ -2407,13 +2407,13 @@ Backend Desplegado:
 
 ### Anexo B. Web Tools
 
-Figma Landing Page:
+Figma Landing Page: 
 
-Web Applications User Flow Diagrams:
+Web Applications User Flow Diagrams: https://www.figma.com/design/AUdWLgERY7JEVQU8QZSg4P/KeepItFresh?node-id=0-1&t=ZZz0P5iJwk9Eb8xN-1
 
-Web Applications Mock-ups:
+Web Applications Mock-ups: https://www.figma.com/design/AUdWLgERY7JEVQU8QZSg4P/KeepItFresh?node-id=0-1&t=ZZz0P5iJwk9Eb8xN-1
 
-Web Application Prototyting: 
+Web Application Prototyting: https://www.figma.com/design/AUdWLgERY7JEVQU8QZSg4P/KeepItFresh?node-id=0-1&t=ZZz0P5iJwk9Eb8xN-1
 
 ### Anexo C. GitHub Repositories
 
