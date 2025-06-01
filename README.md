@@ -2421,9 +2421,9 @@ Link de la Organización ClearView:
 
 | Repositorios                 | Enlace al Respositorio                                  |
 |------------------------------|---------------------------------------------------------|
-| KeepItFresh Project Report   |  |
-| KeepItFresh Landing Page     |   |
-| KeepItFresh FrontEnd         |      |
+| KeepItFresh Project Report   | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report |
+| KeepItFresh Landing Page     | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-landing-page  |
+| KeepItFresh FrontEnd         | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend     |
 | KeepItFresh BackEnd          |       |
 | KeepItFresh Acceptance Tests |    |
 
