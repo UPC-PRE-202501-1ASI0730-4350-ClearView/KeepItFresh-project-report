@@ -810,16 +810,16 @@ A continuación, estableceremos las épicas, para luego detallarlas en historias
 | E04                 | Gestión de Notificaciones de Estado             | Recibir notificaciones en tiempo real sobre sensores y alimentos, clasificadas por nivel de criticidad, para garantizar una operación eficiente.                                                                                                                                |
 | E05                 | Gestión de Inventario                           | Implementación de un sistema eficiente de gestión que permita registrar, consultar, actualizar y eliminar productos de manera centralizada, con el fin de optimizar el control de insumos, reducir pérdidas por caducidad y garantizar la disponibilidad de productos críticos. |
 | E06                 | Gestión de Perfil de Usuario                     | Permitir a los usuarios visualizar, editar y mantener actualizada su información personal dentro del sistema, asegurando una experiencia personalizada, segura y coherente con sus necesidades operativas.                                                                      |
-| US1                 | Menu de navegacion               | Como nuevo usuario a la landing de Keep It Fresh Quiero usar un menu de navegacion Para moverme facilmente entre las diferentes secciones.                                                                                                                                      | "Escenario 1: <br>Dado que soy un nuevo usuario visitando la landing page de Keep It Fresh<br>Cuando veo la pagina<br>Entonces deberia ver un menu de navegacion<br>Y el menu deberia incluir enlaces a: Quienes Somos, Features y Contacto.<br>Y al hacer clic en cualquier enlace debería ser llevado a la sección correspondiente<br>Y el menú debería ser funcional en diferentes dispositivos"                                                                                                                                                                                  | 1                         |
-| US2                 | Seccion quienes somos            | Como nuevo usuario quiero ver una seccion sobre el equipo Para aprender sobre la escencia, mision, vision y valores del equipo.                                                                                                                                                 | "Escenario 1: <br>Debería ver información sobre los miembros del equipo ClearView<br>Y cada miembro con nombre, foto, rol y descripción<br>Escenario 2: <br>Debería ver información sobre esencia, misión, visión y valores del equipo"                                                                                                                                                                                                                                                                                                                                              | 1                         |
-| US3                 | Seccion Features                 | Como nuevo usuario quiero ver una seccion de features del producto Para comprender las funcionalidades del producto.                                                                                                                                                            | "Escenario 1:<br>Debería ver funcionalidades principales como:<br>- Seguimiento en tiempo real<br>- Manejo de temperatura<br>- Alertas y notificaciones<br>- Gestión de inventario<br>- Llamado al mozo<br>Cada una con su descripción"                                                                                                                                                                                                                                                                                                                                              | 1                         |
-| US4                 | Seccion contacto                 | Como nuevo usuario quiero ver una seccion de contacto Para encontrar metodos de contacto al soporte.                                                                                                                                                                            | "Dado que navego a la sección de contacto<br>Entonces debería visualizar:<br>- Formulario con campos para Nombre, Email y Consulta<br>- Botón para ""Enviar"" el mensaje"                                                                                                                                                                                                                                                                                                                                                                                                            | 1                         |
-| US5                 | Diseño responsive                | Quiero que la landing page se adapte correctamente a distintos dispositivos Para poder acceder a la información sin errores de visualización.                                                                                                                                   | "Escenario 1: Correcta visualización en smartphone<br>Escenario 2: Ajuste proporcional en tablet<br>Escenario 3: Reorganización de elementos al redimensionar ventana<br>Menú convertido en hamburguesa"                                                                                                                                                                                                                                                                                                                                                                             | 2                         |
-| US6                 | Diseño visual coherente          | Quiero que la landing page tenga un diseño visual coherente con la identidad de marca, Para confiar en la profesionalidad del producto.                                                                                                                                         | "Escenario 1: Colores según guía de estilo<br>Escenario 2: Logotipo visible en sección hero"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2                         |
-| US7                 | Organización de secciones claras | Quiero que el contenido esté organizado en secciones claras, Para entender mejor la propuesta del producto.                                                                                                                                                                     | "Escenario 1: Secciones diferenciadas (encabezado, beneficios, testimonios, CTA)<br>Escenario 2: Navegación fluida entre secciones"                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2                         |
-| US8                 | Tipografía legible y accesible   | Quiero que las tipografías estén bien seleccionadas Para que la lectura sea cómoda y accesible.                                                                                                                                                                                 | "Escenario 1: Legibilidad en todos los dispositivos<br>Escenario 2: Consistencia en jerarquía tipográfica"                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2                         |
-| US9                 | Registro instantaneo             | Como nuevo usuario, quiero encontrar el botón "Register Now" de forma clara y rápida, para completar mi registro sin complicaciones.                                                                                                                                            | "Given que accedo a la página<br>When busco el botón de registro<br>Then el botón ""Register Now"" debe ser visible<br>And al hacer clic, me lleva a formulario con campos esenciales"                                                                                                                                                                                                                                                                                                                                                                                               | 3                         |
-| US10                | Envio de consultas               | Como usuario, quiero recibir informacion inmediata al presionar "Send", para asegurarme de que mi consulta fue enviada correctamente.                                                                                                                                           | "Given que completo el formulario<br>When hago clic en ""Send""<br>Then aparece mensaje: ""Tu mensaje ha sido enviado""<br>And recibo correo de confirmación"                                                                                                                                                                                                                                                                                                                                                                                                                        | 3                         |
+| US1                 | Menu de navegacion               | Como nuevo usuario a la landing de Keep It Fresh Quiero usar un menu de navegacion Para moverme facilmente entre las diferentes secciones.                                                                                                                                      | "Escenario 1: <br>Redirección automática a secciones informativas <br>Dado que una persona accede por primera vez al sitio  <br>Cuando se activa un mecanismo de navegación interno <br>Entonces el sistema debe dirigir a las secciones de información general, funcionalidades del producto y medios de contacto" <br> "Escenario 2: <br>Adaptabilidad del mecanismo de navegación <br> Dado que se accede al sistema desde diferentes tipos de dispositivos<br> Cuando se activa el mecanismo de navegación <br> Entonces el comportamiento de redirección debe ejecutarde correctamente sin importar el tipo de dispositivo                                                                                                                                                                                 | 1                         |
+| US2                 | Seccion quienes somos            | Como nuevo usuario quiero ver una seccion sobre el equipo Para aprender sobre la escencia, mision, vision y valores del equipo.                                                                                                                                                 | "Escenario 1: <br> Presentación estructura de información organizacional <br>Dado que una persona accede a la sección de información institucional<br>Cuando el sistema entrega el contenido correspondiente<br>Entonces debe incluir los valores fundamentales, misión, visión y esencia del equipo <br> Escenario 2: <br>Inclusión de datos del equipo de trabajo<br>Dado que se consulta la información sobre los integrantes del equipo<br>Cuando el sistema procesa la solicitud<br>Entonces debe presentar los nombres, roles, imágenes y descripciones asociadas a cada miembro"                                                                                                                                                                                                                                                                                                                                              | 1                         |
+| US3                 | Seccion Features                 | Como nuevo usuario quiero ver una seccion de features del producto Para comprender las funcionalidades del producto.                                                                                                                                                            | "Escenario 1:<br>Entrega de contenido funcional del producto <br>Dado que se accede a la sección de funcionalidades<br>Cuando el sistema entrega el contenido<br>Entonces debe incluir descripciones de al menos las siguientes funciones: seguimiento en tiempo real, control de temperatura, alertas automáticas gestión de inventario y llamado al mozo"                                                                                                                                                                                                                                                                                                                                              | 1                         |
+| US4                 | Seccion contacto                 | Como nuevo usuario quiero ver una seccion de contacto Para encontrar metodos de contacto al soporte.                                                                                                                                                                            | "Escenario 1: <br>Recepción de solicitudes de contacto<br>Dado que se completa el proceso de envío de una consulta<br>Cuando el sistema recibe los datos<br>Entonces debe procesarlos y almecenar la solicitud de contacto<br> Escenario 2: <br>Confirmación de recepción de consulta<br>Dado que se ha enviado una consulta correctamente<br>Cuando el sistema finaliza el registro<br> Entonces debe generar una confirmación del envío "                                                                                                                                                                                                                                                                                                                                                                                                            | 1                         |
+| US5                 | Diseño responsive                | Quiero que la landing page se adapte correctamente a distintos dispositivos Para poder acceder a la información sin errores de visualización.                                                                                                                                   | "Escenario 1: <br> Funcionamiento del sistema en dispositivos móviles<br> Dado que una persona accede al sistema desde un dispositivo móvil<br>Cuando se ejecutan los procesos de carga y navegación<br>Entonces el contenido debe estar correctamente estruturado y disponible<br>Escenario 2: <br>Funcionamiento en tablets y dispositivos medianos<br>Dado que se accede al sistema desde una tablet<br>Cuando se ejecutan los procesos internos<br>Entonces la información debe mantenerse disponible y sin distorsiones<br>Escenario 3:<br> Comportamiento ante cambios de tamaño de pantalla<br>Dado que se redimensiona la ventana del navegador<br>Cuando se ajusta el entorno de ejecución<br>Entonces el sistema debe mantener la lógica de presentación y organización del contenido sin errores"                                                                                                                                                                                                                                                                                                                                                                             | 2                         |
+| US6                 | Diseño visual coherente          | Quiero que la landing page tenga un diseño visual coherente con la identidad de marca, Para confiar en la profesionalidad del producto.                                                                                                                                         | "Escenario 1: <br> Dado que el sistema se inicia correctamente <br>Cuando se carga la configuración visual <br> Entonces los parámetros deben respetar la identidad gráfica establecida en la guía de estilo <br> Escenario 2: Dado que se presenta la identidad institucional <br> Cuando se accede al contenido principal<br>Entonces debe confirmarse que el logotipo institucional esté presente como parte de la identidad del sistema"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2                         |
+| US7                 | Organización de secciones claras | Quiero que el contenido esté organizado en secciones claras, Para entender mejor la propuesta del producto.                                                                                                                                                                     | "Escenario 1: <br> Dado que una persona accede al contenido del sistema<br>Cuando se distribuye la información<br>Entonces debe estar organizada en secciones diferenciadas según su propósito<br>Escenario 2:<br>Dado que se transita entre distintas secciones del contenido<br>Cuando se solicita nueva información<br>Entonces el sistema debe permitir un acceso fluido a cada bloque temático"                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2                         |
+| US8                 | Tipografía legible y accesible   | Quiero que las tipografías estén bien seleccionadas Para que la lectura sea cómoda y accesible.                                                                                                                                                                                 | "Escenario 1: Dado que se despliega contenido textual<br>Cuando se presenta en diferentes dispositivos<br>Entonces el texto debe ser legible sin distorsión<br>Escenario 2:<br>Dado que se estructuran los niveles de información<br>Cuando se define jerarquía de texto<br>Entonces debe mantenerse la consistencia en los estilos tipográficos"                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2                         |
+| US9                 | Registro instantaneo             | Como nuevo usuario, quiero encontrar el botón "Register Now" de forma clara y rápida, para completar mi registro sin complicaciones.                                                                                                                                            | "Escenario 1:<br>Dado que una persona busca iniciar su registro<br>Cuando se activa la opción correspondiente<br>Entonces el sistema debe permitir el acceso a un formulario con los campos esenciales"                                                                                                                                                                                                                                                                                                                                                                                               | 3                         |
+| US10                | Envio de consultas               | Como usuario, quiero recibir informacion inmediata al presionar "Send", para asegurarme de que mi consulta fue enviada correctamente.                                                                                                                                           | "Escenario 1:<br>Dado que una persona completa el registro de una consulta<br>Cuando se envía la información al sistema<br>Entonces debe generarse una confirmación de recepción del mensaje<br>Escenario 2: <br>Dado que la consulta ha sido enviada exitosamente<br>Cuando el proceso concluye<br>Entonces debe enviarse un comprobante de confirmación por correo"                                                                                                                                                                                                                                                                                                                                                                                                                        | 3                         |
 | US11                | Notificaciones de conexión/desconexión de sensores       | Como gerente, quiero recibir notificaciones cuando un sensor se conecte o desconecte, para monitorear la integridad del sistema IoT.                                                                                                                                            | **Sensor desconectado:**<br>Dado que un sensor IoT pierde conexión,<br>Cuando el sistema detecta la desconexión,<br>Entonces se envía una notificación roja al gerente con el mensaje: "Sensor X desconectado".<br><br>**Sensor reconectado:**<br>Dado que un sensor IoT recupera la conexión,<br>Cuando el sistema confirma la reconexión,<br>Entonces se envía una notificación verde al gerente con el mensaje: "Sensor X reconectado".                                                                                                                                           | 4                         |
 | US12                | Estado actual de los sensores                            | Como gerente, quiero visualizar el estado operativo de todos los sensores (activos/inactivos) en un panel central, para identificar fallos rápidamente.                                                                                                                         | **Sensor inactivo:**<br>Dado que un sensor no envía datos por más de 10 minutos,<br>Cuando el sistema verifica su inactividad,<br>Entonces se muestra una notificación amarilla: "Sensor X inactivo - Verificar conexión".<br><br>**Sensor activo:**<br>Dado que todos los sensores están operativos,<br>Cuando el sistema revisa su estado,<br>Entonces se muestra una notificación azul: "Todos los sensores activos".                                                                                                                                                             | 4                         |
 | US13                | Alertas de alimentos próximos a vencer                   | Como gerente, quiero recibir alertas cuando un alimento esté próximo a vencer (≤3 días), para evitar pérdidas.                                                                                                                                                                  | **Alimento próximo a vencer:**<br>Dado que un alimento tiene 2 días restantes para vencer,<br>Cuando el sistema detecta la fecha límite,<br>Entonces se envía una notificación amarilla: "Alimento Y vence en 2 días".<br><br>**Alimento vencido:**<br>Dado que un alimento supera su fecha de vencimiento,<br>Cuando el sistema lo identifica,<br>Entonces se envía una notificación roja: "Alimento Y vencido - Retirar inmediatamente".                                                                                                                                           | 4                         |
@@ -1267,26 +1267,22 @@ Hemos hecho un bosquejo de nuestro prototipo de web en figma
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
-
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepItFresh.
 
-
+![structurizr-102786-SystemContext-001.png](assets/structurizr-102786-SystemContext-001.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
 
-
+![structurizr-102786-Container-001.png](assets/structurizr-102786-Container-001.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica.
 
 
-
 ## 4.7. Software Object-Oriented Design
-
-
 
 ### 4.7.1. Class Diagrams
 
@@ -1867,81 +1863,21 @@ Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Webstor
 
 #### 5.2.1.1. Sprint Planning 1
 A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación del landing page.
-<table>
-    <thead>
-        <tr>
-            <th>Sprint #</th>
-            <th>Sprint 1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td colspan="2"><b>Sprint  Background</b></td>
-        </tr>
-        <tr>
-            <td>Date</td>
-            <td>2025/04/07</td>
-        </tr>
-        <tr>
-            <td>Time</td>
-            <td>5:40 PM</td>
-        </tr>
-        <tr>
-            <td>Location</td>
-            <td>Google meet</td>
-        </tr>
-        <tr>
-            <td>Prepared by</td>
-            <td>Ayrton Omar Briceño Llanos</td>
-        </tr>
-        <tr>
-            <td>Atendees (to  meeting)</td>
-            <td>
-                <li>Pedro Andre Guia Carrasco/li>
-                <li>Werner Khalil Lang Nassi</li>
-                <li>Marco Antonio Nakasone Gomes</li>
-                <li>Ernesto Rodas Sotomayor</li>
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Review Summary</td>
-            <td>
-                Este es el primer sprint a realizar por el equipo
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Retrospective Summary</td>
-            <td>
-                Acuerdo de la implementación de una primera versión del Landing Page  
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Goal</td>
-            <td style="text-align: justify">
-                <p>
-                Nuestro objetivo en este sprint es desarrollar la primera versión de la Landing Page de KeepItFresh, enfocándonos en una estructura que sea visualmente atractiva y fácil de navegar. Utilizando HTML, CSS y JavaScript, crearemos una interfaz responsive que se adapte de manera óptima a dispositivos móviles y de escritorio.
 
-Creemos que esta Landing Page ofrecerá una introducción profesional y accesible a AquaEngine, mejorando la experiencia de usuario y estableciendo una base sólida para la intecon el sistema. El éxito de este sprint se confirmará cuando los usuarios puedan explorar la Landing Page de manera fluida en distintos dispositivos, logrando una primera impresión positiva y una navegación sencilla que los motive a explorar más sobre el sistema.
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Velocity</td>
-            <td>
-                8
-            </td>
-        </tr>
-        <tr>
-            <td>Sum of story points</td>
-            <td>
-                8
-            </td>
-        </tr>
-    </tbody>
-</table>
+| **Campo**                          | **Sprint 1**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                      | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Date**                          | 2025/04/07                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Time**                          | 5:40 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Location**                      | Google Meet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Prepared by**                   | Ayrton Omar Briceño Llanos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Attendees (to meeting)**        | - Pedro Andre Guia Carrasco<br>- Werner Khalil Lang Nassi<br>- Marco Antonio Nakasone Gomes<br>- Ernesto Rodas Sotomayor                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Sprint 1 Review Summary**       | Este fue el primer sprint realizado por el equipo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sprint 1 Retrospective Summary**| Se acordó implementar una primera versión funcional de la Landing Page del sistema **Keep It Fresh**.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Sprint 1 Goal**                 | Desarrollar la primera versión funcional de la **Landing Page de Keep It Fresh**, enfocándose en una estructura visualmente atractiva y navegable. Se utilizarán tecnologías como HTML, CSS y JavaScript para crear una interfaz adaptable que funcione de forma óptima tanto en dispositivos móviles como en escritorio. El objetivo es ofrecer una introducción profesional al sistema AquaEngine, estableciendo una base sólida para su exploración futura y garantizando una experiencia fluida que motive al usuario a conocer más. |
+| **Sprint 1 Velocity**             | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Sum of Story Points**           | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -2241,79 +2177,20 @@ Repositorio GitHub: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/Ke
 #### 5.2.2.1. Sprint Planning 2
 Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 20 horas.
 
-<table>
-    <thead>
-        <tr>
-            <th>Sprint #</th>
-            <th>Sprint 2</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td colspan="2"><b>Sprint  Background</b></td>
-        </tr>
-        <tr>
-            <td>Date</td>
-            <td>2025/05/09</td>
-        </tr>
-        <tr>
-            <td>Time</td>
-            <td>6:50 PM</td>
-        </tr>
-        <tr>
-            <td>Location</td>
-            <td>Google meet</td>
-        </tr>
-        <tr>
-            <td>Prepared by</td>
-            <td>Ayrton Omar Briceño Llanos</td>
-        </tr>
-        <tr>
-            <td>Atendees (to  meeting)</td>
-            <td>
-                <li>Pedro Andre Guia Carrasco/li>
-                <li>Werner Khalil Lang Nassi</li>
-                <li>Marco Antonio Nakasone Gomes</li>
-                <li>Ernesto Rodas Sotomayor</li>
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Review Summary</td>
-            <td>
-                Este es el segundo sprint a realizar por el equipo
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Retrospective Summary</td>
-            <td>
-                Acuerdo de la implementación de una primera versión del front-end
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Goal</td>
-            <td style="text-align: justify">
-                <p>
-                Desplegar la primera version del Front-end
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 1 Velocity</td>
-            <td>
-                8
-            </td>
-        </tr>
-        <tr>
-            <td>Sum of story points</td>
-            <td>
-                8
-            </td>
-        </tr>
-    </tbody>
-</table>
+| **Campo**                          | **Sprint 2**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                      | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Date**                          | 2025/05/09                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Time**                          | 6:50 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Location**                      | Google Meet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Prepared by**                   | Ayrton Omar Briceño Llanos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Attendees (to meeting)**        | - Pedro Andre Guia Carrasco<br>- Werner Khalil Lang Nassi<br>- Marco Antonio Nakasone Gomes<br>- Ernesto Rodas Sotomayor                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Sprint 2 Review Summary**       | Este fue el segundo sprint realizado por el equipo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Sprint 2 Retrospective Summary**| Se acordó implementar la primera versión funcional del front-end del sistema Keep It Fresh, asegurando integración básica con módulos clave y diseño modular inicial.                                                                                                                                                                                                                                                                                                                                                      |
+| **Sprint 2 Goal**                 | Desplegar la primera versión del front-end funcional para Keep It Fresh. Este sprint se enfocó en construir las primeras vistas de usuario del sistema (como Notificaciones, Inventario, Perfil), respetando la arquitectura establecida y asegurando responsividad. El éxito se confirmará cuando se tenga una navegación fluida entre vistas clave, estructura de componentes reutilizables, y diseño consistente con el prototipo.                                                                                                       |
+| **Sprint 2 Velocity**             | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Sum of Story Points**           | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
@@ -2524,10 +2401,3 @@ Link de la Organización ClearView:
 | Vídeo Sprint 3          |                   |
 | Vídeo About the Product |  |
 | Vídeo About the Team    |                 |
-
-### Anexo E. Entrevistas
-
-| Sección                       | Enlace                            |
-|-------------------------------|-------------------------------------------|
-| Formulario de entrevistas     | https://docs.google.com/forms/d/e/1FAIpQLSeB3U08c3PWee7htqJOBD5dV1GQHwSULb6f2R-ug4sjBcIRSQ/viewform?usp=sharing&ouid=104117435534873394348                 |
-| Vídeo Completo de entrevistas | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=imrUxO                  |
