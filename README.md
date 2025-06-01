@@ -1269,17 +1269,53 @@ Hemos hecho un bosquejo de nuestro prototipo de web en figma
 ### 4.6.1. Software Architecture Context Diagram
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepItFresh.
 
-
+![structurizr-102786-SystemContext-001.png](assets/structurizr-102786-SystemContext-001.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
 
-
+![structurizr-102786-Container-001.png](assets/structurizr-102786-Container-001.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica.
+
+- Bounded Context User
+
+![structurizr-102786-Component-001.png](assets/structurizr-102786-Component-001.png)
+
+Gestiona cuentas de usuarios. La app web usa el User Controller para crear, 
+editar o eliminar usuarios. El User Command Service procesa cambios, 
+mientras el repositorio guarda los datos en MySQL.
+
+- Bounded Context Report
+
+![structurizr-102786-Component-002.png](assets/structurizr-102786-Component-002.png)
+
+Genera reportes de ventas e inventario. El Report Controller recibe solicitudes, 
+el Query Service prepara los datos, y el repositorio los extrae de la base de datos.
+
+- Bounded Context Order
+
+![structurizr-102786-Component-003.png](assets/structurizr-102786-Component-003.png)
+
+Administra pedidos. El Order Controller maneja creación y consultas. 
+El Query Service busca información, y el repositorio actualiza los registros en la base de datos.
+
+- Bounded Context Notification
+
+![structurizr-102786-Component-004.png](assets/structurizr-102786-Component-004.png)
+
+Envía alertas. El Notification Controller gestiona mensajes. 
+El Query Service lee de reads (rápido) o MySQL (detalles), y el repositorio guarda los datos.
+
+- Bounded Context Inventory
+
+![structurizr-102786-Component-005.png](assets/structurizr-102786-Component-005.png)
+
+Controla productos. El Inventory Controller ofrece APIs para consultar stock. 
+El Query Service obtiene datos, y el repositorio los actualiza en la base de datos.
 
 ## 4.7. Software Object-Oriented Design
 
