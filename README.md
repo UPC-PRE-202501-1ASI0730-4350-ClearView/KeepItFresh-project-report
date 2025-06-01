@@ -1267,40 +1267,26 @@ Hemos hecho un bosquejo de nuestro prototipo de web en figma
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepItFresh.
 
-![ContextDiagram.png](assets/ContextDiagram.png)
+
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
 
-<img src="assets/structurizr-Containers (2).png"/>
+
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica.
 
+
+
 ## 4.7. Software Object-Oriented Design
-Diagrama de componente de Usuario
 
-<img src="assets/structurizr-UserComponentDiagram.png"/>
 
-Diagrama de componente de Reporte
-
-<img src="assets/structurizr-ReportComponentDiagram.png"/>
-
-Diagrama de componente de Orden
-
-<img src="assets/structurizr-OrderComponentDiagram.png"/>
-
-Diagrama de componente de Notificacion
-
-<img src="assets/structurizr-NotificationComponentDiagram.png"/>
-
-Diagrama de componente de Inventario
-
-<img src="assets/structurizr-InventoryComponentDiagram.png"/>
 
 ### 4.7.1. Class Diagrams
 
