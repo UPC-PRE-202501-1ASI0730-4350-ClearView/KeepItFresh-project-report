@@ -488,66 +488,101 @@ Durante la entrevista, Diego, trabajador de un restaurante, explicó que una de 
 
 ### 2.2.3. Análisis de entrevistas
 
-**Segmento 1:**
-**Propietarios y/o fundadores de restaurantes**
-**Entrevistados**: Luis Agurto, Daniel Céspedes Cantidad: 2/5 (33%)
+Tras analizar las entrevistas realizadas a distintos actores del rubro gastronómico, 
+se identifican necesidades comunes y oportunidades claras para el 
+desarrollo de una solución tecnológica enfocada en la gestión operativa de restaurantes.
 
-**Características objetivas:**
+En primer lugar, la gestión de inventario surge como el principal problema compartido entre los entrevistados. 
+Luis Agurto, gerente general de la cevichería "El Molinero", y Daniel Céspedes, cofundador del restaurante "El Pollo Inka", 
+coinciden en que actualmente utilizan métodos propios para organizar sus productos, pero estos procesos son manuales, poco 
+eficientes y consumen mucho tiempo del personal. Ambos señalan que una aplicación que automatice el control de stock, 
+sugiera ubicaciones de almacenamiento, y genere estadísticas predictivas sería ideal para optimizar el funcionamiento del negocio.
 
-- Experiencia en gestión de restaurantes: 2/2 (100%)
+Por otro lado, trabajadores operativos como Kaleb Frias, Diego y Matthew refuerzan esta necesidad desde una perspectiva funcional.
+Kaleb menciona que, al encargarse de revisar bebidas e insumos, ha tenido que desechar productos vencidos por no contar con 
+un control actualizado. Diego destaca la dificultad de identificar productos próximos a vencer durante los momentos de 
+alta demanda, lo cual genera pérdidas y presión sobre el equipo. Ambos valoran la posibilidad de contar con una aplicación 
+que envíe alertas automáticas sobre caducidad y stock bajo. Estas funciones permitirían organizar mejor el trabajo y evitar desperdicios.
 
-- Uso de métodos manuales (papel/lápiz o propios): 2/2 (100%)
+A lo largo de todas las entrevistas se observa una actitud positiva hacia el uso de tecnología. 
+Los propietarios consideran que incorporar una aplicación como esta sería una forma innovadora de facilitar procesos y diferenciarse en el mercado. El personal 
+de atención ve en esta solución una herramienta útil para reducir la carga de trabajo y mejorar la experiencia del cliente.
 
-- Deseo de automatizar la gestión de inventario: 2/2 (100%)
+Podemos concluir que el análisis revela una clara oportunidad de mercado para una aplicación que integre funciones de 
+control de inventario en tiempo real, alertas automáticas, sugerencias inteligentes y herramientas de apoyo para la atención 
+al cliente. La solución tecnológica propuesta no solo responde a necesidades operativas y estratégicas, sino que también cuenta 
+con una aceptación favorable por parte de usuarios de diferentes niveles jerárquicos del restaurante, lo que valida su viabilidad 
+e impacto potencial.
 
-Características subjetivas:
+Ademas del analisis de entrevistas, hemos realizado algunos formularios hacia algunos usuarios externos, las siguientes imagenes muestran las estadisticas del formulario
 
-- Valoración de la eficiencia operativa: 2/2 (100%)
+- En cuanto a la skill de Amabilidad, el 66.7% de los encuestados evaluó 
+con puntuaciones altas (75% y 100%), lo que indica una percepción mayormente 
+positiva en este aspecto. No se registraron valoraciones inferiores al 75%, lo 
+cual resalta un buen nivel de trato cordial en las interacciones observadas.
 
-- Interés por análisis de datos y ventas: 2/2 (100%)
+![skill_1.png](assets/skill_1.png)
 
-- Actitud abierta a la innovación tecnológica: 2/2 (100%)
+- En cuanto a la habilidad de Comunicación, el 66.7% de los encuestados otorgó 
+una valoración del 75%, mientras que el 33.3% la calificó con el 100%. 
+Esto indica que la mayoría percibe un buen nivel de comunicación, aunque aún 
+hay margen para alcanzar la excelencia de manera más uniforme.
 
-**Segmento 2:**
-**Meseros y/o cocineros de restaurantes**
-**Entrevistados**: Diego Ahane, Matthew Yonamine, Kaleb Frias. Cantidad 3/5 (60%) </br>
-Caracteristicas Objetivas
+![skill_2.png](assets/skill_2.png)
 
-- Participación en gestión de inventario: 3/3 (100%)
+- Respecto a la Resistencia Física, el 66.7% de los encuestados la valoró 
+con un 75%, mientras que el 33.3% otorgó la máxima puntuación (100%). 
+Estos resultados reflejan una percepción mayoritariamente positiva sobre 
+la capacidad física, con un buen nivel de desempeño sostenido durante las jornadas laborales.
 
-- Frecuencia de revisión del inventario durante el día: 2/3 (66%)
+![skill_3.png](assets/skill_3.png)
 
-- Interacción directa con cocina y atención al cliente: 3/3 (100%)
+- En cuanto a la Responsabilidad, el 66.7% de los encuestados 
+la calificó con un 100%, mientras que el 33.3% la valoró con un 75%. 
+Esto refleja una percepción general muy positiva, destacando 
+un alto nivel de compromiso en el cumplimiento de las tareas asignadas.
 
-**Características subjetivas:**
+![skill_4.png](assets/skill_4.png)
 
-- Deseo de automatización para facilitar el trabajo: 3/3 (100%)
+- En cuanto a los canales de comunicación preferidos, el 100% de los 
+encuestados optó por mensajería como medio principal. 
+Facebook e Instagram también fueron seleccionados por el 66.7% de los 
+participantes, mientras que Twitter y TikTok no fueron elegidos por 
+ningún encuestado. Esto sugiere que los canales más efectivos para 
+interactuar con los usuarios son los mensajes directos y las redes sociales 
+más consolidadas.
 
-- Necesidad de mejorar la coordinación entre cocina y servicio: 3/3 (100%)
+![channels.png](assets/channels.png)
 
-- Percepción de carga de trabajo o estrés por falta de tecnología: 3/3 (100%)
+- Respecto al tipo de sistema operativo que utilizan los participantes en 
+sus teléfonos móviles, el 66.7% usa iOS, mientras que el 33.3% utiliza Android. 
+Este dato es importante para definir la prioridad en el desarrollo o adaptación 
+de la aplicación móvil, ya que indica una ligera mayoría de usuarios con dispositivos Apple.
 
-**Conclusiones para construcción de arquetipos**
+![phone.png](assets/phone.png)
 
-**Arquetipo 1: El Administrador Estratégico.**
+- Según los resultados, el 66.7% de los encuestados utiliza Microsoft (Windows) como sistema operativo de escritorio, mientras que el 33.3% usa Mac, 
+no se reportaron usuarios de Linux ni Ubuntu. Este dato es relevante para decidir la compatibilidad de software o herramientas de escritorio: si se desarrolla una aplicación o herramienta, debe priorizarse la compatibilidad con Windows y macOS.
 
-**Perfil:** Propietario o gerente de restaurante.
+![desktop.png](assets/desktop.png)
 
-**Dolor principal:** Gestión manual del inventario, falta de análisis detallado de ventas.
+- El gráfico muestra que Edge y Firefox tienen 3 respuestas (100%), 
+siendo los mejor valorados. Opera tiene puntuaciones negativas 
+(-2 en 67% y -1 en 33%), indicando problemas.
+Chrome no tiene datos. La escala 0-3 sugiere calificaciones, 
+pero los valores negativos requieren más contexto. 
+Edge y Firefox lideran, mientras Opera tiene baja aceptación.
+- 
+![browser.png](assets/browser.png)
 
-**Necesidades:** Plataforma que brinde control de inventario, estadísticas de productos más vendidos y sugerencias para optimizar el menú.
+- El análisis de marcas e influencers se basa en 3 respuestas recibidas 
+donde aparecen mencionadas varias opciones como Pardos Chicken, La Romana, Don Belesario, 
+El Bote y Antigua Taberna Queirolo, entre las marcas mientras que Jose Antonio y La Retama, 
+figuran como influencers. Los porcentajes muestran un 33 3% repetido dos veces lo que sugiere una distribución 
+equitativa con aproximadamente un voto por cada opción seleccionada aunque al existir siete alternativas en total algunas 
+podrían no haber obtenido votos en esta pequeña muestra de tres respuestas
 
-**Motivación:** Optimización de recursos y mejora en la toma de decisiones.
-
-**Arquetipo 2:** El Operador Multifuncional.
-
-**Perfil:** Personal operativo (meseros o encargados de inventario).
-
-**Dolor principal:** Carga de trabajo alta, poca visibilidad del estado de pedidos, coordinación deficiente con cocina.
-
-**Necesidades:** Aplicación que automatice el control de stock, indique vigencia de productos, organice pedidos y comunique alertas de cocina.
-
-**Motivación:** Agilizar tareas diarias, reducir errores y evitar desplazamientos innecesarios.
+![brands.png](assets/brands.png)
 
 ## 2.3. Needfinding 
 
