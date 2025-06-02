@@ -4,7 +4,7 @@
     <strong>Ingeniería de Software</strong><br>
     <strong>Aplicaciones Web - SV51</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br><br>
-    INFORME TB1
+    INFORME TB2
 </p>
 
 <p align="center">
