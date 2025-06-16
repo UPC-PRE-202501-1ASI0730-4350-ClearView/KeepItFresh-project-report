@@ -723,15 +723,17 @@ Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
     Además, la comunicación interna es deficiente, ya que los cambios se comunican en persona y con frecuencia se producen malentendidos. 
     Este mapeo evidencia la necesidad de digitalizar y automatizar procesos clave para mejorar la eficiencia y la experiencia laboral.
 
-    ![as-is scenario-mapping.png](assets/as-is%20scenario-mapping.png)
-
+    ![as-is-scenario-mapping-segment-1.jpg](assets/as-is-scenario-mapping-segment-1.jpg)
 
 - Empleados de restaurantes
     Este mapeo muestra cómo los trabajadores operativos enfrentan procesos manuales y desconectados que afectan tanto su rendimiento como su bienestar. 
     Las tareas de limpieza o preparación se notifican verbalmente al supervisor, sin confirmación clara de recepción, y el control de insumos se hace de forma visual, 
     generando dudas y frustración. La comunicación con los supervisores es limitada y poco fluida. 
     Las emociones predominantes son la inseguridad, insatisfacción y preocupación por fallas operativas, lo cual resalta la oportunidad de implementar herramientas tecnológicas que aporten claridad, agilidad y mejor comunicación.
-    ![as-is scenario-mapping2.png](assets/as-is%20scenario-mapping2.png)
+    
+    ![as-is-scenario-mapping-segment-2.jpg](assets/as-is-scenario-mapping-segment-2.jpg)
+
+
 
 ## 2.4. Ubiquitous Language
 <p style="text-align: justify;">
@@ -818,7 +820,7 @@ Para los To-Be Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
     Las tareas se asignan digitalmente, permitiendo un balance más justo, y la comunicación con el equipo se centraliza mediante chats integrados. 
     Esto genera sensaciones de tranquilidad, control y conexión, reflejando una mejora sustancial en la coordinación, toma de decisiones y reducción del estrés operativo.
     
-    ![to-be scenario-mapping.png](assets/to-be%20scenario-mapping.png)
+    ![to-be-scenario-mapping-segment-2.jpg](assets/to-be-scenario-mapping-segment-2.jpg)
 
 
 - Empleados de Restaurantes
@@ -827,7 +829,7 @@ Para los To-Be Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
     pérdidas y garantizando frescura. Además, se integran reportes exportables para mayor orden y control. Esto permite que el empleado se sienta más enfocado, seguro y motivado, eliminando
     la incertidumbre propia de los procesos manuales.
     
-    ![to-be scenario-mapping2.png](assets/to-be%20scenario-mapping2.png)
+    ![to-be-scenario-mapping-segment-1.jpg](assets/to-be-scenario-mapping-segment-1.jpg)
 
 
 ## 3.2. User Stories
