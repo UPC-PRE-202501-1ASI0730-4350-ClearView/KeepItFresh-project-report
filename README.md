@@ -2358,7 +2358,7 @@ Se ha desarrollado una sección para gestionar alertas de sensores clasificadas 
 
 ![vista3.jpeg](assets/vista3.jpeg)
 
-### 5.2.2.6. Services Documentation Evidence for Sprint Review (Sprint 2)
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review (Sprint 2)
 
 En el segundo sprint principalmente hemos desarrollado la primera versión de la aplicación web de "AquaEngine". Además se hemos utilizado servicios web para desplegar tanto el front-end de "KeepItFresh", como el api fake de donde obtenemos los datos para simular una integración con una base de datos. Por último se ha actualizado la Landing Page de "KeepItFresh" para que pueda redirigir a la aplicación a traves de un botón Call-To-Action.
 
@@ -2384,6 +2384,17 @@ En esta vista se muestra la evolución temporal de los commits, indicando cómo 
 
 ![commit4.jpeg](assets/commit4.jpeg)
 Finalmente, esta imagen muestra las ramas de desarrollo (feature branches) creadas por el equipo para implementar funcionalidades de forma distribuida, lo cual evidencia el trabajo colaborativo y organizado del equipo de desarrollo.
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+#### 5.2.3.2. Aspect Leaders and Collaborators
+#### 5.2.3.3. Sprint Backlog 3
+#### 5.2.3.4. Development Evidence for Sprint 3 Review
+#### 5.2.3.5. Execution Evidence for Sprint 3 Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review (Sprint 3)
+#### 5.2.3.7. Software Deployment Evidence for Sprint 3 Review
+#### 5.2.3.8. Team Collaboration Insights during Sprint 3
+
 
 ## Conclusiones y recomendaciones
 
@@ -2419,6 +2430,7 @@ pudieron aportar sus ideas y enfoques. La planificación de tareas y la asignaci
 avance organizado, manteniendo el enfoque en los objetivos comunes. Gracias a la comunicación constante y a la 
 resolución conjunta de problemas, se alcanzaron avances importantes que nos mantienen alineados hacia el cumplimiento 
 de nuestras metas. Este enfoque colaborativo continuará siendo esencial en las próximas etapas del proyecto.
+
 
 
 
