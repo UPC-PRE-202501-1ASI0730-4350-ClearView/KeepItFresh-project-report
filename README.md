@@ -81,6 +81,15 @@ TP: Se completaron las tareas previstas para la entrega del TP, y se documentaro
 
 ![commit2.jpeg](assets/commit2.jpeg)
 
+TB2: Las tareas asignadas para la entrega del TB2 se completaron y se documentaron adecuadamente en el repositorio de GitHub del equipo.
+
+* Los contenidos asignados a cada integrante fueron preparados y estructurados en formato Markdown.
+* Se realizaron commits para garantizar el seguimiento del progreso en el repositorio.
+* Se crearon los artefactos necesarios utilizando las herramientas recomendadas.
+* Se mantuvieron reuniones para coordinar el avance de los componentes del informe.
+
+![insights.png](assets/insights.png)
+
 # Contenido
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
 [Project Report Collaboration Insights](#project-report-collaboration-insights)  
@@ -206,6 +215,12 @@ TP: Se completaron las tareas previstas para la entrega del TP, y se documentaro
 [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5236-services-documentation-evidence-for-sprint-review)  
 [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)  
 [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
+
+[5.3. Validation Interviews.](#53-validation-interviews)
+[5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+[5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+[5.3.3. Evaluaciones segun heuristicas.](#533-evaluaciones-según-heurísticas)
+[5.4. Video About-the-Product.](#54-video-about-the-product)
 
 [Conclusiones](#conclusiones)  
 [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)  
@@ -2432,13 +2447,12 @@ En el segundo sprint principalmente hemos desarrollado la primera versión de la
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
 | https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/ | Desplegar Landing Page de KeepItFresh |
 | https://app.beeceptor.com/console/keepitfreshweb | Desplegar la Fake Api de KeepItFresh  |
-| [https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend](https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend) | Desplegar Frontend de KeepItFresh     |
+| https://keepitfresh-frontend-k2ef-qj2dmk7lg-marquinho04s-projects.vercel.app | Desplegar Frontend de KeepItFresh     |
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint 2 Review
 
 Para el despliegue de nuestro Frontend hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde dividimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra aplicación web.
-
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint 2
@@ -2549,8 +2563,14 @@ Como se puede ver en la parte de arriba, utilizamos conventional commits y separ
 
 #### 5.2.3.5. Execution Evidence for Sprint 3 Review
 
+- Desarrollo del Backend por medio Rider:
+
+![exe1.png](assets/exe1.png)
 
 
+- Visualizacion de endpoints de la API por medio de Swagger:
+
+![exe2.png](assets/exe2.png)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review (Sprint 3)
 
@@ -2644,7 +2664,11 @@ Grafico que muestra la colaboracion del equipo en el desarrollo del backend dura
 
 
 
+
 ### 5.3.3. Evaluaciones según heurísticas
+
+
+
 ## 5.4. Video About-the-Product
 
 ## Conclusiones y recomendaciones
@@ -2709,7 +2733,7 @@ Verdouw, C. N., Wolfert, J., Beulens, A. J. M., & Rialland, A. (2016). Virtualiz
 
 Landing Page Desplegada: https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/
 
-Frontend Desplagado: https://app.beeceptor.com/console/keepitfreshweb
+Frontend Desplagado: https://keepitfresh-frontend-k2ef-qj2dmk7lg-marquinho04s-projects.vercel.app
 
 Backend Desplegado:
 
