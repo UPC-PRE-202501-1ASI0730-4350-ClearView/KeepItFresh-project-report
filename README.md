@@ -2826,6 +2826,24 @@ de nuestras metas. Este enfoque colaborativo continuará siendo esencial en las 
 
 ## Video About-the-Team
 
+Este video muestra el proceso de trabajo del equipo que desarrolló KeepItFresh. Incluye escenas reales de nuestras sesiones de planificación, codificación y validación con usuarios, complementadas con una narración en
+off que explica cada fase. Cada integrante aparece ante cámara para describir su rol, los principales outcomes logrados y las competencias que fortaleció durante el proyecto.
+
+| # | Sección                       | Inicio (`hh:mm:ss`) | Contenido resumido              |
+|---|-------------------------------|---------------------|---------------------------------|
+| 3 | **Testimonio – Integrante 1** | 00:00:00            | Rol, logros (Profile)           |
+| 4 | **Testimonio – Integrante 2** | 00:00:48            | Rol, logros (Sensors)           |
+| 5 | **Testimonio – Integrante 3** | 00:01:45            | Rol, logros (Inventory)         |
+| 6 | **Testimonio – Integrante 4** | 00:03:35            | Rol, logros (Orders) & (alerts) |
+| 7 | **Testimonio – Integrante 5** | 00:05:00            | Rol, logros (Subscriptions)     |
+| 9 | **Final**                     | 00:07:12            | Cierre del video                |
+
+- **Microsoft Stream (versión institucional):**
+  https://acortar.link/CSOkTt
+- **YouTube (para incrustar en la landing):**
+  https://youtu.be/RHk-pZ_7zaA
+
+
 ## Bibliografía
 
 Atzori, L., Iera, A., & Morabito, G. (2017). Understanding the Internet of Things: Definition, potentials, and challenges. Computer Networks, 56(3), 278–294. https://doi.org/10.1016/j.comnet.2011.09.01
