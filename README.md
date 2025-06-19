@@ -2536,11 +2536,71 @@ En este sprint, se ha desarrollado el backend de la aplicación web, utilizando 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint 3
 
+A continuación se mostrará el gráfico de insights durante el sprint:
 
+Grafico que muestra la colaboracion del equipo en el desarrollo del backend durante el sprint.
+
+![contribudores.png](assets/contribudores.png)
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+
+# 📝 Entrevista de Usuario - Keep It Fresh
+
+---
+
+## 1. INTRODUCCIÓN
+
+- **¿Cuál es tu nombre y a qué te dedicas actualmente?**
+
+- **¿Tienes experiencia usando aplicaciones web para gestionar suscripciones, membresías o pedidos?**
+
+- **¿Qué herramientas usas actualmente (si alguna) para gestionar tus pagos, pedidos o planes de consumo?**
+
+---
+
+## 🖥 2. LANDING PAGE (Post Despliegue)
+
+- **¿Qué entendiste que ofrece el proyecto Keep It Fresh?**
+
+- **¿Qué aspecto de la plataforma llamó más tu atención en la página de inicio?**
+
+- **¿Qué mejorarías o qué crees que debería explicarse mejor en la landing para captar más tu interés?**
+
+- **¿Crees que la página comunica bien el valor del producto?**
+
+---
+
+## 🌐 3. FRONTEND WEB APP (Post Demostración/Interacción)
+
+- **¿Qué tan fácil fue navegar dentro de la aplicación?**
+
+- **¿Pudiste registrar o consultar tus datos de suscripción sin problemas?**
+
+- **¿Te resultó claro el estado actual de tu suscripción y los servicios asociados?**
+
+- **¿Sentiste que la aplicación te ayudó a tener una mejor organización o control sobre tus pagos o beneficios?**
+
+- **¿Qué funcionalidades encontraste más útiles? ¿Y cuáles te parecieron confusas o innecesarias?**
+
+- **¿Cómo calificarías la interfaz en cuanto a claridad y diseño?**
+
+- **¿Consideras que esta aplicación te sería útil en tu rutina mensual/semanal?**
+
+- **¿Confiarías en esta herramienta para llevar el control de tus servicios contratados?**
+
+---
+
+## 🌟 Experiencia General
+
+- **¿Qué es lo que más te gustó de la experiencia con Keep It Fresh?**
+
+- **¿Qué aspectos mejorarías o te gustaría ver en futuras versiones?**
+
 ### 5.3.2. Registro de Entrevistas
+
+
+
 ### 5.3.3. Evaluaciones según heurísticas
 ## 5.4. Video About-the-Product
 
