@@ -2306,9 +2306,9 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 
 En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "KeepItFresh"
 
-| End Point                                                                 | Funciones                             |
-|---------------------------------------------------------------------------|---------------------------------------|
-| [https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/](https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/) | Desplegar Landing Page de KeepItFresh |
+| End Point                                                                                                                                                                 | Funciones                             |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| [https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/] (https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/) | Desplegar Landing Page de KeepItFresh |
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -2751,27 +2751,27 @@ Web Application Prototyting: https://acortar.link/hpc1h3
 
 Link de la Organización ClearView:
 
-| Repositorios                 | Enlace al Respositorio                                  |
-|------------------------------|---------------------------------------------------------|
+| Repositorios                 | Enlace al Respositorio                                                              |
+|------------------------------|-------------------------------------------------------------------------------------|
 | KeepItFresh Project Report   | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report |
 | KeepItFresh Landing Page     | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-landing-page  |
-| KeepItFresh FrontEnd         | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend     |
-| KeepItFresh BackEnd          | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-backend      |
-| KeepItFresh Acceptance Tests |    |
+| KeepItFresh FrontEnd         | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend      |
+| KeepItFresh BackEnd          | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-backend       |
+| KeepItFresh Acceptance Tests |                                                                                     |
 
 ### Anexo D. Videos
 
-| Sección                 | Enlace al video                            |
-|-------------------------|--------------------------------------------|
-| Vídeo Sprint 1          | https://acortar.link/9Il87E                  |
-| Vídeo Sprint 2          | https://acortar.link/wPFcyD                  |
-| Vídeo Sprint 3          |                   |
-| Vídeo About the Product |  |
-| Vídeo About the Team    |                 |
+| Sección                 | Enlace al video                       |
+|-------------------------|---------------------------------------|
+| Vídeo Sprint 1          | https://acortar.link/9Il87E           |
+| Vídeo Sprint 2          | https://acortar.link/wPFcyD           |
+| Vídeo Sprint 3          |                                       |
+| Vídeo About the Product |                                       |
+| Vídeo About the Team    |                                       |
 
 ### Anexo E. Entrevistas
 
-| Sección                   | Enlace                                                                                                                                                                                                                                                                                                                        |
-|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Formulario de Entrevistas | https://docs.google.com/forms/d/e/1FAIpQLSeB3U08c3PWee7htqJOBD5dV1GQHwSULb6f2R-ug4sjBcIRSQ/viewform?usp=dialog                                                                                                                                                                                                              |
-| Video de Entrevistas      | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311077_upc_edu_pe/EcyEvfJJK95LlKXxm5fzHMABMmlq3vvVZPcnYcX1jgHR2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=imrUxO |
+| Sección                   | Enlace                        |
+|---------------------------|-------------------------------|
+| Formulario de Entrevistas | https://acortar.link/qO1zLA   |
+| Video de Entrevistas      | https://acortar.link/8SagjY   |
