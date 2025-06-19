@@ -2435,10 +2435,51 @@ Finalmente, esta imagen muestra las ramas de desarrollo (feature branches) cread
 | Rodas Sotomayor, Ernesto                  | ernesto0710      | (C)             | (C)         | (C)            | (C)           | (L)                 |
 
 #### 5.2.3.3. Sprint Backlog 3
+
+Para el sprint 3 usamos la herramienta Trello para organizar las tareas del equipo
+
+Link de Trello: https://trello.com/b/Amllspoc/keepitfresh-sprint-3
+![sprint-3.png](assets/sprint-3.png)
+
+| Sprint # | User Story | Work-Item / Task |          |                            |                      |             |------------------------------|
+|----------|------------|------------------|----------|----------------------------|----------------------|-------------|------------------------------|
+|          | ID         | ID               | Title    | Description                | Estimation (Hours)   | Assigned To | Status                       |
+| 3        | TS01       | T01-1            | Create Inventory Endpoint   | Implementar `POST /api/v1/inventory` para crear registro de inventario     | 5                    | Pedro Guia       | In-Process                   |
+| 3        | TS02       | T02-1            | Get Inventory by ID         | Implementar `GET /api/v1/inventory/{id}` para leer inventario              | 4                    | Ayrton Briceño   | To-Do                        |
+| 3        | TS03       | T03-1            | Update Inventory            | Implementar `PUT /api/v1/inventory/{id}` para actualizar inventario        | 5                    | Ernesto Rodas    | To-Do                        |
+| 3        | TS04       | T04-1            | Delete Inventory            | Implementar `DELETE /api/v1/inventory/{id}` para eliminar inventario       | 4                    | Werner Lang      | To-Do                        |
+| 3        | TS05       | T05-1            | Create Profile              | Implementar `POST /api/v1/profile` para registrar perfil                    | 4                    | Pedro Guia       | To-Review                    |
+| 3        | TS06       | T06-1            | Get Profile Info            | Implementar `GET /api/v1/profile` para leer perfil                          | 3                    | Ayrton Briceño   | Done                         |
+| 3        | TS07       | T07-1            | Update Profile              | Implementar `PUT /api/v1/profile/{id}` para actualizar perfil               | 4                    | Ernesto Rodas    | Done                         |
+| 3        | TS08       | T08-1            | Create Order                | Implementar `POST /api/v1/orders` para crear nueva orden                    | 5                    | Werner Lang      | In-Process                   |
+| 3        | TS09       | T09-1            | Get Order by ID             | Implementar `GET /api/v1/orders/{id}` para consultar orden específica       | 4                    | Pedro Guia       | To-Do                        |
+| 3        | TS10       | T10-1            | List Orders                 | Implementar `GET /api/v1/orders` para listar órdenes del usuario            | 3                    | Ayrton Briceño   | To-Do                        |
+| 3        | TS11       | T11-1            | Update Order                | Implementar `PUT /api/v1/orders/{id}` para actualizar orden                 | 4                    | Ernesto Rodas    | To-Do                        |
+| 3        | TS12       | T12-1            | Delete Order                | Implementar `DELETE /api/v1/orders/{id}` para eliminar orden                | 3                    | Werner Lang      | To-Do                        |
+| 3        | TS13       | T13-1            | Register Sensor             | Implementar `POST /sensors/assign` para crear un sensor                     | 4                    | Pedro Guia       | Done                         |
+| 3        | TS14       | T14-1            | List Sensors                | Implementar `GET /sensors` para listar sensores                             | 3                    | Ayrton Briceño   | Done                         |
+| 3        | TS15       | T15-1            | Change Sensor State         | Implementar `PATCH /sensors/{id}/state` para cambiar estado del sensor     | 3                    | Ernesto Rodas    | In-Process                   |
+| 3        | TS16       | T16-1            | Register Subscription       | Implementar `POST /subscriptions` para registrar una suscripción           | 4                    | Werner Lang      | To-Do                        |
+| 3        | TS17       | T17-1            | Get Subscription Info       | Implementar `GET /subscriptions/{userId}` para leer estado de suscripción  | 3                    | Pedro Guia       | To-Do                        |
+| 3        | TS18       | T18-1            | Validate Payment            | Implementar `POST /payments/validate` para validar el estado del pago      | 4                    | Ayrton Briceño   | To-Do                        |
+| 3        | TS19       | T19-1            | Update Subscription Type    | Implementar `PUT /subscriptions/{userId}/update` para cambiar plan         | 4                    | Ernesto Rodas    | To-Do                        |
+
+
 #### 5.2.3.4. Development Evidence for Sprint 3 Review
 #### 5.2.3.5. Execution Evidence for Sprint 3 Review
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review (Sprint 3)
+
+
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint 3 Review
+
+En este sprint, se ha desarrollado el backend de la aplicación web, utilizando las siguientes herramientas. No obstante, el despliegue de la API no está incluido en el alcance de este sprint.
+
+* Git: Sistema de control de versiones que utilizamos para colaborar y rastrear las versiones de la aplicación web en un repositorio remoto.
+* Gitflow: Proceso de trabajo colaborativo que nos permitió organizar el trabajo en ramas dentro de nuestro repositorio, facilitando así la colaboración en el desarrollo.
+* GitHub: Plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+* Swagger Ui: Herramienta destinada a probar y documentar nuestra API.
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint 3
 
 ## 5.3. Validation Interviews
