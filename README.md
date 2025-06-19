@@ -2389,7 +2389,7 @@ En el segundo sprint principalmente hemos desarrollado la primera versión de la
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
 | https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/ | Desplegar Landing Page de KeepItFresh |
 | https://app.beeceptor.com/console/keepitfreshweb | Desplegar la Fake Api de KeepItFresh  |
-| [https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend](https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend) | Desplegar Frontend de KeepItFresh     |
+| https://keepitfresh-frontend-k2ef-qj2dmk7lg-marquinho04s-projects.vercel.app | Desplegar Frontend de KeepItFresh     |
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint 2 Review
@@ -2602,6 +2602,9 @@ Grafico que muestra la colaboracion del equipo en el desarrollo del backend dura
 
 
 ### 5.3.3. Evaluaciones según heurísticas
+
+
+
 ## 5.4. Video About-the-Product
 
 ## Conclusiones y recomendaciones
@@ -2666,7 +2669,7 @@ Verdouw, C. N., Wolfert, J., Beulens, A. J. M., & Rialland, A. (2016). Virtualiz
 
 Landing Page Desplegada: https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/
 
-Frontend Desplagado: https://app.beeceptor.com/console/keepitfreshweb
+Frontend Desplagado: https://keepitfresh-frontend-k2ef-qj2dmk7lg-marquinho04s-projects.vercel.app
 
 Backend Desplegado:
 
