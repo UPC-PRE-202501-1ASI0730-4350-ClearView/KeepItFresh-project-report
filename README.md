@@ -2505,8 +2505,24 @@ Link de Trello: https://trello.com/b/Amllspoc/keepitfresh-sprint-3
 Como se puede ver en la parte de arriba, utilizamos conventional commits y separamos las ramas por features para mantener un orden en los commits.
 
 #### 5.2.3.5. Execution Evidence for Sprint 3 Review
+
+
+
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review (Sprint 3)
 
+En esta sección se presentarán los endpoints desarrollados durante el sprint actual, acompañados de capturas de pantalla que ilustran las acciones CRUD y otros métodos implementados. Dentro del alcance del sprint, se han creado los bounded contexts relacionados con inventario, orden, perfil, sensores y subscripciones.
+
+Se adjunta el link del repositorio back-end GitHub: https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-backend
+
+| Bounded Context |                       |         |
+|-----------------|-----------------------|---------|
+| Entity          | Endpoint Url          | Swagger |
+| Inventory       | /api/v1/products      | ![products.png](assets/products.png) |
+| Order           | /api/v1/order         | ![orders.png](assets/orders.png) |
+| Profile         | /api/v1/profile       | ![profiles.png](assets/profiles.png) |
+| Sensors         | /api/v1/sensors       | ![sensors.png](assets/sensors.png) |
+| Subscriptions               | /api/v1/subscriptions | ![subscriptions.png](assets/subscriptions.png) |
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint 3 Review
@@ -2519,6 +2535,8 @@ En este sprint, se ha desarrollado el backend de la aplicación web, utilizando 
 * Swagger Ui: Herramienta destinada a probar y documentar nuestra API.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint 3
+
+
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
@@ -2611,7 +2629,7 @@ Link de la Organización ClearView:
 | KeepItFresh Project Report   | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-project-report |
 | KeepItFresh Landing Page     | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/KeepItFresh-landing-page  |
 | KeepItFresh FrontEnd         | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-frontend     |
-| KeepItFresh BackEnd          |       |
+| KeepItFresh BackEnd          | https://github.com/UPC-PRE-202501-1ASI0730-4350-ClearView/keepitfresh-backend      |
 | KeepItFresh Acceptance Tests |    |
 
 ### Anexo D. Videos
