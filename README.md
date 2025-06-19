@@ -2267,11 +2267,11 @@ Link del tablero: https://trello.com/invite/b/681c43979a40b407203af2bc/ATTIe73d7
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
-| Repository                  | Branch                | Commit Id                             | Commit Message                     | Commit Message Body                                   | Commited on (Date) |
-|-----------------------------|-----------------------|---------------------------------------|------------------------------------|-------------------------------------------------------|-------------------|
-| KeepItFresh-landing-page    | feature/language      | d35fb59c33d0d436d200a4921e7c17cc1dd65f7d | fixes on en.json and es.json       | fix: fix on call to action button and hamburger menu. | 14/06/2025        |
-| KeepItFresh-FrontEnd        | feature/login-register| 03371751957fcd500b311b6d5fbc3b4199621ce1 | fixes on final version             |                                                       | 18/06/2025        |
-| KeepItFresh-landing-page    | feature/landing-page  | 1ce447d03aa852c0a8140faa90575eccc540ae1c | change main language on the landing | docs: add team members space for description          | 13/04/2025        |
+| Repository                  | Branch                | Commit Id                             | Commit Message                     | Commit Message Body               | Commited on (Date) |
+|-----------------------------|-----------------------|---------------------------------------|------------------------------------|-----------------------------------|-------------------|
+| KeepItFresh-landing-page    | feature/language      | d35fb59c33d0d436d200a4921e7c17cc1dd65f7d | fixes on en.json and es.json       | fix: i18n                         | 14/06/2025        |
+| KeepItFresh-FrontEnd        | feature/login-register| 03371751957fcd500b311b6d5fbc3b4199621ce1 | fixes on final version             | fix: replaced unnecesary options    | 18/06/2025        |
+| KeepItFresh-landing-page    | feature/landing-page  | 1ce447d03aa852c0a8140faa90575eccc540ae1c | change main language on the landing | fix: change landing page language | 13/04/2025        |
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
