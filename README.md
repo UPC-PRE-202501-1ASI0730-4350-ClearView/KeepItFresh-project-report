@@ -2664,21 +2664,21 @@ Verdouw, C. N., Wolfert, J., Beulens, A. J. M., & Rialland, A. (2016). Virtualiz
 
 ### Anexo A. Products Deployed
 
-Landing Page Desplegada: 
+Landing Page Desplegada: https://upc-pre-202501-1asi0730-4350-clearview.github.io/KeepItFresh-landing-page/
 
-Frontend Desplagado:
+Frontend Desplagado: https://app.beeceptor.com/console/keepitfreshweb
 
 Backend Desplegado:
 
 ### Anexo B. Web Tools
 
-Figma Landing Page: 
+Figma Landing Page: https://acortar.link/hpc1h3
 
-Web Applications User Flow Diagrams: https://www.figma.com/design/AUdWLgERY7JEVQU8QZSg4P/KeepItFresh?node-id=0-1&t=ZZz0P5iJwk9Eb8xN-1
+Web Applications User Flow Diagrams: https://acortar.link/hpc1h3
 
-Web Applications Mock-ups: https://www.figma.com/design/AUdWLgERY7JEVQU8QZSg4P/KeepItFresh?node-id=0-1&t=ZZz0P5iJwk9Eb8xN-1
+Web Applications Mock-ups: https://acortar.link/hpc1h3
 
-Web Application Prototyting: https://www.figma.com/design/AUdWLgERY7JEVQU8QZSg4P/KeepItFresh?node-id=0-1&t=ZZz0P5iJwk9Eb8xN-1
+Web Application Prototyting: https://acortar.link/hpc1h3
 
 ### Anexo C. GitHub Repositories
 
@@ -2696,8 +2696,8 @@ Link de la Organización ClearView:
 
 | Sección                 | Enlace al video                            |
 |-------------------------|--------------------------------------------|
-| Vídeo Sprint 1          |                   |
-| Vídeo Sprint 2          |                   |
+| Vídeo Sprint 1          | https://acortar.link/9Il87E                  |
+| Vídeo Sprint 2          | https://acortar.link/wPFcyD                  |
 | Vídeo Sprint 3          |                   |
 | Vídeo About the Product |  |
 | Vídeo About the Team    |                 |
