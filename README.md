@@ -2788,6 +2788,26 @@ Incluir mensajes de error específicos por campo, en un lenguaje claro y humano.
 
 ## 5.4. Video About-the-Product
 
+Este video está dirigido a los visitantes de nuestra landing page y a los usuarios de la aplicación. Presenta una visión general del modelo de negocio, las funcionalidades clave del software y los beneficios principales de nuestra solución de gestión de inventario para restaurantes.
+
+Nuestro objetivo es mostrar cómo nuestra aplicación ayuda a los dueños y trabajadores de restaurantes a optimizar su gestión de pedidos, productos e inventario, con herramientas prácticas y automatizadas para mejorar la eficiencia operativa.
+
+El video presenta:
+
+Introducción al problema de gestión de inventario en restaurantes.
+Principales funcionalidades de la aplicación:
+Dashboard: Visualización de estadísticas de consumo y rendimiento económico.
+Orders: Registro manual de pedidos por mesa, plato y cantidad.
+Inventory: Gestión de productos con fechas de expiración, medidas y precios.
+Profile: Ingreso diferenciado como trabajador o dueño de restaurante.
+Reports: Generación y almacenamiento de reportes.
+Alerts: Notificaciones sobre vencimientos, condiciones de almacenamiento y temperatura.
+Testimonio validado de un usuario que participó en las entrevistas de validación.
+Cierre con llamado a la acción para visitar la landing page y conocer más.
+
+video about the product: https://acortar.link/Rj4VbV
+Youtube video about the product https://youtu.be/ZATNj4QDPLU
+
 ## Conclusiones y recomendaciones
 
 El desarrollo del proyecto Keep It Fresh nos ha permitido validar gran parte de los supuestos planteados inicialmente 
