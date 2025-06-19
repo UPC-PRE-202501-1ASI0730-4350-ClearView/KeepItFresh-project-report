@@ -216,6 +216,12 @@ TB2: Las tareas asignadas para la entrega del TB2 se completaron y se documentar
 [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5237-software-deployment-evidence-for-sprint-review)  
 [5.2.3.8. Team Collaboration Insights during Sprint.](#5238-team-collaboration-insights-during-sprint)
 
+[5.3. Validation Interviews.](#53-validation-interviews)
+[5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+[5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+[5.3.3. Evaluaciones segun heuristicas.](#533-evaluaciones-según-heurísticas)
+[5.4. Video About-the-Product.](#54-video-about-the-product)
+
 [Conclusiones](#conclusiones)  
 [Conclusiones y recomendaciones.](#conclusiones-y-recomendaciones)  
 [Video About-the-Team.](#video-about-the-team)  
@@ -2406,7 +2412,6 @@ En el segundo sprint principalmente hemos desarrollado la primera versión de la
 Para el despliegue de nuestro Frontend hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde dividimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra aplicación web.
 
 
-
 #### 5.2.2.8. Team Collaboration Insights during Sprint 2
 
 La meta principal de este Sprint fue la implementación del módulo de Inventario, que incluye la visualización, registro, edición y eliminación de productos. Para alcanzar este objetivo, el equipo utilizó herramientas como GitHub, Visual Studio Code y Vue.js. A continuación, se presentan evidencias del trabajo colaborativo mediante los registros de commits generados por cada integrante del equipo en el repositorio oficial del proyecto.
@@ -2613,6 +2618,7 @@ Grafico que muestra la colaboracion del equipo en el desarrollo del backend dura
 - **¿Qué aspectos mejorarías o te gustaría ver en futuras versiones?**
 
 ### 5.3.2. Registro de Entrevistas
+
 
 
 
