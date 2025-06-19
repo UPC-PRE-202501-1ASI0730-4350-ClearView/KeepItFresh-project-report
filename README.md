@@ -2662,7 +2662,29 @@ Grafico que muestra la colaboracion del equipo en el desarrollo del backend dura
 
 ### 5.3.2. Registro de Entrevistas
 
+#### Segmento 2: Trabajador de restaurante
 
+###### Información del entrevistado
+
+| Nombre | Apellido | Edad | Distrito   |
+|--------|----------|------|------------|
+| Kaleb  | Frias    | 21   | San Miguel |
+
+![Screenshot 2025-06-19 122523.jpg](assets/Screenshot%202025-06-19%20122523.jpg)
+
+🔗 Enlace al video de la entrevista: https://acortar.link/7lIVhV
+- Duración Total: 13:35 minutos
+- Inicio: 00:01
+
+###### Resumen de entrevista
+
+Durante la sesión de entrevista, el participante resaltó diversos aspectos funcionales que considera esenciales para mejorar la gestión operativa del establecimiento. Mencionó que la sección de reportes automáticos es de gran utilidad, ya que le permite acceder rápidamente a información relevante sin necesidad de generar consultas manuales, lo que optimiza el tiempo de supervisión.
+
+El entrevistado valoró especialmente la integración del módulo de seguimiento de pedidos en tiempo real, destacando que le brinda mayor control sobre el flujo de atención al cliente y ayuda a prevenir retrasos o errores en la cocina. Esta visibilidad, según indicó, tiene un impacto directo en la satisfacción del cliente.
+
+Asimismo, propuso la incorporación de un sistema de historial de clientes frecuentes, que permita personalizar la atención y ofrecer promociones segmentadas. Considera que esta funcionalidad podría fortalecer la fidelización y aumentar la recurrencia de visitas.
+
+En relación con el sistema de reservas, destacó su facilidad de uso y consideró que es una herramienta útil para organizar mejor los turnos y evitar sobrecarga en horas pico. Además, sugirió añadir una vista semanal del calendario para mejorar la planificación anticipada de recursos y personal.
 
 
 ### 5.3.3. Evaluaciones según heurísticas
