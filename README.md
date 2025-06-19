@@ -2506,8 +2506,14 @@ Como se puede ver en la parte de arriba, utilizamos conventional commits y separ
 
 #### 5.2.3.5. Execution Evidence for Sprint 3 Review
 
+- Desarrollo del Backend por medio Rider:
+
+![exe1.png](assets/exe1.png)
 
 
+- Visualizacion de endpoints de la API por medio de Swagger:
+
+![exe2.png](assets/exe2.png)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review (Sprint 3)
 
