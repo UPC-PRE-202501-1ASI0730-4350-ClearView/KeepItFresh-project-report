@@ -781,77 +781,43 @@ Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejo
 
 
 ## 2.4. Ubiquitous Language
-<p style="text-align: justify;">
-El lenguaje ubicuo es una parte fundamental de la estrategia de UX. Esta consiste en el conjunto de términos y frases fuera del contexto de un desarrollador pero que se usan para la lógica de negocio, permitiéndole así al usuario poder leer y entender mejor el proyecto. Aplicar el lenguaje ubicuo (ubiquitous language) en un proyecto consigue los siguientes beneficios:
+En esta sección se presenta un glosario de términos y conceptos fundamentales del dominio, utilizados en el desarrollo de la plataforma KeepItFresh, orientada a mejorar la conservación de alimentos y la eficiencia del servicio en establecimientos gastronómicos. Estas definiciones reflejan el conocimiento compartido entre todos los miembros del equipo y los stakeholders, y permiten mantener una comunicación clara, sin ambigüedades, durante todo el proceso de diseño e implementación.
 
-- **Aumenta la Accesibilidad:**  
-  Un lenguaje claro y conciso es esencial para que la aplicación sea accesible para personas con diferentes niveles de alfabetización y habilidades cognitivas. Esto incluye el uso de terminología sencilla, descripciones precisas y frases directas, lo cual ayuda a eliminar barreras de comprensión y a crear una experiencia más inclusiva.
+Este lenguaje ubicuo ha sido construido con base en entrevistas reales a dueños y trabajadores de restaurantes, y se mantendrá actualizado a medida que evolucione el entendimiento del negocio.
 
-
-- **Facilita el Onboarding de Nuevos Usuarios:**  
-  Un lenguaje consistente y bien estructurado, ayuda a que los nuevos usuarios comprendan rápidamente el funcionamiento de la aplicación. Al utilizar términos intuitivos y mensajes claros, se reduce la curva de aprendizaje y se mejora la adopción inicial del producto.
-
-
-- **Incrementa la Eficiencia en el Desarrollo:**
-  Los equipos de desarrollo pueden trabajar más eficientemente cuando se utiliza un lenguaje compartido y coherente en toda la aplicación. Esto reduce la necesidad de aclaraciones y permite un flujo de trabajo más fluido y menos propenso a errores.
+A continuación, se presentan los términos seleccionados, en inglés, con su equivalente en español entre paréntesis y una definición precisa en español.
 
 ### Glosario
 
-* RestaurantOwner (Dueño Del Restaurante): 
+Expiration Date (Fecha de caducidad):
+Fecha límite en la que un producto alimenticio debe ser consumido para garantizar su seguridad y calidad.
 
-    Persona encargada de la administración general del restaurante. Supervisa el inventario, el personal, la calidad del servicio y toma decisiones operativas clave.
+Spoilage Level (Nivel de descomposición):
+Estado de deterioro de un alimento basado en señales como olor, textura, color o fecha de expiración, que indican que el producto ya no es apto para su consumo.
 
+Food Waste (Desperdicio de alimentos):
+Alimentos descartados por vencimiento, mal estado o mal manejo, que podrían haberse aprovechado si se hubieran gestionado adecuadamente.
 
-* RestaurantStaff (PersonalDelRestaurante): 
+Freshness (Frescura):
+Condición óptima de un alimento, que conserva sus propiedades originales como sabor, textura, aroma y color.
 
-    Conjunto de trabajadores que incluyen mozos, cocineros, encargados de almacén, entre otros. Reciben tareas y ejecutan las operaciones diarias del restaurante.
+Service Call (Llamado de servicio):
+Solicitud realizada por un cliente desde su mesa para recibir atención por parte del personal del restaurante.
 
+Customer Satisfaction (Satisfacción del cliente):
+Grado en el que la experiencia del cliente cumple o supera sus expectativas en relación al servicio recibido.
 
-* Product (Producto): 
+Cold Chain (Cadena de frío):
+Proceso logístico que mantiene los productos perecederos a temperaturas controladas desde su origen hasta su consumo final.
 
-    Insumo alimenticio o material consumible utilizado en el restaurante, como carnes, verduras, condimentos, bebidas o productos de cocina. Cada producto puede tener una fecha de caducidad y condiciones de almacenamiento específicas.
+Shelf Life (Vida útil):
+Periodo durante el cual un alimento conserva sus condiciones de seguridad y calidad, bajo las condiciones adecuadas de almacenamiento.
 
+Inventory Rotation (Rotación de inventario):
+Método de gestión que prioriza el uso de productos con fechas de caducidad más próximas, para reducir el desperdicio y asegurar la frescura.
 
-* Inventory (Inventario): 
-
-    Conjunto de productos registrados y almacenados en el restaurante. Su correcta gestión evita pérdidas, desperdicio y garantiza disponibilidad.
-
-
-* StorageUnit (UnidadDeAlmacenamiento): 
-
-    Espacio físico donde se conservan los productos. Puede ser una nevera, congelador, despensa o zona de temperatura controlada.
-
-
-* ExpirationDate (FechaDeCaducidad): 
-    
-    Fecha límite en la que un producto debe ser utilizado o descartado. Su control es clave para evitar pérdidas y riesgos sanitarios.
-
-
-* ExpirationAlert (AlertaDeCaducidad): 
-
-    Notificación que indica que un producto está por vencer o ya ha vencido, para tomar acción inmediata.
-
-
-* TemperatureMonitoring (MonitoreoDeTemperatura): 
-
-    Proceso que permite verificar que los productos almacenados están a la temperatura adecuada para preservar su calidad.
-
-
-* RealTimeTracking (SeguimientoEnTiempoReal): 
-
-    Visualización instantánea del estado de los productos, inventario, alertas y condiciones de almacenamiento en todo momento.
-
-
-* CustomerAttentionAlert (AlertaDeAtenciónAlCliente): 
-
-    Señal visual o notificación que permite al personal saber cuándo un cliente necesita atención.
-
-
-* WaiterInterface (InterfazDelMozo): 
-
-    Herramienta que utilizan los mozos para recibir alertas, visualizar solicitudes de los clientes y gestionar su atención de forma organizada.
-
-
+Food Safety (Seguridad alimentaria):
+Conjunto de prácticas y medidas que aseguran que los alimentos no representen un riesgo para la salud del consumidor.
 
 # Capitulo III: Requeriments Specification
 
