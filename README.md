@@ -500,8 +500,16 @@ Entrevistas del segmento de dueño de restaurante:
 | Inicio de entrevista | 00:00                                           |    
 | Fin de entrevista    | 06:30                                           |
 
-Resumen de entrevista: Luis Agurto, fundador y gerente general de la cevichería "El Molinero", señaló durante la entrevista que le resultaría altamente beneficioso contar con una aplicación que facilite la gestión de inventario. Aunque actualmente utiliza un método propio para organizar sus productos y alimentos, considera que una solución tecnológica que automatice el control de stock, sugiera ubicaciones óptimas de almacenamiento, genere estadísticas predictivas como alertas sobre posibles faltantes y optimice el trabajo del personal de atención, sería ideal para mejorar la eficiencia operativa del restaurante. Luis nos comenta que le gustaría utilizar la aplicación porque sería algo distinto, innovador y podría facilitar todos los procesos.
+Resumen de entrevista: <br>
+Luis es un emprendedor joven, dinámico y atento al detalle. Dirige su restaurante ubicado en San Borja, donde diariamente supervisa tanto la atención al cliente como el funcionamiento interno del local. El negocio opera con un equipo compuesto por 5 personas en cocina y 3 en el salón. Actualmente, no cuentan con una herramienta digital para el control de inventario, y este se realiza de manera manual, mediante libretas y revisiones visuales.
 
+Luis revisa el stock aproximadamente cada dos días, aunque admite que en temporadas altas este control se vuelve más desordenado. No cuenta con un sistema específico para identificar productos próximos a vencerse o que requieren temperaturas especiales. Ha tenido problemas con productos vencidos en el pasado, lo cual generó pérdidas económicas y quejas de clientes.
+
+Durante los momentos de alta afluencia de público, la coordinación del equipo se vuelve difícil. Aunque intentan organizarse verbalmente, no existe una estrategia estructurada para responder rápido a emergencias. Tampoco emplean sensores, apps ni dispositivos tecnológicos actualmente, aunque reconoce que le gustaría comenzar a digitalizar su negocio.
+
+Imagina una herramienta ideal como una app sencilla que no solo automatice el inventario, sino que también alerte sobre productos en mal estado, controle temperaturas y ayude a mejorar la atención al cliente. Destacó la importancia de las notificaciones automáticas, facilidad de uso y un sistema visual. Luis está abierto a probar nuevas soluciones tecnológicas, siempre que no interfieran con el ritmo natural del restaurante.
+
+Tecnologías y canales usados: Smartphone Android, Google Chrome como navegador principal, redes sociales (Instagram para el restaurante), no usa sensores ni software especializado.
 - Entrevista 2
 
 | Nombre               | Daniel                                  |
@@ -517,9 +525,17 @@ Resumen de entrevista: Luis Agurto, fundador y gerente general de la cevichería
 
 Resumen de entrevista:
 
-Daniel Céspedes, cofundador del restaurante de comida criolla en Miami "El pollo Inka", demostró un alto interés en los beneficios que este contaría con una aplicación o sistema que le ayude a gestionar su inventario. Este comenta que, a pesar de que ellos ya constan con un método para organizar varios de sus productos, esto suele consumir bastante tiempo por parte del personal, por lo cual una aplicación como esta le ayudaría bastante en distribuir mejor las horas para sus trabajadores. Asimismo, el entrevistado deja a remarcar lo importante que es la incorporación de estas tecnologías en cualquier tipo de negocio, y cómo estás ayudan a optimizar el gasto de recursos y tiempo.
+Daniel es un empresario con más de dos décadas de experiencia en el rubro gastronómico. Su restaurante en Miami cuenta con 8 empleados en cocina y 5 en atención al cliente. Tiene una visión más estructurada del negocio y maneja ciertos procesos digitalizados, aunque sigue dependiendo de métodos mixtos.
 
-Entrevista del segmento trabajadores del restaurante
+El control de inventario lo realiza usando hojas de Excel y comunicación constante con su jefe de cocina. Revisa el stock semanalmente y prioriza evitar el desperdicio. Para detectar productos por vencer, se basa en etiquetas manuales y en la experiencia del personal. En el pasado ha tenido inconvenientes con productos fuera de fecha, lo que lo llevó a reforzar los controles.
+
+Durante los momentos de mayor demanda, suele coordinar personalmente con el personal del salón para garantizar una atención fluida. Utiliza radios de comunicación interna, pero reconoce que aún hay margen de mejora. No utiliza sensores ni apps especializadas, aunque está familiarizado con el uso de tablets para pedidos internos.
+
+Daniel imagina una solución tecnológica que se integre a su flujo actual, capaz de automatizar el stock, notificar en tiempo real sobre vencimientos, e incluso facilitar la interacción entre cocina y salón. Considera fundamental que la app sea personalizable, en español e inglés, y con posibilidad de generar reportes. Se mostró interesado en probar un sistema de este tipo, siempre que ofrezca un buen soporte técnico.
+
+Tecnologías y canales usados: Laptop con navegador Firefox, hojas de Excel, tablets, smartphones iOS, sistema de pedidos interno simple (no automatizado).
+
+**Entrevista del segmento trabajadores del restaurante**
 
 - Entrevista 3
 
@@ -535,7 +551,13 @@ Entrevista del segmento trabajadores del restaurante
 
 Resumen de entrevista: 
 
-Kaleb Frias trabaja en un restaurante atendiendo clientes, tomando pedidos y organizando el salón también apoya en la revisión de inventario especialmente bebidas e insumos controlando fechas de vencimiento una vez por semana y a diario para productos de alta rotación ha tenido que desechar productos vencidos en ocasiones durante alta demanda se guía por el lenguaje corporal del cliente para atenderlos y sugiere una app que avise cuando el cliente necesite algo y ayude con el control de stock en tiempo real.
+Kaleb es un joven proactivo y responsable que trabaja en un restaurante mediano ubicado en San Miguel. Durante su turno, realiza tareas mixtas: apoya en cocina, repone productos y ocasionalmente atiende a clientes. A pesar de no tener un rol principal en el manejo de inventario, se le asigna revisar productos y verificar fechas de vencimiento cada dos o tres días. Lo hace visualmente, sin un sistema que lo alerte automáticamente.
+
+Kaleb ha vivido situaciones en las que productos se echaron a perder por falta de revisión o mala conservación, especialmente salsas y productos lácteos. Cuando el restaurante se llena, le resulta difícil identificar si los clientes necesitan atención sin que estos lo llamen directamente. Esto ha generado situaciones incómodas, aunque procura estar siempre atento.
+
+Lo más difícil para él en horas pico es coordinar con sus compañeros sin chocar tareas ni duplicar acciones, ya que no usan ninguna herramienta para distribuir responsabilidades o reportar avances. Le gustaría contar con una app donde pueda recibir alertas, ver el estado del inventario en tiempo real y tener una lista de tareas según su rol diario.
+
+Tecnologías y canales usados: Usa Android, navegador Chrome, TikTok e Instagram como canales de distracción, y WhatsApp para coordinar con su equipo.
 
 - Entrevista 4
 
@@ -551,7 +573,13 @@ Kaleb Frias trabaja en un restaurante atendiendo clientes, tomando pedidos y org
 
 Resumen de entrevista:
 
-Matthew nos dió a conocer un poco sobre como es el hambiente laboral dentro de un resaturante, lo dificil es que a veces satisfacer a todos los clientes en horas donde el restaurante esta en "rush", tambien nos da su opinión positiva sobre nuestro producto. El como mozo si quisiera aumentar su eficiencia mediante la tecnología, con la ayuda de los botones que le comentamos en la entrevista, a la vez nos dió ideas sobre como se podrías mejorar tambien la atención al cliente, siempre desde su experiencia laboral. 
+Matthew es estudiante y trabaja medio tiempo en un restaurante pequeño, donde realiza funciones rotativas. Su principal tarea es la atención al cliente, pero también apoya en cocina y limpieza. Su relación con el inventario es mínima, aunque ocasionalmente revisa productos que están en exhibición o congeladoras. Para saber si algo está por vencer, depende de lo que le diga el encargado o de observar visualmente los productos.
+
+Ha visto cómo se han tenido que desechar productos vencidos por no haber un control constante, especialmente carnes. En días de alta demanda, le cuesta detectar a los clientes que necesitan atención si no levantan la mano o llaman por voz. Esto ha causado demoras en la atención y algunos reclamos.
+
+Para él, una herramienta ideal sería una app que le notifique tareas urgentes, indique si hay productos en mal estado, o incluso si una mesa necesita atención. Le gustaría algo simple y rápido de usar, ya que no puede distraerse mucho del ritmo del trabajo.
+
+Tecnologías y canales usados: Usa iPhone, navegador Safari, aplicaciones como Telegram y WhatsApp, no tiene acceso a computadoras en el restaurante.
 
 - Entrevista 5
 
@@ -567,7 +595,13 @@ Matthew nos dió a conocer un poco sobre como es el hambiente laboral dentro de 
 
 Resumen de entrevista: 
 
-Durante la entrevista, Diego, trabajador de un restaurante, explicó que una de sus principales tareas es verificar que los productos estén en buen estado y disponibles antes del inicio del servicio, priorizando aquellos de mayor rotación. Señaló que en horas de alta demanda, como el almuerzo o la cena, se generan situaciones de presión que afectan la eficiencia y la atención al cliente. Además, mencionó la dificultad de identificar productos próximos a vencer, lo que puede generar pérdidas. Destacó que una herramienta tecnológica que alerte automáticamente sobre fechas de caducidad y facilite la organización del trabajo sería de gran utilidad para optimizar tiempos, reducir desperdicios y mejorar la experiencia del cliente.
+Diego trabaja como ayudante de cocina en un restaurante local y muestra una actitud entusiasta y colaborativa. Durante su turno, se encarga de limpiar, preparar ingredientes, y ayudar con pedidos. No tiene un rol directo en la gestión del stock, pero a veces le piden que revise la refrigeradora para asegurarse de que todo esté en orden. Lo hace manualmente, y reconoce que más de una vez ha encontrado productos en mal estado o vencidos.
+
+Recuerda incidentes en los que se sirvieron productos vencidos sin darse cuenta, lo cual generó reclamos. En horas de alta demanda, su mayor dificultad es organizarse con el resto del equipo sin pisarse tareas, ya que no hay una estructura clara ni herramientas que faciliten la comunicación rápida.
+
+Diego imagina una app que tenga una interfaz sencilla, donde pueda ver lo que necesita hacer, si hay productos en riesgo, y notificaciones instantáneas. También cree que sería útil que el sistema ayude a saber qué productos usar primero (por fecha) y que indique si una mesa requiere asistencia.
+
+Tecnologías y canales usados: Usa un smartphone Android básico, navegador Chrome, redes sociales como Facebook Lite y Messenger, además de llamadas y mensajes para comunicarse con compañeros.
 
 ### 2.2.3. Análisis de entrevistas
 
