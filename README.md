@@ -2387,7 +2387,31 @@ Finalmente, esta imagen muestra las ramas de desarrollo (feature branches) cread
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
+
+| **Campo**                          | **Sprint 3**                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                       | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Date**                           | 2025/06/04                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Time**                           | 6:50 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Location**                       | Google Meet                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Prepared by**                    | Ayrton Omar Briceño Llanos                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Attendees (to meeting)**         | - Pedro Andre Guia Carrasco<br>- Werner Khalil Lang Nassi<br>- Marco Antonio Nakasone Gomes<br>- Ernesto Rodas Sotomayor                                                                                                                                                                                                                                                                                                                                                           |
+| **Sprint 3 Review Summary**        | Este fue el tercer sprint realizado por el equipo.                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Sprint 3 Retrospective Summary** | Acuerdo de comenzar con el desarrollo del back-end del sistema KeepItFresh.                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Sprint 3 Goal**                  | Nos centramos en desarrollar una aplicación para la gestión de inventario en restaurantes. Creemos que esto permitirá a los meseros y dueños de restaurante a mejorar el manejo de sus actividades al añadir sensores IOT, un registro de ordenes para visualizar sus pedidos y una sección de inventario para que registren sus productos y tener un control de ellos. Esto se confirmará cuando los miembros y dueños del restaurante puedan utilizar el frontend sin problemas. |
+| **Sprint 3 Velocity**              | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Sum of Story Points**            | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
 #### 5.2.3.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name)       | GitHub Username | Inventory (L/C) | Order (L/C) | Profile  (L/C) | Sensors (L/C) | Subscriptions (L/C) |
+|-------------------------------------------|------------------|-----------------|-------------|----------------|---------------|---------------------
+| Briceño Llanos, Ayrton Omar               | AyrtonBriceno    | (C)             | (C)         | (L)            | (C)           | (C)                 |    
+| Guia Carrasco, Pedro Andre                | Pedrivizz        | (L)             | (C)         | (C)            | (C)           | (C)                 |                  
+| Lang Nassi, Werner Khalil                 | 00WernerLang     | (C)             | (L)         | (C)            | (C)           | (C)                 |                 
+| Nakasone Gomes, Marco Antonio             | marquinho04      | (C)             | (C)         | (C)            | (L)           | (C)                 |                   
+| Rodas Sotomayor, Ernesto                  | ernesto0710      | (C)             | (C)         | (C)            | (C)           | (L)                 |
+
 #### 5.2.3.3. Sprint Backlog 3
 #### 5.2.3.4. Development Evidence for Sprint 3 Review
 #### 5.2.3.5. Execution Evidence for Sprint 3 Review
@@ -2395,6 +2419,11 @@ Finalmente, esta imagen muestra las ramas de desarrollo (feature branches) cread
 #### 5.2.3.7. Software Deployment Evidence for Sprint 3 Review
 #### 5.2.3.8. Team Collaboration Insights during Sprint 3
 
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+### 5.3.2. Registro de Entrevistas
+### 5.3.3. Evaluaciones según heurísticas
+## 5.4. Video About-the-Product
 
 ## Conclusiones y recomendaciones
 
@@ -2430,8 +2459,6 @@ pudieron aportar sus ideas y enfoques. La planificación de tareas y la asignaci
 avance organizado, manteniendo el enfoque en los objetivos comunes. Gracias a la comunicación constante y a la 
 resolución conjunta de problemas, se alcanzaron avances importantes que nos mantienen alineados hacia el cumplimiento 
 de nuestras metas. Este enfoque colaborativo continuará siendo esencial en las próximas etapas del proyecto.
-
-
 
 
 ## Video About-the-Team
