@@ -81,6 +81,15 @@ TP: Se completaron las tareas previstas para la entrega del TP, y se documentaro
 
 ![commit2.jpeg](assets/commit2.jpeg)
 
+TB2: Las tareas asignadas para la entrega del TB2 se completaron y se documentaron adecuadamente en el repositorio de GitHub del equipo.
+
+* Los contenidos asignados a cada integrante fueron preparados y estructurados en formato Markdown.
+* Se realizaron commits para garantizar el seguimiento del progreso en el repositorio.
+* Se crearon los artefactos necesarios utilizando las herramientas recomendadas.
+* Se mantuvieron reuniones para coordinar el avance de los componentes del informe.
+
+![insights.png](assets/insights.png)
+
 # Contenido
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)  
 [Project Report Collaboration Insights](#project-report-collaboration-insights)  
