@@ -2606,59 +2606,60 @@ Grafico que muestra la colaboracion del equipo en el desarrollo del backend dura
 ![contribudores.png](assets/contribudores.png)
 
 ## 5.3. Validation Interviews
+
+Esta sección está enfocada a registrar y explicar las acciones realizadas para las entrevistas de validación de cada segmento objetivo.
+
 ### 5.3.1. Diseño de Entrevistas
 
-# 📝 Entrevista de Usuario - Keep It Fresh
+#### Segmento 1: Dueños de restaurantes
+Para este segmento se diseñó una sesión de validación enfocada en evaluar el entendimiento general de la propuesta, la claridad en la comunicación de valor y la utilidad de las funcionalidades clave para la gestión del negocio. La entrevista combinó navegación autónoma por la Landing Page y una interacción guiada con la aplicación web desplegada.
 
----
+Elementos incluidos en la sesión
+- Landing Page: El entrevistado exploró las secciones informativas orientadas a comunicar los beneficios del producto. Se validó la claridad de los textos, el impacto visual, la estructura de la información, y la efectividad del mensaje general.
 
-## 1. INTRODUCCIÓN
+- Aplicación Web: Se mostró la versión funcional de la plataforma, permitiendo recorrer los módulos principales desde la perspectiva de gestión: suscripciones, control de pagos, seguimiento de beneficios, y visualización de métricas del negocio.
 
-- **¿Cuál es tu nombre y a qué te dedicas actualmente?**
+User Flows validados
+- Dashboard:
+Revisión de los gráficos informativos sobre ingresos, suscripciones activas y servicios contratados.
 
-- **¿Tienes experiencia usando aplicaciones web para gestionar suscripciones, membresías o pedidos?**
+- Gestión de suscripciones:
+Consulta del estado actual del plan contratado y facilidad para visualizar detalles asociados.
 
-- **¿Qué herramientas usas actualmente (si alguna) para gestionar tus pagos, pedidos o planes de consumo?**
+- Pagos y beneficios:
+Seguimiento de los pagos mensuales, alertas de vencimiento y beneficios disponibles según el plan.
 
----
+- Configuración de cuenta:
+Edición de datos personales y actualización del método de pago.
 
-## 🖥 2. LANDING PAGE (Post Despliegue)
+### Objetivo de la sesión
+Validar si la plataforma comunica de forma clara su propuesta de valor, y si las funcionalidades disponibles son percibidas como herramientas útiles y confiables para la gestión operativa. También se exploró el nivel de interés en adoptar la solución dentro de su restaurante, y se identificaron oportunidades de mejora para versiones futuras.
 
-- **¿Qué entendiste que ofrece el proyecto Keep It Fresh?**
+#### Segmento 2: Trabajadores de restaurante
+En este segmento, la sesión de validación se centró en evaluar la facilidad de uso de la aplicación desde la perspectiva del personal operativo, así como la utilidad de las funcionalidades para mejorar su organización y eficiencia en el trabajo diario.
 
-- **¿Qué aspecto de la plataforma llamó más tu atención en la página de inicio?**
+Elementos incluidos en la sesión<br>
+- Landing Page:
+Breve navegación por la página de inicio para obtener una idea general del propósito del sistema.
 
-- **¿Qué mejorarías o qué crees que debería explicarse mejor en la landing para captar más tu interés?**
+- Aplicación Web:
+Demostración práctica de la plataforma enfocada en las tareas que el trabajador podría realizar o consultar: visualización de turnos, registro de actividades, seguimiento de pedidos y beneficios.
 
-- **¿Crees que la página comunica bien el valor del producto?**
+User Flows validados
+- Inicio de sesión y navegación general:
+Validación de la facilidad para acceder y moverse dentro de la aplicación.
 
----
+- Visualización de beneficios del plan del restaurante:
+Acceso a los servicios que ofrece el sistema al trabajador como parte del plan contratado por el restaurante.
 
-## 🌐 3. FRONTEND WEB APP (Post Demostración/Interacción)
+- Seguimiento de tareas asignadas o consumo de recursos (si aplica):
+Revisión de funcionalidades que podrían usarse para registrar o consultar avances del día a día.
 
-- **¿Qué tan fácil fue navegar dentro de la aplicación?**
+- Notificaciones:
+Validación de alertas visibles para recordar tareas, beneficios disponibles u otra información útil.
 
-- **¿Pudiste registrar o consultar tus datos de suscripción sin problemas?**
-
-- **¿Te resultó claro el estado actual de tu suscripción y los servicios asociados?**
-
-- **¿Sentiste que la aplicación te ayudó a tener una mejor organización o control sobre tus pagos o beneficios?**
-
-- **¿Qué funcionalidades encontraste más útiles? ¿Y cuáles te parecieron confusas o innecesarias?**
-
-- **¿Cómo calificarías la interfaz en cuanto a claridad y diseño?**
-
-- **¿Consideras que esta aplicación te sería útil en tu rutina mensual/semanal?**
-
-- **¿Confiarías en esta herramienta para llevar el control de tus servicios contratados?**
-
----
-
-## 🌟 Experiencia General
-
-- **¿Qué es lo que más te gustó de la experiencia con Keep It Fresh?**
-
-- **¿Qué aspectos mejorarías o te gustaría ver en futuras versiones?**
+### Objetivo de la sesión
+Observar cómo los trabajadores perciben la aplicación en cuanto a claridad, utilidad y facilidad de uso. Se buscó identificar qué tan intuitiva resulta la interfaz para usuarios sin experiencia técnica y si ven valor en utilizarla como parte de su rutina laboral.
 
 ### 5.3.2. Registro de Entrevistas
 
@@ -2670,25 +2671,97 @@ Grafico que muestra la colaboracion del equipo en el desarrollo del backend dura
 |--------|----------|------|------------|
 | Kaleb  | Frias    | 21   | San Miguel |
 
-![Screenshot 2025-06-19 122523.jpg](assets/Screenshot%202025-06-19%20122523.jpg)
+![entrevista_pedro.jpg](assets/entrevista_pedro.jpg)
 
 🔗 Enlace al video de la entrevista: https://acortar.link/7lIVhV
 - Duración Total: 13:35 minutos
 - Inicio: 00:01
 
+
+###### Información del entrevistado
+
+| Nombre | Apellido  | Edad | Distrito    |
+|--------|-----------|------|-------------|
+| Moises   | Sotomayor | 22   | Miraflores  |
+
+![ernesto_entrevista.jpg](assets/ernesto_entrevista.jpg)
+
+🔗 Enlace al video de la entrevista: https://acortar.link/xsGij6
+- Duración Total: 10:55 minutos
+- Inicio: 00:01
+
 ###### Resumen de entrevista
 
-Durante la sesión de entrevista, el participante resaltó diversos aspectos funcionales que considera esenciales para mejorar la gestión operativa del establecimiento. Mencionó que la sección de reportes automáticos es de gran utilidad, ya que le permite acceder rápidamente a información relevante sin necesidad de generar consultas manuales, lo que optimiza el tiempo de supervisión.
+Durante la sesión de validación, el entrevistado —encargado de tareas operativas en un restaurante— exploró la plataforma Keep It Fresh con una actitud receptiva y curiosa. Señaló que la aplicación le pareció intuitiva y fácil de navegar, incluso sin contar con experiencia previa en el uso de plataformas digitales similares.
 
-El entrevistado valoró especialmente la integración del módulo de seguimiento de pedidos en tiempo real, destacando que le brinda mayor control sobre el flujo de atención al cliente y ayuda a prevenir retrasos o errores en la cocina. Esta visibilidad, según indicó, tiene un impacto directo en la satisfacción del cliente.
+Uno de los elementos que más valoró fue la claridad en la visualización de beneficios activos, ya que le permite saber con precisión qué servicios tiene disponibles según el plan contratado por el restaurante. Esto le genera mayor seguridad y autonomía al momento de aprovechar los recursos ofrecidos por el sistema.
 
-Asimismo, propuso la incorporación de un sistema de historial de clientes frecuentes, que permita personalizar la atención y ofrecer promociones segmentadas. Considera que esta funcionalidad podría fortalecer la fidelización y aumentar la recurrencia de visitas.
+También destacó la sección de notificaciones, que considera útil para mantenerse informado sobre posibles actualizaciones, vencimientos o tareas relacionadas con su rutina diaria. Sugirió incorporar notificaciones personalizadas por rol (por ejemplo, alertas dirigidas específicamente a cocina, limpieza o servicio).
 
-En relación con el sistema de reservas, destacó su facilidad de uso y consideró que es una herramienta útil para organizar mejor los turnos y evitar sobrecarga en horas pico. Además, sugirió añadir una vista semanal del calendario para mejorar la planificación anticipada de recursos y personal.
+Respecto al diseño general, el entrevistado lo calificó como ordenado y fácil de entender. Afirmó que le gustaría contar con una funcionalidad adicional para registrar el uso de ciertos servicios o productos, ya que eso facilitaría la comunicación interna y permitiría llevar un mejor control de lo que se consume en el día a día.
 
+La sesión permitió validar que la aplicación tiene un enfoque accesible para usuarios sin perfil técnico, y que efectivamente contribuye a mejorar la organización y el aprovechamiento de beneficios por parte del personal operativo. El entrevistado mencionó que sí utilizaría esta herramienta en su rutina laboral si estuviera disponible en su restaurante.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+Site o App a evaluar: KeepItFresh
+
+Incluidas en esta evaluación
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+
+Escala de severidad:
+
+| Nivel | Descripción                                                                                                                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                     |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente    reléase |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                   |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                 |
+
+Tabla Resumen:
+
+| # |                               Problema detectado                              | Severidad |              Heurística/Principio violado              |
+|::|:-----------------------------------------------------------------------------:|:---------:|:------------------------------------------------------:|
+| 1 |  |          |              |
+| 2 |  |          |              |
+| 3 |  |          |              |
+
+
+Problema #1
+Severidad: 
+
+Heurística violada: 
+
+Observación
+
+
+(incluir imagen de prueba)
+
+Recomendación
+
+
+PROBLEMA #2
+Severidad: 
+
+Heurística violada: 
+
+Observación
+
+
+Recomendación
+
+PROBLEMA #3
+
+Severidad: 
+
+Heurística violada: 
+
+Observación
+
+
+Recomendación
 
 
 ## 5.4. Video About-the-Product
