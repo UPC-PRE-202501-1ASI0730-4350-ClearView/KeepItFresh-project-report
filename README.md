@@ -2718,65 +2718,73 @@ En general, el entrevistado expresó que la aplicación tiene potencial para fac
 
 ### 5.3.3. Evaluaciones según heurísticas
 
-Site o App a evaluar: KeepItFresh
+# Evaluación Heurística de Usabilidad - KeepItFresh
 
-Incluidas en esta evaluación
+## Escala de Severidad
 
-No están incluidas en esta versión de la evaluación las siguientes tareas:
+| Nivel | Descripción                                                                                                                                                                                        |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                     |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.   |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta.                                      |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                |
 
+---
 
-Escala de severidad:
+## Tabla Resumen
 
-| Nivel | Descripción                                                                                                                                                                                       |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                     |
-| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente    reléase |
-| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                   |
-| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                 |
+| #  | Problema detectado                                                                  | Severidad | Heurística/Principio violado                            |
+|----|--------------------------------------------------------------------------------------|-----------|----------------------------------------------------------|
+| 1  | Falta de retroalimentación clara al realizar una acción (como enviar un formulario) | 3         | Visibilidad del estado del sistema                      |
+| 2  | Botones poco intuitivos o sin etiquetas descriptivas claras                         | 2         | Reconocimiento antes que memorización                   |
+| 3  | No hay mensajes de error claros o ayuda para recuperar de errores                   | 3         | Ayuda a los usuarios a reconocer, diagnosticar y resolver errores |
 
-Tabla Resumen:
+---
 
-| # |                               Problema detectado                              | Severidad |              Heurística/Principio violado              |
-|::|:-----------------------------------------------------------------------------:|:---------:|:------------------------------------------------------:|
-| 1 |  |          |              |
-| 2 |  |          |              |
-| 3 |  |          |              |
+## Problema #1
 
+- **Severidad:** 3
+- **Heurística violada:** Visibilidad del estado del sistema
 
-Problema #1
-Severidad: 
+### Observación
 
-Heurística violada: 
+Al completar acciones importantes como el registro, la compra o el envío de un formulario de contacto, no hay una señal clara (como un mensaje o animación) que indique que la acción fue procesada con éxito. Esto puede generar confusión o llevar al usuario a repetir la acción innecesariamente.
 
-Observación
+### Recomendación
 
+Agregar notificaciones visuales o mensajes de confirmación inmediatos y accesibles (por ejemplo, un *toast message*, o un banner en pantalla). Incluir indicadores de carga cuando se ejecutan acciones asincrónicas.
 
-(incluir imagen de prueba)
+---
 
-Recomendación
+## Problema #2
 
+- **Severidad:** 2
+- **Heurística violada:** Reconocimiento antes que memorización
 
-PROBLEMA #2
-Severidad: 
+### Observación
 
-Heurística violada: 
+Algunos botones en la interfaz no tienen etiquetas claras. Por ejemplo, iconos como el carrito de compras o el ícono de perfil pueden no ser comprendidos fácilmente por todos los usuarios, especialmente los menos tecnológicos.
 
-Observación
+### Recomendación
 
+Agregar etiquetas o *tooltips* al pasar el cursor sobre los iconos. También se puede optar por incluir texto junto a los íconos para reforzar el significado de cada uno.
 
-Recomendación
+---
 
-PROBLEMA #3
+## Problema #3
 
-Severidad: 
+- **Severidad:** 3
+- **Heurística violada:** Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de los errores
 
-Heurística violada: 
+### Observación
 
-Observación
+Cuando ocurre un error (por ejemplo, al dejar campos vacíos o escribir mal el correo), los mensajes son genéricos (“Ha ocurrido un error”) o están ausentes. Esto hace difícil para el usuario entender qué hizo mal y cómo solucionarlo.
 
+### Recomendación
 
-Recomendación
+Incluir mensajes de error específicos por campo, en un lenguaje claro y humano. Por ejemplo: “El correo electrónico ingresado no tiene un formato válido” o “Este campo es obligatorio”.
 
+---
 
 ## 5.4. Video About-the-Product
 
