@@ -2902,7 +2902,7 @@ Link de la Organización ClearView:
 | Vídeo Sprint 2          | https://acortar.link/wPFcyD           |
 | Vídeo Sprint 3          |                                       |
 | Vídeo About the Product |                                       |
-| Vídeo About the Team    |                                       |
+| Vídeo About the Team    | https://acortar.link/CSOkTt           |
 
 ### Anexo E. Entrevistas
 
