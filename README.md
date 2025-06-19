@@ -298,6 +298,13 @@ inventario, así como a la falta de visibilidad y datos concretos sobre el estad
 * KeepItFresh tendrá el alcance de resolver esta problemática a todo aquel restaurante que compre sus servicios.
 
 ### 1.2.2. Lean UX Process
+En esta sección se aplica el enfoque Lean UX para alinear el desarrollo del producto con las necesidades reales del
+negocio y los usuarios. Se define la visión del modelo de negocio que respaldará el software, abarcando elementos 
+clave como los Problem Statements (con información sobre el dominio, segmentos de clientes, puntos de dolor, brechas, 
+visión y estrategia), así como las suposiciones (Assumptions) y las hipótesis (Hypothesis Statements) iniciales. 
+La sección concluye con la elaboración del Lean UX Canvas, herramienta central para guiar el proceso iterativo
+de diseño enfocado en generar valor desde las primeras etapas.
+
 #### 1.2.2.1. Lean UX Problem Statements
 
 En el entorno laboral actual, los restaurantes enfrentan dificultades para monitorear y gestionar su inventario de manera efectiva. Esto debido a la falta de herramientas adecuadas y el trabajo tedioso que esto suele ser, para hacerlo de forma continua y detallada. Lo cual da a una falta de visibilidad y datos concretos, lo cual lleva a gastos innecesarios con el inventario y posibilidad de descomposición de alimentos.<br>
@@ -412,6 +419,10 @@ KeepItFresh es una plataforma enfocada en los dos segmentos clave dentro de un r
 # Capitulo II: Requeriments Elicitation & Analysis
 
 ## 2.1. Competidores 
+En esta sección se identifican y analizan los principales competidores del producto, considerando tanto 
+competidores directos con modelos de negocio digitales similares como competidores indirectos, cuyas ofertas 
+cubren parcialmente las mismas necesidades del mercado objetivo. Se describen al menos tres competidores, 
+evaluando sus propuestas de valor, fortalezas, debilidades y su impacto en el posicionamiento del producto propio.
 
 ### 2.1.1. Análisis competitivo
 
@@ -702,6 +713,13 @@ podrían no haber obtenido votos en esta pequeña muestra de tres respuestas
 ![brands.png](assets/brands.png)
 
 ## 2.3. Needfinding 
+
+Esta sección presenta los resultados del proceso de análisis de la información recolectada sobre los usuarios
+y sus necesidades. Se incluyen artefactos clave como las User Personas, que representan perfiles de usuarios típicos; 
+la User Task Matrix, que organiza las tareas según su importancia y frecuencia; los User Journey Maps, que trazan la
+experiencia del usuario; el Empathy Mapping, que profundiza en sus emociones y motivaciones; y el As-Is Scenario Mapping,
+que describe cómo los usuarios actualmente enfrentan sus problemas. Estos elementos permiten comprender mejor el
+contexto del usuario y fundamentar decisiones de diseño centradas en él.
 
 ### 2.3.1. User Personas
 En esta sección, se incluyen las fichas de User Personas que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competencia, con el objetivo de capturar las caracteristicas, necesidades, y comportamientos de nuestros usuarios.
@@ -1156,6 +1174,11 @@ Entre los principales elementos de navegación se incluyen:
 La navegación está pensada para adaptarse a distintos perfiles de usuario (desde supervisores hasta personal operativo), minimizando la curva de aprendizaje y permitiendo que cada uno complete sus tareas sin distracciones ni confusión. Además, se garantiza que todos los elementos sean accesibles tanto desde desktop como dispositivos móviles, siguiendo principios de diseño responsive.
 
 ## 4.3. Landing Page UI Design
+En esta sección se presenta la propuesta de diseño de interfaz de usuario para la Landing Page del producto. 
+Se inicia con una introducción donde se explica cómo las decisiones de diseño visual y arquitectura de la información 
+se traducen en una experiencia clara, atractiva y funcional para el usuario. La propuesta busca reflejar la identidad 
+del producto, captar la atención de los visitantes y facilitar la comprensión de su valor desde el primer contacto.
+
 ### 4.3.1. Landing Page Wireframe
 **Landing Page para Desktop Web Browser**
 
@@ -1212,6 +1235,12 @@ Igualmente gracias a los wireframes pudimos ver como quedaría en un mobile web 
 ![mmu-5.png](assets/mmu-5.png)
 
 ## 4.4. Web Applications UX/UI Design
+En esta sección se expone la propuesta visual y de interacción para las aplicaciones web que conforman
+la experiencia del usuario con el producto digital. Se detallan los elementos de diseño de interfaz (UI) y
+experiencia de usuario (UX), considerando la coherencia visual, la usabilidad, y la facilidad de navegación. 
+Cada propuesta busca responder a las necesidades identificadas de los usuarios,
+manteniendo alineación con los objetivos del negocio y la identidad del producto.
+
 ### 4.4.1. Web Applications Wireframes
 Los wireframes de la plataforma web KeepItFresh muestran la estructura funcional pensada para ayudar a propietarios y gestores a mantener un control eficiente sobre su inventario con sensores inteligentes. Incluyen:
 
@@ -1277,6 +1306,11 @@ Como dueño de restaurante, deseo generar reportes de ventas y exportarlos en fo
 ![exportar.png](assets/exportar.png)
 
 ### 4.4.3. Web Applications Mock-ups
+Esta sección presenta los mock-ups de las aplicaciones web, acompañados de una explicación que evidencia 
+la aplicación de principios de diseño, elementos visuales, criterios de diseño inclusivo y una adecuada 
+arquitectura de información. Además, se muestra cómo se ha incorporado el Design System definido para garantizar 
+coherencia y escalabilidad en los productos digitales. Los mock-ups fueron elaborados utilizando las herramientas 
+recomendadas, reflejando una propuesta visual sólida y centrada en la experiencia del usuario.
 
 ![pmu-1.png](assets/pmu-1.png)
 
@@ -1336,6 +1370,8 @@ Hemos hecho un bosquejo de nuestro prototipo de web en figma
 ![proto.png](assets/proto.png)
 
 ## 4.6. Domain-Driven Software Architecture
+En esta sección se desarrolla la arquitectura de software basada en el enfoque Domain-Driven Design (DDD), centrada en modelar el dominio del problema con precisión y alineación al negocio. Se identifican los Bounded Contexts, las entidades, agregados, servicios del dominio, repositorios y eventos relevantes, promoviendo una separación clara de responsabilidades. Esta arquitectura permite que el sistema evolucione de forma coherente con las reglas del dominio, facilitando la escalabilidad, el mantenimiento y la colaboración entre equipos técnicos y expertos del negocio.
+
 ### 4.6.1. Software Architecture Context Diagram
 En el diagrama de contexto se presenta cómo los usuarios, que incluyen a dueños de restaurantes y trabajadores, interactúan tanto con nuestro software. Además, se incluyen los sistemas externos que utilizaría KeepItFresh.
 
@@ -1388,6 +1424,7 @@ Controla productos. El Inventory Controller ofrece APIs para consultar stock.
 El Query Service obtiene datos, y el repositorio los actualiza en la base de datos.
 
 ## 4.7. Software Object-Oriented Design
+En esta sección se presenta el diseño orientado a objetos del software, donde se definen las clases, sus responsabilidades y relaciones, siguiendo principios fundamentales como la encapsulación, herencia, abstracción y polimorfismo. El diseño busca garantizar la modularidad, reutilización y mantenibilidad del sistema, apoyándose en patrones de diseño y buenas prácticas de modelado. Se incluyen diagramas (como diagramas de clases) que reflejan la estructura lógica del software y su alineación con los requerimientos funcionales.
 
 ### 4.7.1. Class Diagrams
 
@@ -1397,7 +1434,7 @@ El diagrama de clases del sistema KeepItFresh refleja una arquitectura orientada
 
 ### 4.7.2. Class Dictionary
 
-**User**: CLase que representa a un usuario del sistema.
+**User**: Clase que representa a un usuario del sistema.
 
 | **Atributo** | **Tipo** | **Descripción**                                |
 |--------------|----------|------------------------------------------------|
@@ -1541,6 +1578,8 @@ El diagrama de clases del sistema KeepItFresh refleja una arquitectura orientada
 | `validateUser(username, oldPass, newPass)` | bool     | Valida usuario y actualiza la contraseña. |
 
 ## 4.8. Database Design
+En esta sección se presenta el diseño de la base de datos que soporta el funcionamiento del sistema, alineado con los modelos del dominio y los requerimientos funcionales. Se definen las entidades, relaciones, claves primarias y foráneas, así como las restricciones necesarias para garantizar la integridad de los datos. El diseño busca eficiencia, escalabilidad y facilidad de mantenimiento, considerando tanto el modelo lógico como el modelo físico de la base de datos. Se incluyen diagramas (como el modelo entidad-relación) para representar visualmente la estructura y organización de los datos.
+
 ### 4.8.1. Database Diagram
 
 ![database-design.png](assets/database-design.png)
@@ -1550,6 +1589,10 @@ El modelo de la estructura relacional del sistema KeepItFresh, orientado a la ge
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
+En esta sección se detalla la estrategia de gestión de la configuración del software, la cual garantiza el control de versiones, la trazabilidad de cambios y la colaboración eficiente durante el desarrollo del proyecto. Se describen las herramientas utilizadas para el control de versiones (como Git), las ramas establecidas (branching strategy), políticas de integración continua, así como los mecanismos para la revisión de código, documentación y manejo de entregables. Esta gestión permite mantener la consistencia del proyecto a lo largo del ciclo de vida del desarrollo y facilita la coordinación entre los miembros del equipo.
+
+
+
 ### 5.1.1. Software Development Environment Configuration
 
 En esta sección se proporcionan los enlaces a las aplicaciones y productos de software que utilizaremos durante el desarrollo del proyecto.
