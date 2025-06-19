@@ -2682,7 +2682,7 @@ Observar cómo los trabajadores perciben la aplicación en cuanto a claridad, ut
 
 | Nombre | Apellido  | Edad | Distrito    |
 |--------|-----------|------|-------------|
-| Moises   | Sotomayor | 22   | Miraflores  |
+| Moises   | Sotomayor | 20   | Miraflores  |
 
 ![ernesto_entrevista.jpg](assets/ernesto_entrevista.jpg)
 
@@ -2690,17 +2690,31 @@ Observar cómo los trabajadores perciben la aplicación en cuanto a claridad, ut
 - Duración Total: 10:55 minutos
 - Inicio: 00:01
 
+
+###### Información del entrevistado
+
+| Nombre | Apellido | Edad | Distrito    |
+|--------|----------|------|-------------|
+| Adrian      | Guevara      | 19   | Jesus María |
+
+![entrevista2ernesto.jpg](assets/entrevista2ernesto.jpg)
+
+🔗 Enlace al video de la entrevista: https://acortar.link/oEwqON
+- Duración Total: 8:19 minutos
+- Inicio: 00:01
+
+
 ###### Resumen de entrevista
+Durante la sesión de validación, el entrevistado manifestó que la plataforma Keep It Fresh le pareció fácil de usar y bien organizada. Destacó que, a pesar de no estar acostumbrado a utilizar aplicaciones web en su trabajo diario, pudo entender rápidamente la estructura y funciones de la herramienta sin necesidad de asistencia adicional.
 
-Durante la sesión de validación, el entrevistado —encargado de tareas operativas en un restaurante— exploró la plataforma Keep It Fresh con una actitud receptiva y curiosa. Señaló que la aplicación le pareció intuitiva y fácil de navegar, incluso sin contar con experiencia previa en el uso de plataformas digitales similares.
+Uno de los módulos que más llamó su atención fue el de visualización de beneficios, ya que le permite saber con claridad qué servicios puede aprovechar gracias al plan del restaurante. Consideró que esta información le brinda mayor independencia y entendimiento sobre los recursos disponibles.
 
-Uno de los elementos que más valoró fue la claridad en la visualización de beneficios activos, ya que le permite saber con precisión qué servicios tiene disponibles según el plan contratado por el restaurante. Esto le genera mayor seguridad y autonomía al momento de aprovechar los recursos ofrecidos por el sistema.
+También valoró la presencia del módulo de notificaciones, el cual consideró útil para recibir recordatorios sobre fechas clave o cambios importantes. Sugirió que sería conveniente incluir mensajes más personalizados dependiendo del tipo de usuario o área de trabajo.
 
-También destacó la sección de notificaciones, que considera útil para mantenerse informado sobre posibles actualizaciones, vencimientos o tareas relacionadas con su rutina diaria. Sugirió incorporar notificaciones personalizadas por rol (por ejemplo, alertas dirigidas específicamente a cocina, limpieza o servicio).
+En cuanto al diseño, lo describió como limpio y fácil de interpretar, destacando que los íconos y botones tienen una distribución lógica. Comentó que una posible mejora sería incorporar una sección donde los trabajadores puedan comunicar incidencias o necesidades al área administrativa desde la misma plataforma.
 
-Respecto al diseño general, el entrevistado lo calificó como ordenado y fácil de entender. Afirmó que le gustaría contar con una funcionalidad adicional para registrar el uso de ciertos servicios o productos, ya que eso facilitaría la comunicación interna y permitiría llevar un mejor control de lo que se consume en el día a día.
+En general, el entrevistado expresó que la aplicación tiene potencial para facilitar la organización interna del restaurante y que estaría dispuesto a utilizarla regularmente si se integra al sistema de trabajo actual.
 
-La sesión permitió validar que la aplicación tiene un enfoque accesible para usuarios sin perfil técnico, y que efectivamente contribuye a mejorar la organización y el aprovechamiento de beneficios por parte del personal operativo. El entrevistado mencionó que sí utilizaría esta herramienta en su rutina laboral si estuviera disponible en su restaurante.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
